@@ -1,0 +1,52 @@
+name: Compile autoresponder lambda
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
+    paths:
+      - "lambdas/email-autoresponder/src/**"
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+      - name: Install dependencies
+        run: |
+          cd lambdas/email-autoresponder/src
+          pip install -r requirements.txt
+          pip install -r requirements-dev.txt
+      - name: Test with pytest
+        run: |
+          cd lambdas/email-autoresponder/src
+          pytest --doctest-modules --junitxml=test-results.xml
+      - name: Upload pytest test results
+        uses: actions/upload-artifact@v3
+        with:
+          name: pytest-results
+          path: lambdas/email-autoresponder/src/test-results.xml
+        if: ${{ always() }}
+      - name: Create lambda deployment package
+        shell: bash
+        run: |
+          cd lambdas/email-autoresponder/src
+          mkdir package
+          pip install --target ./package -r requirements.txt
+          cd package
+          zip -r ../email-autoresponder.zip .
+          cd ..
+          zip email-autoresponder.zip handler.py
+          zip email-autoresponder.zip emails.py
+          zip email-autoresponder.zip emails.yaml
+      - name: Copy lambda to s3
+        uses: prewk/s3-cp-action@v2
+        with:
+          aws_access_key_id: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_ID }}
+          aws_secret_access_key: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_SECRET }}
+          source: './lambdas/email-autoresponder/src/email-autoresponder.zip'
+          dest: 's3://rq-arg-lambda-packages-eu-west-1'

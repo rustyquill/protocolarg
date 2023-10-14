@@ -1,0 +1,53 @@
+---
+layout: "default"
+script: index.js
+glitch: false
+---
+
+<div class="d-flex justify-content-center">
+  <div class="window" style="width: 640px">
+    <div class="title-bar">
+      <div class="title-bar-text">Search The Magnus Institute Digital Archive Symbol Search</div>
+    </div>
+    <div class="window-body">
+
+      <h3>
+        Select up to 10 symbols to lookup.
+      </h3>
+      <form id="searchForm" >
+        <div class="form-group form-group-image-checkbox">
+          {% include symbol-row.html row="row1" legend="1 Symbol" %}
+          {% include symbol-row.html row="row2" legend="2 Symbol" %}
+          {% include symbol-row.html row="row3" legend="3 Symbol" %}
+          {% include symbol-row.html row="row4" legend="4 Symbol" %}
+          {% include symbol-row.html row="row5" legend="5 Symbol" %}
+          {% include symbol-row.html row="row6" legend="6 Symbol" %}
+          {% include symbol-row.html row="row7" legend="7 Symbol" %}
+          {% include symbol-row.html row="row8" legend="8 Symbol" %}
+          {% include symbol-row.html row="row9" legend="9 Symbol" %}
+          {% include symbol-row.html row="row10" legend="10 Symbol" %}
+        </div>
+        <hr />
+        <div class="form-group d-flex justify-content-center search-button">
+          <button type="submit">Lookup Symbols</button>
+        </div>
+      </form>
+    </div>
+    <div class="status-bar">
+      <p class="status-bar-field">Systems Operational</p>
+      <p class="status-bar-field">Indexed Documents: -65535</p>
+      <p id="load" class="status-bar-field">System Load: 11%</p>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid search-progress vh-100">
+  <div class="window" style="width: 256px">
+    <div class="title-bar">
+      <div class="title-bar-text">Search in Progress ...</div>
+    </div>
+    <div class="window-body" id="search-progress-body">
+      Searching ...
+    </div>
+  </div>
+</div>

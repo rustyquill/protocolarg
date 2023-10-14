@@ -1,0 +1,49 @@
+name: Deploy oiar.org.uk
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
+    paths:
+      - "websites/oiar.org.uk/src/**"
+env:
+  WEBSITE: oiar.org.uk
+  BUCKET: oiar-website-active
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # install nodejs and obfuscate javascript
+      - name: Install nodejs
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - name: Install javascript-obfuscator
+        run: npm install javascript-obfuscator
+      # install ruby
+      - name: Install ruby
+        uses: ruby/setup-ruby@ec02537da5712d66d4d50a0f33b7eb52773b5ed1
+        with:
+          ruby-version: '3.1'
+      # checkout code and build website
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - name: Install ruby dependencies
+        run: bundle install
+        working-directory: 'websites/${{ env.WEBSITE }}/src'
+      - name: Build website
+        run: bundle exec jekyll build
+        working-directory: 'websites/${{ env.WEBSITE }}/src'
+      - name: Obfuscate javascript
+        run: .github/workflows/obfuscate-javascript.sh "websites/${{ env.WEBSITE }}/src/_site"
+      # Sync website to se
+      - name: Sync active website
+        uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --acl private --delete
+        env:
+          SOURCE_DIR: websites/${{ env.WEBSITE }}/src/_site
+          AWS_S3_BUCKET: ${{ env.BUCKET }}
+          AWS_REGION: eu-west-2
+          AWS_ACCESS_KEY_ID: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_SECRET }}

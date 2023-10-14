@@ -1,0 +1,79 @@
+##  $Revision: 1.2 $
+##  newsfeeds - determine where Usenet articles get sent
+##  Format:
+##      site[/exclude,exclude...]\
+##              :pattern,pattern...[/distrib,distrib...]\
+##              :flag,flag...\
+##              :param
+##  Summary of flags:
+##      <size           Article must be less then size bytes.
+##      Aitems          Article checks -- d (must have Distribution header)
+##                      p (don't check for site in Path header).
+##      Bhigh/low       Internal buffer size before writing to output.
+##      H[count]        Article must have less then count hops; default is 1.
+##      Isize           Internal buffer size (if a file feed)
+##      Nm              Only moderated groups that match the patterns.
+##      Nu              Only unmoderated groups that match the patterns.
+##      Ssize           Start spooling if more than size bytes get queued.
+##      Ttype           Feed types -- f (file) m (funnel; param names the
+##                      real entry) p (pipe to program) c (send to stdin
+##                      channel of param's sub-process); x (like c, but
+##                      handles commands on stdin).
+##      Witems          What to write -- b (article bytesize) f (full path)
+##                      g (first newsgroup) m (Message-ID) n (relative
+##                      path) s (site that fed article) t (time received)
+##                      * (names of funnel feed-in's or all sites that get
+##                      the article) N (Newsgroups header) D (Distribution
+##                      header) H (all headers) O (overview data) R
+##                      (replication data).
+##  Param field depends on T flag.  For Tf, relative paths are from the
+##  out.going directory.  For Tp and Tc, it is a shell command to execute.
+##  If a Tm refers to this entry (which will have its own T param) then "*"
+##  is expanded to all the funnel sites that triggered this one.  Useful
+##  for spawning one mail process, e.g.
+##
+##  This file is complicated -- see newsfeeds.5!
+
+##  This is the local site.
+##  The "pattern" field gives the intial subscription list for
+##  all other sites.  You might want to put "!control,!junk,!<local>.*"
+##  there.  The "distrib" subfield limits incoming articles.
+##
+##  You can also have ME/bad.site: to refuse articles from a particular
+##  site (by matching the Path: entry).  Other pseudo-sites may be put
+##  in here, to REFUSE certain types of 3rd-party cancel messages
+##  (See the "Cancel FAQ" news.admin.net-abuse.misc):
+##      cyberspam       Spam cancels, munged articles, binary postings
+##      spewcancel      just munged articles from runaway gateways
+##      bincancel       just binary postings to non-binaries groups
+##
+##  Note that refusing articles means you won't offer them to sites you feed
+##
+ME:*,!control,!junk,!local.*/!local,!internetnews::
+
+overview:*,!control.cancel:Tc,WO:/usr/lib/news/bin/overchan
+
+## The most often used type entries: uncomment and adjust.
+
+# Feed all local non-internal postings to news.myprovider.com; sent off-line
+# via nntpsend, send-nntp, or send-uucp.pl. Also, enable the entry in the
+# crontab file to regulary actually send all batched articles.
+#
+# If you're not low on memory use innfeed.
+#
+#news.myprovider.com\
+#       :*,!junk/!local\
+#       :Tf,Wnm:news.myprovider.com
+
+# An innfeed example. First, define several peers like this
+# (the primary name needs to be the hostname of the peer).
+#
+#news.uu.net/uunet\
+#       :*/!local\
+#       :Tm:innfeed!
+#
+# Then define one "master" entry that connects to all the peers:
+#innfeed!:!*:Tc,Wnm*:/usr/sbin/innfeed -y
+
+## Create the links for cross posted articles
+#crosspost:*:Tc,Ap,WR:/usr/lib/news/bin/crosspost

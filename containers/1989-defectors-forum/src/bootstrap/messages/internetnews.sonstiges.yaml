@@ -1,0 +1,269 @@
+messages:
+- sender: IronCurtain_UK@internetnews.local
+  date: 1994-02-25 10:00:00
+  subject: Hobbies
+  message: "Seitdem ich nach Manchester gezogen bin, habe ich mit dem Wandern angefangen. Die Landschaft ist erstaunlich schön und die Geschichte der Gegend ist wirklich faszinierend. Hat sonst noch jemand ein neues Hobby gefunden, seit er weg ist?"
+  replies:
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1994-02-28 15:20:00
+    message: "Ich weiß nicht, ob es als Hobby zählt, aber ich mache wieder Bildhauerei?"
+  - sender: UberAmpelmann_US@internetnews.local
+    date: 1994-03-05 12:45:00
+    message: "Es klingt komisch, aber ich habe angefangen, deutsch-amerikanische Fusionsgerichte zu kochen. Es klappt nicht besonders gut, aber ich habe große Hoffnungen, dass ich \"Hot-Dogs\" VIEL besser machen kann."
+    replies:
+    - sender: East2West_FR@internetnews.local
+      date: 1994-03-12 15:05:00
+      message: "Wenn es dir um seltsame Hobbys geht, ich habe mit Ballett angefangen. Die Franzosen nehmen die Sache SEHR ernst."
+      replies:
+      - sender: BerlinSpiderman_UK@internetnews.local
+        date: 1994-03-30 16:10:00
+        message: "@East2West Oh, wir geben zu, seltsam zu sein? Ich mache jetzt Urban Climbing."
+        replies:
+        - sender: IronCurtain_UK@internetnews.local
+          date: 1994-04-01 09:09:00
+          message: "@BerlinSpiderman_UK was zum Teufel ist \"Urban Climbing\"?"
+          replies:
+          - sender: BerlinSpiderman_UK@internetnews.local
+            date: 1994-04-02 17:39:00
+            message: "@[IronCurtain_UK Ich klettere hohe Gebäude an der Aussenfassade hoch."
+            replies:
+            - sender: IronCurtain_UK@internetnews.local
+              date: 1994-04-03 09:01:00
+              message: "@BerlinSpiderman_UK klingt... lustig?"
+              replies:
+              - sender: BerlinSpiderman_UK@internetnews.local
+                date: 1994-04-03 10:01:00
+                message: "@ IronCurtain_UK Ist es auch!"
+      - sender: IronCurtain_UK@internetnews.local
+        date: 1995-05-14 18:30:00
+        message: "@BerlinSpiderman_UK hat mich langweilig aussehen lassen, also bin ich noch verrückter geworden. Ich spiele jetzt Schlachten aus dem englischen Bürgerkrieg mit einer lokalen Historikergruppe nach!"
+        replies:
+        - sender: BerlinSpiderman_UK@internetnews.local
+          date: 1995-05-20 09:00:00
+          message: "@IronCurtain_UK Netter Versuch, aber ich imkere jetzt auf verlassenen Dächern."
+          replies:
+          - sender: IronCurtain_UK@internetnews.local
+            date: 1995-05-22 18:28:00
+            message: "@BerlinSpiderman_UK Das hast du nur gemacht, um dich mit mir anzulegen, oder?"
+      - sender: Dynamo87@internetnews.local
+        date: 1996-10-18 15:15:00
+        message: "Ich betreibe jetzt an den Wochenenden ein kleines DDR-Sportmuseum. Ist das schräg genug?"
+        replies:
+        - sender: IronCurtain_UK@internetnews.local
+          date: 1996-10-19 17:18:00
+          message: "Nur wenn es voller Bienen ist."
+- sender: SandmannS@internetnews.local
+  date: 1994-02-15 08:30:00
+  subject: Buchempfehlungen
+  message: "Für Buchempfehlungen, die wir in der DDR vielleicht verpasst haben."
+  replies:
+  - sender: WittyKatarina_FR@internetnews.local
+    date: 1994-02-25 12:30:00
+    message: "Ich glaube, ich fange mal an. \"Der Meister und Margarita\" von Mikhail Bulgakov. Es ist ein sarkastischer Kommentar zur sowjetischen Bürokratie. Ein ziemlich witziges Werk, und ich habe es zum ersten Mal in der DDR mit einer geschmuggelten Kopie gelesen!"
+  - sender: Dynamo87@internetnews.local
+    date: 1994-02-25 16:55:00
+    message: "Ich würde \"The Natural\" von Bernard Malamud empfehlen. Es ist ein amerikanischer Baseball-Roman, aber er ist besser als du denkst, das verspreche ich dir!"
+    replies:
+    - sender: UberAmpelmann_US@internetnews.local
+      date: 1994-02-25 21:15:00
+      message: "Das sollte ich wohl lesen, @Dynamo87, denn ich bekomme jede Menge Ärger, weil ich die Baseballregeln nicht verstehe."
+  - sender: DDR_Diaspora_AU@internetnews.local
+    date: 1994-03-02 11:22:00
+    message: "\"Brave New World\" von Aldous Huxley ist eine seltsame Sicht auf eine Zukunft, die ganz und gar nicht nach DDR aussieht."
+    replies:
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 1994-03-03 13:00:00
+      message: "Gute Empfehlung @DDR_Diaspora_AU! Als Tonartwechsel würde ich \"Sophies Entscheidung\" von William Styron empfehlen, aber mach dich auf eine sehr raue Fahrt gefasst."
+      replies:
+      - sender: DDR_Diaspora_AU@internetnews.local
+        date: 1994-03-03 17:22:00
+        message: "Ich habe den Film @CheckpointCharlotte gesehen, ich werde das Buch auf meine Liste setzen."
+  - sender: IronCurtain_UK@internetnews.local
+    date: 1994-03-04 09:15:00
+    message: "\"1984\" von George Orwell muss man gelesen haben, schon allein deshalb, weil es für mich eine sehr verzerrte westliche Sichtweise auf das Leben im Kommunismus darstellt. Es ist ziemlich seltsam, es als DDR-Auswanderer zu lesen."
+    replies:
+    - sender: GDR_GoneGlobal@internetnews.local
+      date: 1994-03-10 07:30:00
+      message: "Ich weiß, was du meinst, @IronCurtain_UK. Vielleicht gefällt dir \"Einhundert Jahre Einsamkeit\" von Gabriel Garcia Marquez. Es enthält Interessantes zur  lateinamerikanische Geschichte, ist aber \"magischer Realismus\"."
+  - sender: FreedomFritter_FR@internetnews.local
+    date: 1994-03-20 18:45:00
+    message: "Mag noch jemand Krimis von Agatha Christie?"
+    replies:
+    - sender: EastSideStory_UK@internetnews.local
+      date: 1995-11-11 21:22:00
+      message: "Ich habe sie damals in der DDR alle gelesen. (Angeblich, versteht sich)"
+  - sender: TrabantTerror@internetnews.local
+    date: 1996-06-06 15:55:00
+    message: "Vor kurzem habe ich \"Fear and Loathing in Las Vegas\" von Hunter S. Thompson gelesen. Es zeichnet ein sehr interessantes Bild von Amerika."
+    replies:
+    - sender: UberAmpelmann_US@internetnews.local
+      date: 1996-06-06 17:00:00
+      message: "@TrabantTerror Meiner Erfahrung nach ist Amerika viel langweiliger, als das Buch vermuten lässt."
+  - sender: Wendebender@internetnews.local
+    date: 2000-09-09 02:10:00
+    message: "Ich kann nicht glauben, dass noch niemand \"Catch-22\" von Joseph Heller erwähnt hat. Es ist zwar aus einer westlichen Perspektive geschrieben, aber die alptraumhafte Bürokratie kommt mir SEHR bekannt vor. Obwohl es ein Kriegsroman ist, also nicht viel DDR."
+  - sender: TrabantTerror@internetnews.local
+    date: 2001-02-28 22:20:00
+    message: "Ich habe gerade \"Per Anhalter durch die Galaxis\" von Douglas Adams entdeckt. @sputnik_Surfer Ich glaube, du wirst das Buch mögen."
+  - sender: Einsamernarr@internetnews.local
+    date: 2001-12-10 01:03:00
+    message: "Ich habe ein bisschen in Online-Datenbanken gestöbert und bin auf diesen riesigen Haufen alter Aufzeichnungen gestoßen, von denen ich nicht sicher bin ob sie fiktiv sind oder nicht? Das Ganze ist ziemlich seltsam. Ich werde mal sehen, ob ich etwas davon zusammen stellen und es hier posten kann, damit ihr es lesen könnt, einiges davon ist wirklich bizarr."
+- sender: SandmannS@internetnews.local
+  date: 1994-02-03 15:23:00
+  subject: Katzenbilder
+  message_type: plain
+  message: |
+    Ich starte diesen Thread aufgrund der großen Nachfrage.
+  replies:
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1994-02-03 16:10:00
+    message_type: mixed
+    attachment: cat_pic1.jpg
+    message: Das ist eine Katze.
+    replies:
+    - sender: DormantDDR_UK@internetnews.local
+      date: 1994-02-03 18:50:00
+      message_type: mixed
+      attachment: cat_pic2.jpg
+      message:  Das ist auch eine Katze.
+      replies:
+      - sender: UberAmpelmann_US@internetnews.local
+        date: 1994-02-04 09:15:00
+        message_type: mixed
+        attachment: cat_pic3.jpg
+        message: Schau mal, eine Katze.
+        replies:
+        - sender: WittyKatarina_FR@internetnews.local
+          date: 1994-02-05 10:22:00
+          message_type: mixed
+          attachment: dog_pic4.jpg
+          message: Das ist keine Katze.
+          replies:
+          - sender: N2O4R2@internetnews.local
+            date: 1994-02-05 12:30:00
+            message_type: mixed
+            attachment: cat_pic5.jpg
+            message: Schlaue Katze.
+            replies:
+            - sender: TrabantTerror@internetnews.local
+              date: 1994-02-07 11:55:00
+              message_type: mixed
+              attachment: cat_pic6.jpg
+              message: Diese Katze sitzt in einem Auto.
+              replies:
+              - sender: N2O4R2@internetnews.local
+                date: 1994-02-07 14:20:00
+                message_type: mixed
+                attachment: cat_pic7.jpg
+                message: Die Londoner Katze ist in London.
+                replies:
+                - sender: SandmannS@internetnews.local
+                  date: 1994-02-08 15:13:00
+                  message_type: mixed
+                  message: |
+                    Ich bereue diese Entscheidung jetzt schon.
+                  replies:
+                  - sender: Dynamo87@internetnews.local
+                    date: 1994-02-09 13:15:00
+                    message_type: mixed
+                    attachment: cat_pic8.jpg
+                    message: |
+                      Sportkatze.
+                    replies:
+                    - sender: N2O4R2@internetnews.local
+                      date: 1994-02-10 18:45:00
+                      message_type: mixed
+                      attachment: cat_pic9.jpg
+                      message: Computerkatze mag Computer.
+                      replies:
+                      - sender: IronCurtain_UK@internetnews.local
+                        date: 1994-03-01 09:20:00
+                        message_type: mixed
+                        attachment: cat_pic10.jpg
+                        message: Kätzchen Katze.
+                        replies:
+                        - sender: FreedomFritter_FR@internetnews.local
+                          date: 1995-06-15 10:05:00
+                          message_type: mixed
+                          attachment: cat_pic11.jpg
+                          message: Fette Katze.
+                          replies:
+                          - sender: GDR_GoneGlobal@internetnews.local
+                            date: 1996-12-10 07:30:00
+                            message_type: mixed
+                            attachment: cat_pic12.jpg
+                            message: Konichiwa Katze!
+                            replies:
+                            - sender: DDR_Diaspora_AU@internetnews.local
+                              date: 1997-03-30 12:45:00
+                              message_type: mixed
+                              attachment: cat_pic13.jpg
+                              message: Das ist eine sehr große Katze
+                              replies:
+                              - sender: EastSideStory_UK@internetnews.local
+                                date: 1997-11-05 10:00:00
+                                message_type: mixed
+                                attachment: cat_pic14.jpg
+                                message: Der Tiger ist auch eine Katze.
+                                replies:
+                                - sender: DeutscheDiva_FR@internetnews.local
+                                  date: 1998-06-01 16:10:00
+                                  message_type: mixed
+                                  attachment: cat_pic15.jpg
+                                  message: Katze in Schuhen!
+                                  replies:
+                                  - sender: Wendebender@internetnews.local
+                                    date: 1999-07-30 09:30:00
+                                    message_type: mixed
+                                    attachment: jumbojet_pic16.jpg
+                                    message: Hier ist keine Katze drin.
+                                    replies:
+                                    - sender: East2West_FR@internetnews.local
+                                      date: 2000-05-20 10:50:00
+                                      message_type: mixed
+                                      attachment: traechtige_katze_pic17.jpg
+                                      message: Diese Katze ist voll von Katzen.
+                                      replies:
+                                      - sender: Sputnik_Surfer_US@internetnews.local
+                                        date: 2000-12-10 22:00:00
+                                        message_type: mixed
+                                        attachment: cat_pic18.jpg
+                                        message: Die Weltraumkatze wartet auf das Mutterschiff.
+    - sender: Einsamernarr@internetnews.local
+      date: 2001-11-15 02:03:00
+      message_type: mixed
+      attachment: books.png
+      message: Ich habe ein paar leckere Kochbücher gefunden!
+      replies:
+        - sender: SandmannS@internetnews.local
+          date: 2001-11-15 08:30:00
+          message_type: mixed
+          message: |
+            Das gehört zu Buchempfehlungen!
+    - sender: DDR_Diaspora_AU@internetnews.local
+      date: 2001-10-01 08:45:00
+      message_type: mixed
+      attachment: Tree_pic19.jpg
+      message: Das ist ein Baum.
+      replies:
+      - sender: WittyKatarina@internetnews.local
+        date: 2001-11-15 19:30:00
+        message_type: mixed
+        attachment: Esel_pic20.jpg
+        message: Das ist auch ein Baum.
+        replies:
+        - sender: TrabantTerror@internetnews.local
+          date: 1994-02-07 11:55:00
+          message_type: mixed
+          attachment: cat_pic20.jpg
+          message: Das ist kein Baum. Das ist ein Esel.
+          replies:
+          - sender: SandmannS@internetnews.local
+            date: 1994-02-09 11:49:00
+            message_type: mixed
+            message: Stopp!
+            replies:
+            - sender: WittyKatarina_FR@internetnews.local
+              date: 2001-11-21 14:20:00
+              message_type: mixed
+              message: Katze.

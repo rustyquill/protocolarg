@@ -1,0 +1,49 @@
+name: Deploy bonzobazaar.co.uk website files
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
+    paths:
+      - "websites/bonzobazaar.co.uk/src/**"
+env:
+  WEBSITE: bonzobazaar.co.uk
+  BUCKET: bonzobazaar-website-active
+  # switch to "underconstruction" to remove login box and "hidden" shop website
+  ACTIVE_SRC: live
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # install nodejs and obfuscate javascript
+      - name: Install nodejs
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - name: Install javascript-obfuscator
+        run: npm install javascript-obfuscator
+      # checkout code and build website
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - name: Obfuscate javascript
+        run: .github/workflows/obfuscate-javascript.sh "websites/${{ env.WEBSITE }}/src"
+      # delete python files before syuncing to s3
+      - name: Delete python files
+        run: find "websites/${{ env.WEBSITE }}/src" -name "*.py" -type f -delete
+      - name: Delete xcf files
+        run: find "websites/${{ env.WEBSITE }}/src" -name "*.xcf" -type f -delete
+      - name: Delete login.php placeholder file, login.php
+        run: rm "websites/${{ env.WEBSITE }}/src/live/login.php"
+      # Sync website to se
+      - name: Sync active website
+        uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --acl private --delete
+        env:
+          SOURCE_DIR: websites/${{ env.WEBSITE }}/src/${{ env.ACTIVE_SRC }}
+          AWS_S3_BUCKET: ${{ env.BUCKET }}
+          AWS_REGION: eu-west-2
+          AWS_ACCESS_KEY_ID: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_SECRET }}
+
+

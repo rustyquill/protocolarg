@@ -1,0 +1,691 @@
+messages:
+- sender: WittyKatarina@internetnews.local
+  date: 1994-06-04 10:35:00
+  subject: Fahren in der UK
+  message: "Das Fahren in Großbritannien... Ziemlich anders als in der DDR! Vor kurzem hatte ich die Gelegenheit, auf dem Land zu fahren. Diese engen Gassen und Hecken haben mich überrascht!"
+  replies:
+  - sender: Dynamo87@internetnews.local
+    date: 1994-06-06 13:10:00
+    message: "Das erste Mal auf einer britischen Autobahn, ich konnte die Geschwindigkeitsübertretungen nicht glauben!"
+  - sender: DDRGudGuy@internetnews.local
+    date: 1994-06-08 09:20:00
+    message: "Das Fahren in Großbritannien ist eigentlich gar nicht so anders. Es ist einfach nur Linksverkehr und mehr Regen."
+    replies:
+    - sender: WittyKatarina@internetnews.local
+      date: 1994-06-12 12:15:00
+      message: "@DDRGudGuy Ländliches Fahren in Großbritannien kann ein echtes Labyrinth sein, keine der Straßen macht Sinn!"
+  - sender: TrabantTerror@internetnews.local
+    date: 1994-06-10 11:30:00
+    message: "Ich wurde eingeladen, meinen Trabant auf einem britischen Autotreffen vorzustellen, konnte aber nicht kommen. Ich habe gehört, dass die Geschwindigkeitsschwellen ziemlich übertrieben sind?"
+  - sender: Dynamo87@internetnews.local
+    date: 1994-06-15 16:20:00
+    message: "Meine erste Erfahrung mit einem britischen Kreisverkehr war ein Alptraum. Vor allem, weil die Fahrspuren nicht deutlich markiert sind. Ich würde dir empfehlen, Unterricht zu nehmen, auch wenn du denkst, du kommst ohne zurecht."
+  - sender: EastSideStory_UK@internetnews.local
+    date: 1996-04-07 08:45:00
+    message: "Nachdem ich nun schon ein paar Jahre in Großbritannien gefahren bin, finde ich das britische Parken sehr seltsam. Das parallele Einparken in winzige Lücken fühlt sich an wie ein Rückschritt gegenüber den alten DDR-Straßen."
+  - sender: TrabantTerror@internetnews.local
+    date: 1996-04-09 10:30:00
+    message: "Ich schätze allerdings die Qualität der britischen Straßen. Im Vergleich zu den Schlaglöchern in meiner Heimat sind die britischen Straßen sehr glatt."
+    replies:
+    - sender: DDRGudGuy@internetnews.local
+      date: 1996-04-11 15:15:00
+      message: "@TrabantTerror Das britische Straßensystem verbraucht viele Ressourcen, um es so zu halten. Ich vermute, wenn die DDR mehr Ressourcen gehabt hätte, wäre es ähnlich gewesen."
+  - sender: Dynamo87@internetnews.local
+    date: 1996-04-15 20:30:00
+    message: "Hat jemand diese Fahrkurse für Fortgeschrittene in Großbritannien ausprobiert? Ich habe gehört, dass man dort lernt, wie man mit Schleudern umgeht. Klingt lustig!"
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 1997-03-20 14:20:00
+    message: "Die Beschilderung im Vereinigten Königreich ist ein echtes Ärgernis. In der DDR machte die Beschilderung Sinn, aber hier gibt es für alles ein Schild, sogar für Enten auf der Kreuzung! Und von diesen lächerlichen Ortsnamen will ich gar nicht erst anfangen."
+    replies:
+    - sender: WittyKatarina@internetnews.local
+      date: 1997-03-22 13:15:00
+      message: "@BerlinSpiderman_UK Ich habe eines gesehen, auf dem stand \"Vorsicht Frösche\"!"
+    - sender: DDRGudGuy@internetnews.local
+      date: 1997-03-25 09:15:00
+      message: "Man sollte meinen, sie würden mehr für die Verbesserung des Verkehrsflusses ausgeben als für lächerliche Schilder."
+    - sender: EastSideStory_UK@internetnews.local
+      date: 1997-03-28 18:10:00
+      message: "Ich muss zugeben, dass die Ringstraße M25 um London durch den vielen Verkehr ein Albtraum ist, aber die Verkehrsführung ist sehr durchdacht."
+      replies:
+      - sender: DDRGudGuy@internetnews.local
+        date: 1998-06-14 16:05:00
+        message: "Wenn ihr Briten mehr Fahrrad fahren oder zu Fuß gehen würdet, hättet ihr dieses Problem vielleicht nicht."
+  - sender: EastSideStory_UK@internetnews.local
+    date: 1999-03-03 12:30:00
+    message: "Ich bin gerade durch das schottische Hochland gefahren. Atemberaubende Landschaften, aber schreckliche Straßen!"
+  - sender: WittyKatarina@internetnews.local
+    date: 2000-04-14 13:45:00
+    message: "Ist noch jemand verwirrt über die Notwendigkeit all dieser \"Drive-Thru\"-Services in Großbritannien? Großbritannien scheint von Autos besessen zu sein!"
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 2000-04-18 19:05:00
+    message: "Einverstanden!"
+  - sender: TrabantTerror@internetnews.local
+    date: 2001-07-12 14:00:00
+    message: "Ich habe in letzter Zeit eine starke Zunahme der Blitzer bemerkt, sonst noch jemand?"
+    replies:
+    - sender: DDRGudGuy@internetnews.local
+      date: 2001-07-15 17:00:00
+      message: "Wenn du nicht zu schnell fährst, hast du nichts zu befürchten."
+      replies:
+      - sender: einsamernarr@internetnews.local
+        date: 2001-07-15 00:08:00
+        message: "@DDRGudGuy Sei nicht so naiv. Glaubst du wirklich, sie würden im ganzen Land Kameras installieren, nur um die Leute zu beobachten, die etwas zu schnell fahren?"
+        replies:
+        - sender: TrabantTerror@internetnews.local
+          date: 2001-07-19 14:00:00
+          message: "Ich bin einfach nur überrascht. Die meisten Autos in Großbritannien fahren mit Handschaltung und es gibt viele ältere Fahrzeuge auf der Straße, obwohl ihre \"M.O.T.\" strenger ist als die alten TÜV-Tests von damals. Ich hätte gedacht, dass Geschwindigkeitsübertretungen kein so großes Problem sind!"
+          replies:
+            - sender: BerlinSpiderman_UK@internetnews.local
+              date: 2001-07-20 19:05:00
+              message: "@ TrabantTerror vor allem, weil alle so höflich sind. Mit vielen \"Nach dir\"-Gesten an Kreuzungen."
+              replies:
+              - sender: DDRGudGuy@internetnews.local
+                date: 1997-07-20 20:15:00
+                message: "Höflich oder zögerlich? Das ist ein Unterschied."
+- sender: WittyKatarina@internetnews.local
+  date: 1994-06-06 10:35:00
+  subject: Fahren in der USA und Kanada
+  message: "Ich konnte zum ersten Mal in Nordamerika fahren. Die Weite ist unglaublich! Hat jemand Tipps, wie man die Kunst des Autofahrens in den Staaten meistert?"
+  replies:
+  - sender: Dynamo87@internetnews.local
+    date: 1994-06-09 13:50:00
+    message: "Ich habe einmal einen Roadtrip quer durch die USA gemacht. Unglaublich, wie groß die Highways und Trucks dort sind."
+  - sender: EastSideStory_UK@internetnews.local
+    date: 1994-06-11 15:40:00
+    message: "@WittyKatarina, Nimm dich vor \"Semi-Trucks\" auf den Highways in Acht. Sie können sehr aggressiv fahren. Falls du schöne Landschaften magst, solltest du unbedingt Kanada ausprobieren!"
+  - sender: DDRGudGuy@internetnews.local
+    date: 1994-06-13 08:00:00
+    message: "Meide einfach den Verkehr in New York City und Los Angeles. Der Rest ist überschaubar genug. Nicht wie in Großbritannien mit seinen blöden Kreisverkehren."
+    replies:
+    - sender: Dynamo87@internetnews.local
+      date: 1994-06-17 16:10:00
+      message: "@DDRGudGuy Ich würde behaupten, dass das Parken in den Innenstädten sehr schwierig ist, weil es nie genug Parkplätze für die dumme Menge an Autos auf den Straßen gibt."
+  - sender: TrabantTerror@internetnews.local
+    date: 1995-02-07 11:00:00
+    message: "@WittyKatarina, es ist schon eine Weile her, aber wenn du in Kanada fährst, achte auf Schneestürme. Unsere DDR-Winter fühlen sich im Vergleich wie ein laues Lüftchen an und Winterreifen sind unverzichtbar!"
+    replies:
+    - sender: WittyKatarina@internetnews.local
+      date: 1995-02-12 19:15:00
+      message: "Ich habe einen internationalen Führerschein gemacht, bevor ich dorthin fuhr, damit ich ein Auto mieten konnte, aber sie boten keine Winterreifen an."
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 1996-03-10 13:40:00
+    message: "Es ist schon komisch. All diese neuen Mautstellen auf den Autobahnen in den USA erinnern mich an die Kontrollpunkte in der DDR. Manche Dinge ändern sich einfach nicht."
+    replies:
+    - sender: TrabantTerror@internetnews.local
+      date: 1996-03-15 15:30:00
+      message: "Guter Punkt! @WittyKatarina, wenn du für längere Zeit in den USA bist, solltest du dir einen elektronischen Mautpass besorgen. Das macht das Leben viel einfacher. Und pass auf, dass du an vielen Tankstellen im Voraus bezahlen musst."
+      replies:
+      - sender: einsamernarr@internetnews.local
+        date: 1996-03-16 00:01:00
+        message: "@WittyKatarina VERWENDET KEINE ELEKTRONISCHEN MAUTPÄSSE! Damit können sie dich nicht nur orten, sondern haben auch Zugriff auf deine Finanzdaten und deine DNA. Denk daran: Bargeld ist König!"
+        replies:
+        - sender: WittyKatarina@internetnews.local
+          date: 1996-03-16 08:27:00
+          message: "Oh nein, zu spät! Warte, was ist das? Ein schwarzer Hubschrauber aus Area 51 mit der Aufschrift \"Ich habe JFK erschossen\" und er wird von Elvis geflogen!?"
+          replies:
+          - sender: SandmannS@internetnews.local
+            date: 1996-03-16 09:55:00
+            message: "Du bist nicht hilfreich, @WittyKatarina."
+  - sender: EastSideStory_UK@internetnews.local
+    date: 1998-06-06 08:30:00
+    message: "Ich habe Montreal in Kanada besucht. Was für eine Mischung! Europäischer Stil mit nordamerikanischen Landschaften. Sie haben sogar ein U-Bahn-System!"
+  - sender: TrabantTerror@internetnews.local
+    date: 1998-06-12 16:30:00
+    message: "Wenn jemand im Mittleren Westen ist, sollte er die Route 66 nehmen. Das ist ein echtes amerikanisches Erlebnis mit Diners, Motels und all dem Kram. Es sind zwar keine Autobahnen, aber trotzdem ein positives Erlebnis."
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 1999-02-17 15:40:00
+    message: "Amerikas Liebe zu Muscle Cars hat es in sich! Ich habe ein Autotreffen in Detroit besucht. Das stellt unsere Trabis in den Schatten."
+    replies:
+    - sender: WittyKatarina@internetnews.local
+      date: 1999-02-20 19:50:00
+      message: "Apropos Muscle Cars: Ich war überrascht, wie beliebt das Automatikgetriebe (Stick Shift) in den USA ist."
+- sender: SandmannS@internetnews.local
+  date: 1994-02-05 09:15:00
+  subject: Arbeitssuche in Frankreich
+  message: "Thema eröffnet. Bleibt respektvoll."
+  replies:
+  - sender: UberAmpelmann_US@internetnews.local
+    date: 1994-02-05 10:20:00
+    message: "Ich überlege, für die Arbeit nach Frankreich zu ziehen. Hast du einen Rat?"
+    replies:
+    - sender: WittyKatarina_FR@internetnews.local
+      date: 1994-02-05 10:45:00
+      message: "Bonjour! Frankreich hat eine ziemlich einzigartige Arbeitskultur. Die Bürokratie kann erdrückend sein, aber es gibt im Moment einige wirklich gute Möglichkeiten. In welchem Bereich möchtest du arbeiten?"
+      replies:
+      - sender: UberAmpelmann_US@internetnews.local
+        date: 1994-02-05 11:05:00
+        message: "Hauptsächlich Technik. Wie ist es im Vergleich zu den USA oder der DDR?"
+        replies:
+        - sender: DeutscheDiva_FR@internetnews.local
+          date: 1994-02-06 14:40:00
+          message: "Sagen wir, Frankreich hat seine Macken. In der DDR hattest du einen Job, eine Rolle. Und hier? Es gibt mehrere Möglichkeiten, aber für Nicht-Staatsbürger gibt es einige Hindernisse."
+        - sender: CheckpointCharlotte@internetnews.local
+          date: 1994-02-08 10:50:00
+          message: "In der DDR waren die Stellenausschreibungen begrenzt und zentralisiert. In Frankreich gibt es überall Stellenanzeigen, versuch es in den lokalen Zeitungen und zögere nicht, dich umzuhören, denn wie immer kommt es darauf an, wen du kennst."
+          replies:
+          - sender: DDRGudGuy@internetnews.local
+            date: 1994-02-08 14:00:00
+            message: "So ein Rückschritt gegenüber der alten DDR-Jobvergabe."
+            replies:
+            - sender: WittyKatarina_FR@internetnews.local
+              date: 1994-02-08 14:15:00
+              message: "@DDRGudGuy, die Zeiten ändern sich. Du solltest dich vielleicht selbst nach neuen Horizonten umsehen...?"
+              replies:
+              - sender: SandmannS@internetnews.local
+                date: 1994-02-09 18:30:00
+                message: "Bleib beim Thema."
+    - sender: FreedomFritter_FR@internetnews.local
+      date: 1994-02-07 15:30:00
+      message: "@UberAmpelmann_US Ich rate dir, in Paris keine Arbeit zu suchen, es sei denn, es macht dir wirklich nichts aus, unhöflich angesprochen zu werden. Wenn du die Sprache nicht sprichst oder die örtlichen Gepflogenheiten nicht kennst, kannst du es schwer haben."
+    - sender: einsamernarr@internetnews.local
+      date: 1994-02-10 1:21:00
+      message: "Denk einfach daran, dass es viele Interviewfragen gibt, die du nicht beantworten musst. Dein Privatleben gehört dir. Sie müssen nicht wissen, ob du verheiratet bist, Kinder hast, Haustiere hast oder ähnliches."
+      replies:
+      - sender: BerlinSpiderman_UK@internetnews.local
+        date: 1994-02-10 08:54:00
+        message: "Ich wollte nur kurz anmerken, dass das ein sehr guter Rat ist. Im Vereinigten Königreich gibt es viele Regeln, was ein Arbeitgeber fragen darf und was nicht, und das wird dort sehr ernst genommen."
+    - sender: East2West_FR@internetnews.local
+      date: 1994-02-10 13:20:00
+      message: "Ich bin '92 aus der DDR nach Lyon gekommen. Ja, es ist anders, aber es ist definitiv besser. Für die Technik solltest du dich vielleicht in Lyon umsehen."
+    - sender: UberAmpelmann_US@internetnews.local
+      date: 1994-02-11 08:40:00
+      message: "Danke an alle für die Ratschläge. @CheckpointCharlotte, das ist gut zu wissen, ich gebe zu, ich bin nicht gut im Netzwerken."
+  - sender: WittyKatarina_FR@internetnews.local
+    date: 1995-03-03 10:50:00
+    subject: Techszene in Paris
+    message: "Update: In Paris gibt es eine wachsende Tech-Szene. Es könnte sich lohnen, sie zu erkunden, @UberAmpelmann_US. Die Dinge verändern sich, es fühlt sich fast so an wie die Energie nach dem Fall der Mauer, aber in einem geschäftlichen Sinne."
+    replies:
+    - sender: DeutscheDiva_FR@internetnews.local
+      date: 1997-06-17 16:30:00
+      message: "Ich habe von einigen Ostdeutschen gehört, die in den Tech-Zentren hier groß rauskommen. Aber stell dich auf längere Arbeitszeiten ein. @WittyKatarina_FR, stimme der Startup-Energie voll zu!"
+  - sender: Sputnik_Surfer_US@internetnews.local
+    date: 1998-07-05 20:20:00
+    message: "Ich habe diesen Thread nur überflogen. Ich war letzten Monat in Frankreich. Ich muss sagen, der Arbeitsmarkt dort ist riesig, aber keine Raumfahrtbehörde, also kein Interesse!"
+    replies:
+    - sender: WittyKatarina_FR@internetnews.local
+      date: 2000-04-10 11:20:00
+      message: "@Sputnik_Surfer_US, ich glaube, die Franzosen haben eine Agentur, aber sie starten keine Raketen? Wie auch immer, das technische Wissen der DDR könnte ein einzigartiger Vorteil sein, wenn die Dinge heiß laufen."
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 2001-05-23 09:10:00
+    message: "Ich wollte nur kurz warnen. Die Technologieblase scheint geplatzt zu sein. Resilienz ist der Schlüssel."
+  - sender: SandmannS@internetnews.local
+    date: 2001-11-25 17:45:00
+    message: "Thema wegen Inaktivität geschlossen."
+- sender: UberAmpelmann_US@internetnews.local
+  date: 1994-02-15 09:45:00
+  subject: Arbeiten in den USA
+  message: "Hey Leute, ich habe es letztes Jahr nach New York geschafft. Habt ihr Tipps für die Jobsuche in den USA für jemanden mit unserem Hintergrund?"
+  replies:
+  - sender: Dynamo87@internetnews.local
+    date: 1994-02-15 12:20:00
+    message: "Hey @UberAmpelmann_US, das klingt vielleicht komisch, aber Sport hat mir beim Netzwerken sehr geholfen und ich weiß, dass es in den USA eine große Sportszene gibt. Vielleicht kannst du einem lokalen Sportteam oder -verein beitreten?"
+    replies:
+    - sender: UberAmpelmann_US@internetnews.local
+      date: 1994-02-15 12:50:00
+      message: "Danke @Dynamo87! Das ist eine gute Idee, obwohl ich seit vor der Mauer nicht mehr gespielt habe!"
+      replies:
+      - sender: SandmannS@internetnews.local
+        date: 1994-02-15 12:58:00
+        message: "Ich erlaube das jetzt mal, aber kommt nicht vom Thema ab."
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1994-02-16 07:30:00
+    message: "Meine Cousine ist von München nach San Francisco gezogen. Sie erwähnte, dass Zeitarbeitsfirmen ein guter Startpunkt in den USA sind? Obwohl San Francisco anscheinend ziemlich teuer geworden ist, vielleicht ist es dort anders?"
+    replies:
+    - sender: TearDownThisWall_US@internetnews.local
+      date: 1994-02-17 11:15:00
+      message: "Du hast völlig Recht, @CheckpointCharlotte. Zeitarbeitsfirmen sind in den USA sehr präsent und unverzichtbar, wenn du keine lokalen Referenzen hast. Allerdings musst du dich mehr als in Deutschland vernetzen. Barbecues sind eine gute Gelegenheit dafür."
+      replies:
+      - sender: UberAmpelmann_US@internetnews.local
+        date: 1994-02-18 14:20:00
+        message: "Danke @TearDownThisWall_US und @CheckpointCharlotte, ich muss gestehen, dass die DDR mich nicht wirklich auf das \"Netzwerken\" vorbereitet hat und ich es schwierig finde."
+  - sender: East2West_FR@internetnews.local
+    date: 1994-03-01 16:00:00
+    message: "Es klingt albern, aber vergiss nicht, deinen Lebenslauf an den amerikanischen Stil anzupassen. Ändere nicht nur die Sprache, sie mögen es auch sehr kurz, nur eine Seite! Ich habe das auf die harte Tour gelernt, als ich nach Frankreich gezogen bin."
+  - sender: TrabantTerror@internetnews.local
+    date: 1995-05-02 22:10:00
+    message: "Haha! @UberAmpelmann_US, Du kannst als Trucker gutes Geld verdienen, wenn du die Arbeit bekommst Ich habe einen Freund, der große Gehaltsschecks nach Berlin geschickt hat."
+  - sender: Sputnik_Surfer_US@internetnews.local
+    date: 1996-06-15 03:20:00
+    message: "Letztes Jahr habe ich einen Job bei einer Tech-Firma in L.A. bekommen und sie sagten, ich hätte eine \"einzigartige Perspektive\" aus meiner DDR-Zeit. Ich habe das als Kompliment aufgefasst. Ich war schockiert, wie viel Geld im Moment in die Technik gesteckt wird, aber die Leute sind meiner Meinung nach nicht besser ausgebildet als wir, also müssen wir nicht \"aufholen\", wie die Leute denken."
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 1997-09-10 19:45:00
+    message: "Irgendwelche Neuigkeiten @UberAmpelmann_US? Als ich nach Manchester gezogen bin, haben die örtlichen Gemeindezentren Workshops zur Arbeitssuche angeboten, aber ich weiß nicht, ob es in New York so etwas gibt?"
+    replies:
+    - sender: UberAmpelmann_US@internetnews.local
+      date: 1998-01-20 13:10:00
+      message: "Danke der Nachfrage @BerlinSpiderman_UK Es hat etwas gedauert, aber ich habe endlich einen Verlagsjob in New York bekommen. Es ist ganz anders als in der DDR, viel härter umkämpft, aber es gibt mehr Aufstiegsmöglichkeiten, was sehr schön ist."
+  - sender: DDR_GoneGlobal@internetnews.local
+    date: 1999-04-04 08:30:00
+    message: "Es ist interessant zu hören, wie sich die Erfahrungen aus der DDR auf den globalen Arbeitsmarkt übertragen. Ich unterrichte Deutsch in Tokio und sie \"verstehen\" nicht wirklich, was die DDR wirklich war."
+    replies:
+    - sender: DDRGudGuy@internetnews.local
+      date: 2000-11-20 22:05:00
+      message: "@GDR_GoneGlobal Niemand weiß es, wenn er es nicht erlebt hat. Ich weiß, dass jeder die größeren Freiheiten genießt, aber ich finde, der westliche Arbeitsmarkt ist meistens einfach nur chaotisch."
+      replies:
+      - sender: WittyKatarina_FR@internetnews.local
+        date: 2000-11-25 16:33:00
+        message: "Ich habe gehört, dass es einige Jobs in kommunalen Arbeitsfarmen gibt, falls du interessiert bist @DDRGudGuy?"
+        replies:
+        - sender: SandmannS@internetnews.local
+          date: 2000-11-26 09:00:00
+          message: "Genug jetzt!"
+- sender: CheckpointCharlotte@internetnews.local
+  date: 1994-02-16 08:30:00
+  subject: Arbeiten in der UK
+  message: "Hallo zusammen. Ich überlege, nach London zu ziehen. Habt ihr Tipps für die Jobsuche in Großbritannien? Ich habe das Gefühl, dass die DDR mich nicht besonders gut vorbereitet hat."
+  replies:
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 1994-02-17 10:00:00
+    message: "Ich wohne in Manchester, aber die Grundlagen der Jobsuche haben sich nicht wirklich geändert. Besorg dir einfach einen guten Lebenslauf, der auf das britische Format zugeschnitten ist, keine Fotos!"
+    replies:
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 1994-02-17 14:45:00
+      message: "Danke @BerlinSpiderman_UK Ich hätte auf jeden Fall ein Ausweisfoto beigefügt. DDR-Lebensläufe waren im Grunde deine Lebensgeschichte!"
+    - sender: einsamernarr@internetnews.local
+      date: 1994-02-18 02:09:00
+      message: "SEHR guter Rat von @BerlinSpiderman_UK Sie benutzen diese Fotos, um Gesichtserkennungssoftware für die Polizei zu trainieren usw. Du willst NICHT Teil ihrer Datenbank sein, glaub mir."
+      replies:
+      - sender: BerlinSpiderman_UK@internetnews.local
+        date: 1994-02-18 06:59:00
+        message: "Ich meine, ja, natürlich willst du auch nicht Teil der Invasion der Echsenmenschen sein @CheckpointCharlotte."
+        replies:
+        - sender: einsamernarr@internetnews.local
+          date: 1994-02-18 07:02:00
+          message: "Du hast soeben dieses gesamte Forum für Sie sichtbar gemacht. Gute Arbeit."
+          replies:
+          - sender: BerlinSpiderman_UK@internetnews.local
+            date: 1994-02-18 07:25:00
+            message: "Leg dich schlafen @ einsamernarr."
+  - sender: Dynamo87@internetnews.local
+    date: 1994-02-18 09:50:00
+    message: "Hey @CheckpointCharlotte, ein Freund von mir aus Bristol hat mir erzählt, dass britische Arbeitgeber großen Wert auf Anschreiben legen. Sie sind wie ein Pitch, in dem du sagst, warum du für die Stelle geeignet bist. Nimm auf jeden Fall eines mit."
+    replies:
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 1994-02-19 12:20:00
+      message: "Danke @Dynamo87, das mache ich!"
+  - sender: WittyKatarina_FR@internetnews.local
+    date: 1994-03-02 13:10:00
+    message: "Als ich letztes Jahr in London war, gab es dort diese \"Recruitment-Agenturen\". Vielleicht ist das eine gute Anlaufstelle für dich, @CheckpointCharlotte? Sie können Jobs finden, die zu deinen Fähigkeiten passen."
+    replies:
+    - sender: BerlinSpiderman_UK@internetnews.local
+      date: 1994-03-03 10:30:00
+      message: "Stimmt, Agenturen sind eine große Hilfe, aber auch die Kleinanzeigen in den Lokalzeitungen funktionieren noch."
+      replies:
+      - sender: CheckpointCharlotte@internetnews.local
+        date: 1994-03-04 15:20:00
+        message: "@BerlinSpiderman_UK, gut zu wissen, dass ich immer zur \"alten Schule\" zurückkehren kann!"
+  - sender: DDRGudGuy@internetnews.local
+    date: 1995-06-12 17:05:00
+    message: "Noch eine westliche Macht, die nicht in der Lage ist, ihre eigene Belegschaft im Gleichgewicht zu halten."
+    replies:
+    - sender: SandmannS@internetnews.local
+      date: 1995-06-12 19:45:00
+      message: "@DDRGudGuy Ich behalte dich im Auge."
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 1996-01-15 09:50:00
+    message: "Hattest du Glück @CheckpointCharlotte?"
+    replies:
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 1996-02-10 13:55:00
+      message: "Yes! Ich arbeite jetzt in einem Reisebüro. Ironischerweise organisiere ich alle Reisen nach Deutschland! Es ist, als wäre ich nie weg gewesen!"
+      replies:
+      - sender: GDR_GoneGlobal@internetnews.local
+        date: 1997-07-20 07:34:00
+        message: "Ich habe auch schon darüber nachgedacht, einige Zeit in Großbritannien zu verbringen. Gab es eine große Sprachbarriere bei der Jobsuche?"
+        replies:
+        - sender: BerlinSpiderman_UK@internetnews.local
+          date: 1997-07-21 10:00:00
+          message: "Nicht so sehr in den größeren Städten, aber ich habe die Briten in kleineren Städten usw. als völlig hoffnungslos erlebt. Ich glaube nicht, dass in ihrer Ausbildung Sprachen eine große Rolle spielen. "
+        - sender: CheckpointCharlotte@internetnews.local
+          date: 1998-03-15 15:00:00
+          message: "Ich muss @BerlinSpiderman_UK zustimmen, Englischkenntnisse (selbst ein bisschen) sind eine große Hilfe. Und nicht nur bei der Jobsuche, auch die Partnersuche wird viel einfacher!"
+      - sender: WittyKatarina_FR@internetnews.local
+        date: 2001-06-05 14:30:00
+        message: "@CheckpointCharlotte, herzlichen Glückwunsch! Dating in Großbritannien macht viel mehr Spaß als in der DDR, selbst als ältere Frau!"
+      - sender: SandmannS@internetnews.local
+        date: 2001-06-12 18:47:00
+        message: "Herzlichen Glückwunsch @CheckpointCharlotte. Ich schließe den Thread als abgeschlossen."
+- sender: GDR_GoneGlobal@internetnews.local
+  date: 1994-02-25 09:15:00
+  subject: Wohnen in den USA
+  message: "Hallo zusammen. Ich bin gerade nach New York gezogen und bin schockiert, wie kompliziert und kostspielig das Mieten hier ist! Es ist schön, dass man sich seine Wohnung selbst aussuchen kann, aber ich habe das Gefühl, dass alle nur versuchen, die Mieter auszubeuten!"
+  replies:
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1994-02-25 13:10:00
+    message: "Oh, davon habe ich schon gehört! Das ist überhaupt nicht wie in Deutschland! Kautionen, Leumundsprüfungen und gefälschte Bewerbungsgebühren? Es scheint ein Alptraum zu sein?"
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 1994-02-26 10:15:00
+    message: "Seien wir doch mal ehrlich, in der DDR hatte man kaum eine Wahl UND die Leute versuchten ständig, dich um Geld auszuquetschen."
+    replies:
+    - sender: DDRGudGuy@internetnews.local
+      date: 1994-02-28 16:16:00
+      message: "Wenigstens waren alle in der gleichen Situation und es war nicht so krass."
+      replies:
+      - sender: BerlinSpiderman_UK@internetnews.local
+        date: 1994-03-01 10:19:00
+        message: "Auch wieder wahr."
+  - sender: WittyKatarina_FR@internetnews.local
+    date: 1994-03-01 14:30:00
+    message: "Mein Freund in L.A. erwähnte etwas von \"renter's rights\", vielleicht solltest du dich damit befassen @GDR_GoneGlobal?"
+    replies:
+    - sender: GDR_GoneGlobal@internetnews.local
+      date: 1994-03-02 08:50:00
+      message: "Habe ich schon, auf dem Papier sieht es gut aus, aber ich bin nicht sicher, wie gut es durchgesetzt wird @WittyKatarina_FR. Ich kann nicht glauben, dass ich das sage, aber ich glaube, ich vermisse die Art und Weise, wie in der DDR mit Wohnungen umgegangen wurde."
+  - sender: Dynamo87@internetnews.local
+    date: 1994-03-13 16:10:00
+    message: "Das US-Mietsystem ist definitiv eine Abzocke. Die Aufteilung der Kosten mit Mitbewohnern macht es aber einfacher."
+  - sender: DDRGudGuy@internetnews.local
+    date: 1995-05-30 15:00:00
+    message: "Ich nehme an, du hast immer noch keine feste Bleibe gefunden? Du könntest jederzeit nach Deutschland zurückkehren..."
+    replies:
+    - sender: BerlinSpiderman_UK@internetnews.local
+      date: 1995-06-02 09:20:00
+      message: "Beruhige dich @DDRGudGuy. Ja, die Dinge waren einfacher, aber die Warteliste für Wohnungen war furchtbar und vom Reisen zwischen den Bezirken will ich gar nicht erst anfangen."
+  - sender: GDR_GoneGlobal@internetnews.local
+    date: 1996-02-05 10:10:00
+    message: "Tut mir leid, ich habe vergessen, mich zu melden! Nach ein paar fragwürdigen Mietverträgen habe ich mich endlich in Brooklyn niedergelassen."
+    replies:
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 1997-01-20 11:40:00
+      message: "Freut mich zu hören, @GDR_GoneGlobal! Musstest du einen Makler einschalten?"
+      replies:
+      - sender: BerlinSpiderman_UK@internetnews.local
+        date: 1998-04-15 09:30:00
+        message: "Makler sind lästig, aber sie können helfen, sich in dem System zurechtzufinden."
+        replies:
+        - sender: DDRGudGuy@internetnews.local
+          date: 1999-11-15 16:45:00
+          message: "Du bezahlst jemanden dafür, dass er ein System steuert, um Geld von dir zu nehmen. Das ist schamlos!"
+          replies:
+          - sender: Dynamo87@internetnews.local
+            date: 2000-05-05 10:15:00
+            message: "Reg dich ab, @DDRGudGuy, es ist ein Jahrzehnt her. Finde dich damit ab."
+            replies:
+            - sender: SandmannS@internetnews.local
+              date: 2000-05-05 11:13:00
+              message: "Hört auf!"
+    - sender: GDR_GoneGlobal@internetnews.local
+      date: 2000-09-20 08:30:00
+      message: "Alles in allem denke ich, dass ich die amerikanische Art, Dinge zu tun, bevorzuge, auch wenn sie ihre Tücken hat."
+  - sender: einsamernarr@internetnews.local
+    date: 2001-12-12 03:31:00
+    message: "Leute, ich habe etwas Großes gefunden."
+    replies:
+    - sender: BerlinSpiderman_UK@internetnews.local
+      date: 2001-12-14 10:30:00
+      message: "Gratuliere! Kannst du uns ein paar Details verraten?"
+- sender: BerlinSpiderman_UK@internetnews.local
+  date: 1994-03-03 09:15:00
+  subject: Das US Gesundheitssystem ist verrückt
+  message: "Ich habe versucht, meiner Schwester zu helfen, das US-Gesundheitssystem zu verstehen, seit sie umgezogen ist, aber es ist ein Labyrinth! Ich weiß, dass das DDR-Gesundheitssystem simpler war, aber wenigstens konnte ich es verstehen! Hat jemand Tipps, wie man sich in diesem Chaos zurechtfindet?"
+  replies:
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1994-03-03 12:10:00
+    message: "Du brauchst eine Krankenversicherung und selbst dann, Zuzahlungen, Selbstbeteiligungen... Das ist eine Unmenge an Geld."
+  - sender: GDR_GoneGlobal@internetnews.local
+    date: 1994-03-05 11:00:00
+    message: "Ich habe vor kurzem in Boston gearbeitet und dachte, die Krankenversicherung meiner Firma würde alles abdecken. Ich war schockiert über die \"out of pocket\"-Kosten, das ist ungeheuerlich. "
+  - sender: WittyKatarina_FR@internetnews.local
+    date: 1994-03-07 14:30:00
+    message: "Anscheinend gibt es Gesundheitssparkonten (HSA). Vielleicht hilft das bei unerwarteten Kosten?"
+  - sender: Dynamo87@internetnews.local
+    date: 1994-03-15 10:10:00
+    message: "Ich war fassungslos, als ich nach einem einfachen Arztbesuch eine Rechnung erhielt. Ich kann nicht sagen, ob die Qualität der Behandlung besser war, aber die Kosten sind lächerlich und werden immer schlimmer!"
+    replies:
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 1995-06-20 12:20:00
+      message: "@Dynamo87 es ist meistens ein Kompromiss zwischen Qualität und Erreichbarkeit. Ein Freund von mir musste in der DDR monatelang auf eine Operation warten, aber in den USA bekommst du sie noch in derselben Woche - zu einem bestimmten Preis."
+      replies:
+      - sender: DDRGudGuy@internetnews.local
+        date: 1996-04-25 15:00:00
+        message: "Die DDR hat meine Mutter unterstützt, selbst als sie behindert war. In den USA wären wir wegen der Arztrechnungen bankrott gewesen. Die schlimmste Seite des Kapitalismus, der die Bedürftigsten ausbeutet."
+  - sender: WittyKatarina_FR@internetnews.local
+    date: 1996-10-05 13:30:00
+    message: "Ich habe in der Versicherungsbranche gearbeitet (allerdings nicht in den USA) Mein Rat: Recherchiere, kenne deinen Versicherungstarif in- und auswendig und frage immer, IMMER, im Voraus nach den Kosten. Manchmal reicht es schon aus, nach den Kosten zu fragen, damit sie einen Rabatt gewähren."
+    replies:
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 1997-09-15 11:40:00
+      message: "Ein guter Rat, @WittyKatarina_FR. Achte auch darauf, dass du einen \"Hausarzt\" hast. Das ist eine große Sache in den USA. Sie sind im Grunde das Gleiche wie ein Arzt in der Nachbarschaft, der dich kennenlernt und Überweisungen ausstellt."
+  - sender: Dynamo87@internetnews.local
+    date: 1998-07-07 14:10:00
+    message: "Meine Tochter ist letzten Monat krank geworden. Jetzt geht es ihr gut, aber die Rechnungen waren brutal. Mit separaten Rechnungen von Sanitätern, Ärzten, Anästhesisten und dem Krankenhaus."
+    replies:
+    - sender: BerlinSpiderman_UK@internetnews.local
+      date: 1999-02-20 09:25:00
+      message: "Tut mir leid, das zu hören @Dynamo87 Wenigstens hat sie die Medizin bekommen, keine Engpässe wie früher."
+    - sender: DDRGudGuy@internetnews.local
+      date: 2000-03-05 16:45:00
+      message: "Es tut mir leid @Dynamo87, das ist sehr traurig. Wenn du jemals nach Deutschland zurückkehrst, bist du bei mir zuhause willkommen."
+      replies:
+      - sender: Einsamernarr@internetnews.local
+        date: 2000-03-06 06:01:00
+        message: "Ich will @DDRGudGuy nicht beleidigen, aber ich würde diese Information hier NICHT weitergeben, @Dynamo87. Du solltest dich ohnehin erkundigen, welche medizinischen Informationen die Regierung über deine Tochter hat. Sie verkaufen sie an Dritte."
+        replies:
+        - sender: SandmannS@internetnews.local
+          date: 2001-03-05 18:00:00
+          message: "@ Einsamernarr hat teilweise Recht. Das ist ein nettes Angebot @ DDRGudGuy, aber eine Mahnung an alle, mit der Weitergabe von persönlichen Informationen vorsichtig zu sein."
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 2001-10-05 13:30:00
+    message: "Wir brauchen einen Mittelweg zwischen dem System von DDR und diesem."
+    replies:
+    - sender: DDRGudGuy@internetnews.local
+      date: 2001-11-03 17:00:00
+      message: "Ich bezweifle, dass das möglich ist."
+- sender: BerlinSpiderman_UK@internetnews.local
+  date: 1994-04-10 10:20:00
+  subject: Banken in Großbritannien
+  message: "Ich habe vor kurzem ein Konto bei einer britischen Bank eröffnet, und ehrlich gesagt ist das eine erfrischende Abwechslung zu dem Chaos, das die DDR-Finanzen waren. Hat sonst noch jemand ähnliche Erfahrungen gemacht?"
+  replies:
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1994-04-10 14:05:00
+    message: "Auf jeden Fall, @BerlinSpiderman_UK! Das westliche Bankwesen ist uns um Lichtjahre voraus, vor allem, weil sie in Zukunft auch Online-Banking anbieten wollen!"
+    replies:
+    - sender: Einsamernarr@internetnews.local
+      date: 1994-04-11 05:01:00
+      message: "Vertrau mir. In 10 Jahren wird es kein Bargeld mehr geben und du wirst dich online bei deiner Bank anmelden und sie werden Gesichtserkennung, Stimmerkennung, Fingerabdrücke haben, alles was sie brauchen, um alles zu verfolgen, was du tust."
+      replies:
+      - sender: WittyKatarina_FR@internetnews.local
+        date: 1994-04-12 13:30:00
+        message: "Das scheint ein bisschen unwahrscheinlich, @Einsamernarr. Ich musste einige Gelder zurück nach Deutschland überweisen. Ich musste zwar Gebühren zahlen, aber es war alles klar und es gab sogar Ratschläge, wann der beste Zeitpunkt für die Überweisung ist. Der Verwaltungsaufwand war bei weitem nicht so hoch wie in der DDR und sie schienen definitiv nicht daran interessiert zu sein, mich zu \"verfolgen\"."
+  - sender: Dynamo87@internetnews.local
+    date: 1994-04-15 15:50:00
+    message: "Da kann ich nur zustimmen. Ich habe immer noch Alpträume, wenn ich den ganzen Tag in der Schlange stehe und dann um 15 Uhr geschlossen wird."
+  - sender: DDRGudGuy@internetnews.local
+    date: 1995-02-15 17:30:00
+    message: "Die Bequemlichkeit hat ihren Preis. Wenn du wartest, wird es in Zukunft alle möglichen Probleme geben. Ich bin in dieser Sache auf der Seite von @Einsamernarr."
+    replies:
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 1995-02-17 12:15:00
+      message: "Nichts ist perfekt, @DDRGudGuy, aber ich persönlich LIEBE es, eine Kreditkarte zu haben."
+      replies:
+      - sender: GDR_GoneGlobal@internetnews.local
+        date: 1996-03-20 11:00:00
+        message: "Ich habe meine erste Kreditkarte in Großbritannien bekommen, ein absoluter Lebensretter, obwohl ich mich dabei ertappt habe, dass ich mehr ausgegeben habe. Ich denke, das ist der Sinn der Sache?"
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 1997-09-15 09:45:00
+    message: "@CheckpointCharlotte Ich habe gerade Internet-Banking bekommen. Du hattest recht, es ist unglaublich! Die DDR fühlt sich so LANGE her an."
+    replies:
+    - sender: DDRGudGuy@internetnews.local
+      date: 1998-06-10 18:20:00
+      message: "Ihr beschwert euch alle, dass der DDR-Staat euch gerne überwacht hat und jetzt gebt ihr all diese Informationen bereitwillig an ein privates Unternehmen weiter. Ihr seid verrückt!"
+      replies:
+      - sender: Einsamernarr@internetnews.local
+        date: 1998-06-11 03:23:00
+        message: "Klassische westliche Manipulationstaktik. Verlocke die Menschen mit Bequemlichkeit und nutze dann dieses Druckmittel, um sie zu manipulieren und zu kontrollieren. Und wenn du glaubst, dass diese Unternehmen nicht alle Informationen an die kontrollierenden Eliten weitergibt, wirst du definitiv ein böses Erwachen erleben."
+        replies:
+        - sender: WittyKatarina_FR@internetnews.local
+          date: 1999-01-20 14:00:00
+          message: "@Einsamernarr Ich halte staatliche Regulierung im Finanzwesen eigentlich für eine GUTE Sache. @DDRGudGuy, britische Banken haben starke Sicherheitsmaßnahmen, außerdem nehmen sie kein Familienmitglied mit, wenn du dich beschwerst."
+          replies:
+          - sender: SandmannS@internetnews.local
+            date: 1999-01-21 12:02:00
+            message: "Erste Warnung @WittyKatarina_FR."
+            replies:
+            - sender: WittyKatarina_FR@internetnews.local
+              date: 1999-01-22 19:05:00
+              message: "@SandmannS Das ist fair. Ich hatte einen wirklich schlechten Tag. Tut mir leid."
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1999-07-25 13:30:00
+    message: "Ich habe angefangen, über meine Bank in den britischen Aktienmarkt zu investieren. Ich habe es schon 95 versucht und habe leider schlecht investiert, aber heute ist es ein bisschen einfacher. Es gibt jetzt viele kostenlose Informationsquellen."
+    replies:
+    - sender: BerlinSpiderman_UK@internetnews.local
+      date: 2000-05-05 10:20:00
+      message: "Ich stimme mit @CheckpointCharlotte überein. Ich habe an einem Seminar meiner Bank zum Thema Geldanlage teilgenommen. Es war natürlich ein Verkaufsgespräch, aber es gab einige gute Informationen."
+  - sender: Dynamo87@internetnews.local
+    date: 2000-11-20 15:10:00
+    message: "Ich schaue mir gerade Hypotheken für das nächste Jahr an. Wie sich die Zeiten ändern."
+    replies:
+    - sender: DDRGudGuy@internetnews.local
+      date: 2001-06-15 16:45:00
+      message: "Nicht immer zum Besseren."
+      replies:
+      - sender: SandmannS@internetnews.local
+        date: 2001-11-01 18:30:00
+        message: "@DDRGudGuy Ich bin fertig mit dieser Einstellung."
+        replies:
+        - sender: DDRGudGuy@internetnews.local
+          date: 2001-11-01 18:45:00
+          message: "Du hast @WittyKatarina mit Schlimmerem davonkommen lassen."
+          replies:
+          - sender: SandmannS@internetnews.local
+            date: 2001-11-01 18:57:00
+            message: "[Thread gesperrt]"
+- sender: UberAmpelmann_US@internetnews.local
+  date: 1994-03-02 09:30:00
+  subject: Sozialversicherung USA
+  message: "Hallo zusammen, ich bin vor kurzem in die USA gezogen und versuche, das dortige Sozialversicherungssystem zu verstehen. Es unterscheidet sich gewaltig von der DDR-Sozialhilfe und ich tue mich ein bisschen schwer damit. Findet das noch jemand verwirrend?"
+  replies:
+  - sender: Einsamernarr@internetnews.local
+    date: 1994-03-03 01:51:00
+    message: "Im Grunde ist es ein System, mit dem jeder im Land persönlich identifiziert werden kann. Es wurde von Präsident Roosevelt eingeführt, um zu verhindern, dass Menschen vor der Einberufung zum Militär fliehen. Sie tarnen es als Finanzinstitut für den Ruhestand, damit niemand etwas dagegen hat."
+  - sender: Dynamo87@internetnews.local
+    date: 1994-03-03 14:05:00
+    message: "@UberAmpelmann_US, es ist ziemlich schwer nachzuvollziehen, aber es hat einige Vorteile gegenüber der staatlich geförderten Sozialhilfe."
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 1994-03-06 15:20:00
+    message: "Ich habe gehört, dass es der \"Nationalen Versicherung\" hier in Großbritannien sehr ähnlich ist. Klingt gut für die Altersvorsorge."
+  - sender: Dynamo87@internetnews.local
+    date: 1994-03-10 16:10:00
+    message: "Ich glaube, in den USA wird mehr Wert auf individuelle Verantwortung gelegt. Es ist kein staatlich garantiertes Sicherheitsnetz, aber wenn man klug investiert, scheinen die Renditen viel besser zu sein."
+    replies:
+    - sender: DDRGudGuy@internetnews.local
+      date: 1994-03-15 18:25:00
+      message: "Für mich hört sich das so an, als würden diejenigen mehr profitieren, die Geld zum Investieren haben... Das klingt für mich nicht sehr \"sozial sicher\"."
+      replies:
+      - sender: WittyKatarina_FR@internetnews.local
+        date: 1994-03-20 19:10:00
+        message: "Eigentlich @DDRGudGuy gibt es im Rahmen der Sozialversicherung einige Programme, die bei Behinderungen helfen und Hinterbliebenenleistungen gewähren."
+        replies:
+        - sender: DDRGudGuy@internetnews.local
+          date: 1994-03-22 14:39:00
+          message: "Eigentlich bedeutet das nur, dass es weniger ungleich ist. Das ist nicht dasselbe wie gut."
+          replies:
+          - sender: WittyKatarina_FR@internetnews.local
+            date: 1994-03-22 17:02:00
+            message: "Eigentlich @DDRGudGuy Ich denke, darüber kann man streiten."
+            replies:
+            - sender: DDRGudGuy@internetnews.local
+              date: 1994-03-22 17:03:00
+              message: "Eigentlich, @WittyKatarina_FR kann man das nicht."
+              replies:
+              - sender: SandmannS@internetnews.local
+                date: 1994-03-22 20:51:00
+                message: "@DDRGudGuy, @ WittyKatarina_FR hört auf damit."
+      - sender: GDR_GoneGlobal@internetnews.local
+        date: 1995-04-12 10:30:00
+        message: "Ich muss @WittyKatarina_FR zustimmen. Der Versicherungsschutz für bestimmte Krankheiten ist definitiv besser."
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1995-06-10 11:45:00
+    message: "Wenn jemand das besser verstehen will, gibt es ein Gemeindezentrum in New York, das Seminare anbietet, und ich glaube, in anderen Staaten gibt es das auch. Das hat mir sehr geholfen!"
+  - sender: SandmannS@internetnews.local
+    date: 2001-10-20 18:30:00
+    message: "Geschlossen wegen Inaktivität."
+- sender: WittyKatarina_FR@internetnews.local
+  date: 1994-06-05 13:10:00
+  subject: Ich finds nicht lustig
+  message: "Ein Freund empfahl mir, eine britische Komödie zu sehen. Ich habe es versucht, aber es war einfach nicht lustig! Ich kann nicht sagen, ob es daran liegt, dass ich in der DDR aufgewachsen bin, oder ob es etwas anderes ist?"
+  replies:
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 1994-06-06 09:20:00
+    message: "Es liegt nicht an dir. Der britische Humor ist einzigartig und ich kenne eine Menge Leute (sogar Amerikaner), die ihn nicht verstehen. Ich habe eine Weile gebraucht, um mich daran zu gewöhnen. Es sind vor allem Wortspiele, Sarkasmus und Ironie, aber manches ist auch völlig willkürlich, und genau das ist der Punkt."
+  - sender: Dynamo87@internetnews.local
+    date: 1994-06-07 10:30:00
+    message: "Ich habe mir Monty Python angeschaut, und es ist urkomisch! So etwas habe ich noch nie gesehen, aber ich muss zugeben, dass mir einige ihrer Sketche zu skurril sind."
+    replies:
+    - sender: TrabantTerror@internetnews.local
+      date: 1994-06-08 11:22:00
+      message: "@dynamo87 Ni!"
+  - sender: GDR_GoneGlobal@internetnews.local
+    date: 1994-06-08 16:10:00
+    message: "Zwischen britischem Humor und DDR-Humor liegen Welten. Ich bevorzuge deutsche Comedy, auch jetzt noch."
+    replies:
+    - sender: DDRGudGuy@internetnews.local
+      date: 1994-06-09 14:50:00
+      message: "Die Komödie hatte ihren Höhepunkt mit \"Maxe Baumann\", alles andere ist eine Stufe tiefer."
+      replies:
+      - sender: GDR_GoneGlobal@internetnews.local
+        date: 1994-06-09 16:10:00
+        message: "@DDRGudGuy Ich bin 100% bei dir."
+        replies:
+        - sender: CheckpointCharlotte@internetnews.local
+          date: 1994-06-12 11:20:00
+          message: "@DDRGudGuy, @GDR_GoneGlobal Maxe Baumann ist gut, aber \"Fawlty Towers\" ist perfekt."
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 1994-06-14 13:00:00
+    message: "Gibt es hier \"Blackadder\"-Fans? Rowan Atkinson ist brillant."
+  - sender: N204R2@internetnews.local
+    date: 1995-04-23 12:45:00
+    message: "Ich habe kürzlich versucht, \"Red Dwarf\" zu sehen. Ziemlich lustige Sci-Fi und Komödie. Fühlt sich an wie eine der DDR-Serien mit kleinerem Budget."
+  - sender: WittyKatarina_FR@internetnews.local
+    date: 1996-03-09 16:30:00
+    message: "Ich habe \"The Vicar of Dibley\" ausprobiert und das war ganz okay. Ein bisschen albern, aber nicht so düster wie andere britische Komödien."
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1996-03-12 10:20:00
+    message: "@WittyKatarina_FR Versuch \"Keeping Up Appearances\" ist ähnlich leicht und albern."
+  - sender: DDRGudGuy@internetnews.local
+    date: 1996-03-15 16:30:00
+    message: "@WittyKatarina_FR \"Mr. Bean\" hat seine Momente, aber vielleicht schaust du dir \"Tele-BZ\" noch einmal an, es ist so gut wie immer."
+  - sender: SandmannS@internetnews.local
+    date: 1996-03-16 14:05:00
+    message: "Ich schließe den Thread. Er ist sinnlos."
+- sender: DDR_Diaspora_AU@internetnews.local
+  date: 1995-09-01 09:15:00
+  subject: Kängurus?
+  message: "Ich bin vor kurzem nach Australien gezogen und muss sagen, dass die Tierwelt erstaunlich, aber auch ziemlich beängstigend ist. Die Leute sagen mir, dass Kängurus aggressiv sind. Hat jemand einen Rat? Ich fühle mich SEHR weit weg von zu Hause!"
+  replies:
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 1995-09-02 11:00:00
+    message: "Ich nehme an, es gilt dasselbe wie bei streunenden Hunden. Nicht zu nahe rangehen?"
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1995-09-03 12:10:00
+    message: "Wie gefährlich kann ein Riesenkaninchen wirklich sein?"
+    replies:
+    - sender: DDRGudGuy@internetnews.local
+      date: 1995-09-05 10:10:00
+      message: "Sie können einen ausgewachsenen Mann mit einem einzigen Tritt in die Rippen töten."
+      replies:
+      - sender: DDR_Diaspora_AU@internetnews.local
+        date: 1995-09-06 07:15:00
+        message: "Das ist ja furchterregend!"
+  - sender: GDR_GoneGlobal@internetnews.local
+    date: 1995-09-06 08:45:00
+    message: "Hey @DDR_Diaspora_AU! Ich war schon ein paar Mal in Australien. Kängurus sind gar nicht so schlimm, wenn du Abstand hältst, vor allem, wenn sie \"Joeys\" (Babys) haben. Du solltest auf keinen Fall eines in die Enge treiben oder dich zwischen es und sein Futter stellen!"
+    replies:
+    - sender: DDR_Diaspora_AU@internetnews.local
+      date: 1995-09-06 10:00:00
+      message: "Danke, @GDR_GoneGlobal! Aber ich will ehrlich sein, ich mache mir viel mehr Sorgen um Spinnen und Schlangen! Gestern habe ich diese riesige Tarantel unter meiner Veranda gesehen."
+      replies:
+      - sender: GDR_GoneGlobal@internetnews.local
+        date: 1995-09-06 11:15:00
+        message: "Oh ja, die Spinnen können riesig sein. Die meisten sind harmlos, aber hüte dich vor Trichterspinnen und Rotrücken. Schlangen sind in den Städten kein großes Problem. Obwohl ich einmal auf eine getreten bin! (Zum Glück hat sie mir in den Stiefel gebissen, nicht ins Bein!) Wenn du glaubst, dass eine Schlange in der Nähe ist, mach viel Lärm und sie verschwinden normalerweise."
+        replies:
+        - sender: DDR_Diaspora_AU@internetnews.local
+          date: 1995-09-07 09:00:00
+          message: "Danke @GDR_GoneGlobal Ich werde mich über diese Spinnen informieren, aber ich werde mich erst einmal von allem fernhalten!"
+  - sender: GDR_GoneGlobal@internetnews.local
+    date: 1995-09-15 11:15:00
+    message: "Oh @DDR_Diaspora_AU, nimm dich vor den Koalas in Acht! Sie sehen knuddelig aus, aber anscheinend tragen sie viele Krankheiten in sich?"
+  - sender: SandmannS@internetnews.local
+    date: 1996-09-09 14:05:00
+    message: "Ich schließe diesen Thread."
+

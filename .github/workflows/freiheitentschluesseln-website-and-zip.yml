@@ -1,0 +1,40 @@
+name: Compile and upload zip to documentleak website
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
+    paths:
+      - "websites/freiheitentschluesseln.de/src/**"
+      - "websites/freiheitentschluesseln.de/zip/**"
+env:
+  WEBSITE: freiheitentschluesseln.de
+  BUCKET: documentleak-website-active
+  PASS: DDRDONOTTRUSTACHTNEUN
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # checkout code and build website
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      # create zip file and copy it into src folder
+      # so its picked up by the sync action
+      # the path needs to be .hidden/dokumente.zip as this one
+      # is used by the auto responder lambda
+      - name: create zip file
+        run: |
+          cd websites/${{ env.WEBSITE }}/zip
+          sudo bash zip.sh ${{ env.PASS }}
+          mkdir -p ../src/.versteckte-dateien/dokumente
+          mv dokumente.7z ../src/.versteckte-dateien/dokumente
+      - name: Sync active website
+        uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --acl private --delete
+        env:
+          SOURCE_DIR: websites/${{ env.WEBSITE }}/src
+          AWS_S3_BUCKET: ${{ env.BUCKET }}
+          AWS_REGION: eu-west-2
+          AWS_ACCESS_KEY_ID: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_SECRET }}

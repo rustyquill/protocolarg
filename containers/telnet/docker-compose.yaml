@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  telnet:
+    build:
+      context: src
+      dockerfile: Dockerfile
+    ports:
+      - "23:23"
+    environment:
+      - THRESHOLD=10

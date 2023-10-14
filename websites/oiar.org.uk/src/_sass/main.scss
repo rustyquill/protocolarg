@@ -1,0 +1,92 @@
+body {
+  background-color: #FFFFFF;
+  font-family: Arial, sans-serif;
+  color: #333333;
+}
+
+.main-container {
+  width: 80%;
+  margin-bottom: 55px;
+}
+
+header {
+  text-align: center;
+  background-color: #1b5088;
+  color: #FFFFFF;
+  background-image: url('/assets/pictures/logo.1.442.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 300px 300px;
+  height: 300px;
+}
+
+nav {
+  background-color: #FFFFFF;
+  padding: 10px;
+  border-top: 1px solid #CCCCCC;
+  border-bottom: 1px solid #CCCCCC;
+}
+
+a {
+  color: #1b5088;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #001048;
+}
+
+a:visited:not(.nav-link) {
+  color: #4c0c62;
+}
+
+main {
+  padding: 20px;
+  background-color: #FFFFFF;
+
+}
+
+footer {
+  background-color: #1b5088;
+  color: #FFFFFF;
+  text-align: center;
+  // padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  font-size: 1em;
+  max-height: 50px;
+}
+
+footer p {
+  margin: 0;
+}
+
+span.social a {
+  text-decoration: none;
+  margin: 0 2px 4px 0;
+}
+
+span.social svg {
+  fill: currentColor;
+  color: #ffffff;
+}
+
+.screen-reader-text {
+  clip: rect(1px,1px,1px,1px);
+  word-wrap: normal !important;
+  border: 0;
+  -webkit-clip-path: inset(50%);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute !important;
+  width: 1px;
+}
+
+.info-text {
+  font-size: 0.8em;
+  color: #666666;
+}

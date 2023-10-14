@@ -1,0 +1,199 @@
+messages:
+- sender: CheckpointCharlotte@internetnews.local
+  date: 1994-02-05 10:15:00
+  subject: Berliner Kunstszene
+  message: "Hallo zusammen, ich wollte fragen, ob mich jemand über die lokale Kunstszene in Berlin nach der DDR informieren kann?"
+  replies:
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 1994-02-06 12:20:00
+    message: "Tolles Thema! Ich war letztes Jahr dort. Du MUSST die East Side Gallery besuchen. Das ist ein erhaltener Teil der Berliner Mauer mit allen möglichen Gemälden und Graffiti. Eine wilde Mischung aus Geschichte und zeitgenössischer Kunst."
+  - sender: Dynamo87@internetnews.local
+    date: 1995-06-18 14:45:00
+    message: "@CheckpointCharlotte Die Berlin Biennale fängt gerade an. Ich habe gehört, dass es eine große jährliche Veranstaltung sein soll, bei der neue Künstler vorgestellt werden. Vielleicht ist sie aber nicht DDR-lastig."
+  - sender: DDR_Diaspora_AU@internetnews.local
+    date: 1996-04-09 17:00:00
+    message: "Habt ihr schon mal vom Tacheles gehört? Das ist ein altes Kaufhaus in Berlin, das jetzt ein Kunsthaus ist. Ein paar Freunde haben es empfohlen, aber ich konnte es noch nicht besuchen."
+  - sender: UberAmpelmann_US@internetnews.local
+    date: 1998-03-14 16:20:00
+    message: "Ich weiche ein bisschen ab, aber ich habe gehört, dass Techno in der Berliner Underground-Szene Wellen schlägt?"
+    replies:
+    - sender: DDR_Diaspora_AU@internetnews.local
+      date: 1998-03-17 18:00:00
+      message: "@UberAmpelmann_US Oh, Techno ist dort anscheinend gerade RIESIG. Freunde empfehlen Tresor und ich war auch schon auf der Love Parade."
+  - sender: GDR_GoneGlobal@internetnews.local
+    date: 1998-03-20 19:10:00
+    message: "Als ich letztes Jahr nach Berlin zurückkehrte, schien die Stadt gerade richtig zu brummen!"
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 1998-03-21 15:40:00
+    message: "Noch einer für dich, @CheckpointCharlotte. Ich war in den KW Institute for Contemporary Art. Dort gibt es einige tolle Ausstellungen. Auf jeden Fall eine Reise wert."
+- sender: UberAmpelmann_US@internetnews.local
+  date: 1998-03-22 16:45:00
+  subject: Berliner Musikszene
+  message: "Nach dem Kunst-Thread dachte ich, ein Musik-Thread könnte Spaß machen, denn Berlin scheint derzeit ein Hotspot zu sein. Gibt es irgendwelche lokalen Perlen da draußen?"
+  replies:
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1998-04-04 11:05:00
+    message: "Berlin ist im Moment total angesagt! Vor allem Techno. In anderen Threads wurde es schon erwähnt, aber Tresor, Berghain und die Visionaere sind top. Wenn du Ellen Allien oder Monika Kruse noch nicht gehört hast, wirst du dich freuen."
+  - sender: GDR_GoneGlobal@internetnews.local
+    date: 1998-05-10 18:15:00
+    message: "Es hat sich seit Pankow oder City vieles verändert. Schau dir auch die Jazz-Szene an. Das A-Trane ist ein Jazzclub, den du dir ansehen solltest."
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 1998-09-15 14:30:00
+    message: "Die Love Parade ist immer noch in vollem Gange. Es ist eine Techno-Straßenparty, die jeden Sommer stattfindet."
+  - sender: DDR_Diaspora_AU@internetnews.local
+    date: 1999-01-20 07:15:00
+    message: "Ich vermisse die Punkszene. Das Einzige, was ihr heutzutage nahe kommt, ist offenbar die Gegend um den Prenzlauer Berg."
+    replies:
+    - sender: Einsamernarr@internetnews.local
+      date: 1999-01-21 01:11:00
+      message: "DDR-Punks waren die letzten echten Punks, die wussten, dass man das System bekämpfen muss und nicht nur cool aussehen und klingen darf."
+      replies:
+      - sender: DDRGudGuy@internetnews.local
+        date: 1999-02-10 10:00:00
+        message: "Könnte nicht mehr zustimmen @ Einsamernarr. @DDR_Diaspora_AU du hast recht, Prenzlauer Berg ist im Moment definitiv die angesagte Punk-Szene."
+  - sender: WittyKatarina_FR@internetnews.local
+    date: 2000-03-04 09:30:00
+    message: "Wenn du Elektronik willst, würde ich Hard Wax in Kreuzberg empfehlen."
+    replies:
+    - sender: UberAmpelmann_US@internetnews.local
+      date: 2000-08-12 16:10:00
+      message: "@WittyKatarina_FR, Hard Wax war super! Ich war dort und habe ein paar DDR-Punk-Vinyls aus den 80ern und frische Techno-Tracks gefunden."
+  - sender: DDRGudGuy@internetnews.local
+    date: 2000-11-28 14:00:00
+    message: "Ich hoffe, du hattest Feeling B und Die Skeptiker auf der Liste @UberAmpelmann_US"
+    replies:
+    - sender: UberAmpelmann_US@internetnews.local
+      date: 2000-12-03 11:01:00
+      message: "@DDRGudGuy Natürlich, wie könnte ich nicht?"
+  - sender: Dynamo87@internetnews.local
+    date: 2001-01-12 13:15:00
+    message: "Wenn du auf der Suche nach neuen Sounds bist, hör mal Paul Kalkbrenner und Apparat"
+  - sender: EastMeetsWest@internetnews.local
+    date: 2001-04-29 21:10:00
+    message: "Die Berliner Philharmonie ist immer noch großartig, wenn du auf so etwas stehst."
+  - sender: GDR_GoneGlobal@internetnews.local
+    date: 2001-06-10 19:35:00
+    message: "Das SO36 in Kreuzberg ist auf jeden Fall eine Reise wert."
+- sender: DDR_Diaspora_AU@internetnews.local
+  date: 1994-03-02 10:30:00
+  subject: Neues Berlin?
+  message: "Ich habe seit dem Mauerfall nicht mehr viel von Berlin gesehen. Ich würde gerne wissen, wie es der Stadt selbst geht?"
+  replies:
+  - sender: DDRGudGuy@internetnews.local
+    date: 1994-03-06 11:15:00
+    message: "Mehr Straßenbahnen, Gebäude im westlichen Stil, sie wollen sogar den Alexanderplatz verändern."
+  - sender: Ostalgie_Otto@internetnews.local
+    date: 1994-06-20 16:05:00
+    message: "Am Potsdamer Platz wird viel gebaut."
+  - sender: GDR_GoneGlobal@internetnews.local
+    date: 1995-07-10 19:15:00
+    message: "Der Fernsehturm ist immer noch da, was seltsam beruhigend ist. Ich habe früher in der Nähe des Alexanderplatzes gearbeitet und er ist kaum noch zu erkennen."
+  - sender: Ostalgie_Otto@internetnews.local
+    date: 1996-04-23 08:20:00
+    message: "In der Nähe von Friedrichshain gibt es noch einige Wandgemälde, aber viele von ihnen werden abgerissen oder gehen verloren."
+  - sender: UberAmpelmann_US@internetnews.local
+    date: 1996-10-04 15:55:00
+    message: "Ich bin vor kurzem nach Hause zurückgekehrt und bin sehr beeindruckt von dem Flughafen!"
+    replies:
+    - sender: DDRGudGuy@internetnews.local
+      date: 1996-11-04 16:15:00
+      message: "@UberAmpelmann_US Der Flughafen ist zugegebenermaßen ein großer Schritt nach vorn."
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 1997-01-20 14:00:00
+    message: "Ich war vor ein paar Monaten zu Hause und in Berlin-Marzahn stehen jetzt ein paar moderne Häuser. Sehr seltsam."
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1998-05-02 10:30:00
+    message: "Solange sie die Fußgängerampel nicht geändert haben. Das Ampelmännchen muss bleiben!"
+    replies:
+    - sender: DDRGudGuy@internetnews.local
+      date: 2000-06-15 14:40:00
+      message: "@CheckpointCharlotte Ich freue mich, bestätigen zu können, dass das Ampelmännchen mit Hütchen immer noch da ist!"
+- sender: DormantDDR_UK@internetnews.local
+  date: 1994-02-17 16:03:00
+  subject: Berliner Tech-Szene
+  message: "Ich habe in Großbritannien in der Tech-Branche gearbeitet, und das hat mich neugierig auf die Berliner Tech-Szene gemacht. Damals in der DDR ging es mehr darum, Dinge zu reparieren, als alles neu zu kaufen, aber ich habe gehört, dass die Berliner Tech-Industrie floriert?"
+  replies:
+  - sender: IronCurtain_UK@internetnews.local
+    date: 1994-02-18 10:45:00
+    message: "Ich bin auch in Großbritannien und @DormantDDR hat recht, es ist ein großer Wandel in der Einstellung, aber ich arbeite mit einigen Start-ups in Berlin zusammen, die coole Arbeit leisten."
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 1994-02-23 18:33:00
+    message: "Ich habe das Gefühl, dass nur britische Auswanderer hier posten! Es gibt eine Menge neuer Tech-Architektur in der Stadt und anscheinend nimmt das urbane Klettern dadurch einen Aufschwung?"
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1994-03-01 14:12:00
+    message: "Ich weiß nicht, warum, aber ich habe immer noch Sehnsucht nach der alten DDR-Technik. Fühlt sich das neue Zeug weniger stark an? Oder stabiler? Ich weiß es nicht."
+    replies:
+    - sender: WittyKatarina_FR@internetnews.local
+      date: 1994-04-04 13:33:00
+      message: "Die DDR-Technik war wie eine Schreibmaschine, langsam, aber sie konnte einiges aushalten. Die moderne Berliner Technik ist ein PC, sie ist empfindlicher, aber sie hat Minesweeper!"
+      replies:
+    - sender: Einsamernarr@internetnews.local
+      date: 1994-04-05 03:01:00
+      message: "Die Sache ist die, dass dieser technologische Aufschwung durch verstärkte Versuche der staatlichen Überwachung angetrieben wird. Warum wollen sie überall digitale Computer haben? Damit sie verfolgen können, was du im Cyberspace tust. Warum wollen sie, dass du kein Papier mehr benutzt? Weil Papier vernichtet werden kann. Die Wahrheit ist, dass sie dir nur eine Annehmlichkeit verkaufen, um dich besser kontrollieren zu können, und schon bald wird die ganze Hochgeschwindigkeitstechnologie gegen dich eingesetzt werden, statt für dich. @ SandmannS ist vielleicht der letzte moralische Admin, den es gibt."
+      replies:
+      - sender: SandmannS@internetnews.local
+        date: 1994-04-09 20:00:00
+        message: "Vielen Dank für den Vertrauensbeweis, @Einsamernarr, aber ich schließe diesen Thread, da du ihn so gut wie zerstört hast."
+- sender: UberAmpelmann_US@internetnews.local
+  date: 1994-01-10 11:45:00
+  subject: Politik in Deutschland
+  message: "Ich habe versucht, der deutschen Politik zu folgen, aber es ist schwer zu sagen, wie es um die Wiedervereinigung steht. Hat jemand einen Einblick in den ostdeutschen Einfluss auf Deutschland?"
+  replies:
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1994-01-10 12:30:00
+    message: "Ehrlich gesagt fühlt sich die Wiedervereinigung langsam ein bisschen einseitig an. Es fühlt sich an, als würden westdeutsche Ideale das Gespräch dominieren."
+  - sender: UberAmpelmann_US@internetnews.local
+    date: 1994-02-10 14:20:00
+    message: "Ich erinnere mich, dass Kohl zu DDR-Zeiten viel Kritik einstecken musste, aber es scheint, als ob er viel für die moderne Politik tut?"
+    replies:
+    - sender: WittyKatarina_FR@internetnews.local
+      date: 1994-02-10 15:00:00
+      message: "Sicher, aber wir tun gut daran, Lafontaine nicht zu vergessen. Es ist nicht alles rosig und sonnig."
+      replies:
+      - sender: TrabantTerror@internetnews.local
+        date: 1994-02-12 12:10:00
+        message: "Ja, die Arbeitslosenquoten sind jetzt horrend."
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1994-02-14 10:00:00
+    message: "Der Aufstieg der PDS ist interessant. Es ist bemerkenswert, dass ein SED-Nachfolger Unterstützung im Bundestag erhält."
+    replies:
+    - sender: DDRGudGuy@internetnews.local
+      date: 1994-02-14 12:15:00
+      message: "Schön zu sehen, dass nicht alles vom Westen dominiert wird."
+  - sender: IronCurtain_UK@internetnews.local
+    date: 1996-03-20 13:20:00
+    message: "Hat noch jemand ein Auge auf Gerhard Schröder als potenziellen SPD-Kanzlerkandidaten geworfen?"
+    replies:
+    - sender: WittyKatarina_FR@internetnews.local
+      date: 1996-03-20 14:30:00
+      message: "Wir wollen nicht zu voreilig sein. Ich warte immer noch auf Kohls \"Blühende Landschaften\"."
+  - sender: DDRGudGuy@internetnews.local
+    date: 1998-09-28 15:30:00
+    message: "Ich persönlich behalte die rot-grüne Koalition im Auge."
+    replies:
+    - sender: Einsamernarr@internetnews.local
+      date: 1999-09-29 00:11:00
+      message: "Das ist alles nur ein Nebenschauplatz. Alles, was seit dem Fall der Mauer passiert ist, ist nur noch Spektakel, denn die Elite hat die Macht der Nationalstaaten verdrängt."
+      replies:
+      - sender: SandmannS@internetnews.local
+        date: 1999-09-29 09:19:00
+        message: "Einsamernarr, wenn du noch einmal in diesem Thread postest, werde ich dich verbannen. Ich werde nicht zulassen, dass du eine weitere legitime Diskussion entgleisen lässt."
+        replies:
+        - sender: Einsamernarr@internetnews.local
+          date: 2001-12-11 01:13:00
+          message: Ich kann es beweisen. Schreibt mir eine Direktnachricht und ich kann es euch zeigen.
+          replies:
+          - sender: SandmannS@internetnews.local
+            date: 2001-12-29 12:05:00
+            message: "Thread ist geschlossen. Kontaktiert @Einsamernarr NICHT"
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1998-09-29 10:20:00
+    message: "Jetzt, wo der Euro da ist, hoffe ich, dass Schröder ihn besser verwaltet. Ich ertappe mich immer noch dabei, wie ich in Ostmark denke."
+  - sender: GDR_GoneGlobal@internetnews.local
+    date: 2000-05-10 17:00:00
+    message: "Irgendwelche Gedanken zum Kosovo?"
+    replies:
+    - sender: EastSideStory_UK@internetnews.local
+      date: 2001-10-23 14:45:00
+      message: "Nur, dass der DDR-Pazifismus gefühlt schon lange her ist."
+

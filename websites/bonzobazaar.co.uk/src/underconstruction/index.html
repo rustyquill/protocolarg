@@ -1,0 +1,126 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <meta http-equiv="Cache-control" content="no-cache, no-store, must-revalidate">
+      <meta http-equiv="Pragma" content="no-cache">
+      <TITLE>Bonzo Bazaar</TITLE>
+        <style>
+       br {
+           margin: 500px;
+       }
+       h1 {
+           color: purple;
+           text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+           margin: 0px;
+       }
+       .order {
+           min-height: 100vh;
+       }
+       .order h3 {
+           padding-left: 30%;
+       }
+       .order img {
+           padding-left: 30%;
+       }
+       h2 {
+           color: purple;
+           position: absolute;
+           margin-left: 4px;
+           text-align: center;
+           animation-name: loadText;
+           text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+           animation-duration: 20s;
+       }
+       h3 {
+           color: purple;
+           position: absolute;
+           margin-left: 4px;
+           animation-name: loadText;
+           text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+           animation-duration: 20s;
+       }
+       h4 {
+           position: absolute;
+           margin-left: 50%;
+           padding-top: 50%;
+           text-align: right;
+           margin-right: 0px;
+           border-right: 0px;
+           padding-right: 0px;
+
+       }
+
+       img {
+           object-fit: cover;
+           object-position: 25% 25%;
+           overflow: hidden;
+           animation-duration: 15s;
+
+      }
+
+      .im_1 {
+           animation-name: load1;
+      }
+
+
+   @keyframes load1 {
+        0%{display:none;}
+        2%{clip-path: polygon(0% 0%, 100% 0%, 100% 2%, 0% 2%)}
+
+        13%{clip-path: polygon(0% 0%, 100% 0%, 100% 13%, 0% 13%)}
+
+        20%{clip-path: polygon(0% 0%, 100% 0%, 100% 20%, 0% 20%)}
+
+        33%{clip-path: polygon(0% 0%, 100% 0%, 100% 33%, 0% 33%)}
+
+        42%{clip-path: polygon(0% 0%, 100% 0%, 100% 42%, 0% 42%)}
+
+        55%{clip-path: polygon(0% 0%, 100% 0%, 100% 55%, 0% 55%)}
+
+        62%{clip-path: polygon(0% 0%, 100% 0%, 100% 62%, 0% 62%)}
+
+        70%{clip-path: polygon(0% 0%, 100% 0%, 100% 70%, 0% 70%)}
+
+        82%{clip-path: polygon(0% 0%, 100% 0%, 100% 82%, 0% 82%)}
+
+        96%{clip-path: polygon(0% 0%, 100% 0%, 100% 96%, 0% 96%)}
+        100% {
+                object-fit: cover;
+      }
+   }
+
+      ul li{
+           flex-direction: column;
+           flex-wrap: wrap;
+           display: flex;
+           flex: 3 0 25%;
+           column-count: 3;
+           display:inline-block;
+           width: 33%;
+           text-align: left;
+      }
+      ol {
+           list-style-type: none;
+      }
+      body {
+           background: rgb(229,177,50);
+           background: -moz-linear-gradient(175deg, rgba(229,177,50,1) 0px, rgba(233,96,14,1) 1000px);
+           background: -webkit-linear-gradient(175deg, rgba(229,177,50,1) 0px, rgba(233,96,14,1) 1000px);
+           background: linear-gradient(175deg, rgba(229,177,50,1) 0px, rgba(233,96,14,1) 100px);
+           filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#e5b132",endColorstr="#e9600e",GradientType=1);
+      }
+      </style>
+   </HEAD>
+   <BODY>
+      <div id="hello"><h1>Under Construction</h1></div>
+      <ul id="stuff"></ul>
+      <ol id="buyStuff"></ol>
+   </BODY>
+   <script>
+   const stuffWeSell = document.getElementById("stuff");
+   const buyTheStuff = document.getElementById("buyStuff");
+   let picture = '<img src="Bonzo.Construct.png" class="im_1">';
+   buyTheStuff.innerHTML += picture;
+   </script>
+</HTML>

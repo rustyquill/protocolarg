@@ -1,0 +1,15 @@
+version: "3"
+
+services:
+  telnet:
+    image: 952729211370.dkr.ecr.eu-west-2.amazonaws.com/telnet:latest
+    pull_policy: always
+    network_mode: "host"
+    environment:
+      - PORT=10023
+    restart: unless-stopped
+    logging:
+      driver: awslogs
+      options:
+        awslogs-group: "${TELNET_LOG_GROUP}"
+        awslogs-region: "eu-west-2"

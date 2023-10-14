@@ -1,0 +1,76 @@
+name: Sync inactive website to all s3 buckets
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
+    paths:
+      - "websites/_inactive/src/**"
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # checkout code and build website
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      # sync inactive website to all s3 buckets
+      - name: Sync inactive website for bonzo.bazaar
+        uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --acl private --delete
+        env:
+          SOURCE_DIR: websites/_inactive/src
+          AWS_S3_BUCKET: bonzobazaar-website-inactive
+          AWS_REGION: eu-west-2
+          AWS_ACCESS_KEY_ID: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_SECRET }}
+      - name: Sync inactive website for bonzo.land
+        uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --acl private --delete
+        env:
+          SOURCE_DIR: websites/_inactive/src
+          AWS_S3_BUCKET: bonzo-land-website-inactive
+          AWS_REGION: eu-west-2
+          AWS_ACCESS_KEY_ID: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_SECRET }}
+      - name: Sync inactive website for oiar.co.uk
+        uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --acl private --delete
+        env:
+          SOURCE_DIR: websites/_inactive/src
+          AWS_S3_BUCKET: oiar-website-inactive
+          AWS_REGION: eu-west-2
+          AWS_ACCESS_KEY_ID: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_SECRET }}
+      - name: Sync inactive website for themagnusprotocolarg.com
+        uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --acl private --delete
+        env:
+          SOURCE_DIR: websites/_inactive/src
+          AWS_S3_BUCKET: magnusprotocolarg-website-inactive
+          AWS_REGION: eu-west-2
+          AWS_ACCESS_KEY_ID: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_SECRET }}
+      - name: Sync inactive website for themagnusinstitute.org
+        uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --acl private --delete
+        env:
+          SOURCE_DIR: websites/_inactive/src
+          AWS_S3_BUCKET: themagnusinstitute-website-inactive
+          AWS_REGION: eu-west-2
+          AWS_ACCESS_KEY_ID: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_SECRET }}
+      - name: Sync inactive website for documentleak
+        uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --acl private --delete
+        env:
+          SOURCE_DIR: websites/_inactive/src
+          AWS_S3_BUCKET: documentleak-website-inactive
+          AWS_REGION: eu-west-2
+          AWS_ACCESS_KEY_ID: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_SECRET }}

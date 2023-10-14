@@ -1,0 +1,5 @@
+url: "https://office-of-incident-assessment-and-response.org.uk/" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+
+host: 0.0.0.0 # listen on all interfaces when serving dev mode

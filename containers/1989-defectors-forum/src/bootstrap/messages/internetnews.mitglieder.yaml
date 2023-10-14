@@ -1,0 +1,382 @@
+messages:
+- sender: SandmannS@internetnews.local
+  date: 1994-02-15 10:00:00
+  subject: Übergelaufen
+  message: "Das ist eines der wichtigsten Themen. Ich hoffe, wir können uns gegenseitig helfen."
+  replies:
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1994-02-16 09:30:00
+    message: "Ich weiß immer noch nicht, ob ich den Leuten sagen soll, dass ich übergelaufen bin, selbst jetzt nicht. Gerade wenn ich denke, dass es sicher ist, höre ich einen Witz oder eine Bemerkung und merke, dass ich immer noch in Gefahr bin. Hat noch jemand dieses Gefühl?"
+    replies:
+    - sender: IronCurtain_UK@internetnews.local
+      date: 1994-02-17 13:15:00
+      message: "Ja und nein. In Manchester bekomme ich immer noch herablassende Witze zu hören, aber die Leute scheinen offen dafür zu sein, zu lernen. Meistens versuchen die Leute, mitfühlend zu sein, aber sie verstehen es nicht wirklich."
+    - sender: UberAmpelmann_US@internetnews.local
+      date: 1994-02-18 12:10:00
+      message: "New York scheint sehr akzeptierend zu sein, hier gibt es alle Arten von Menschen und ich bin mit den Jahren definitiv kein Neuling mehr."
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 1994-02-20 14:50:00
+    message: "Ich war neulich beim Klettern und jemand machte einen Witz über das Training für die Mauer. Ich bin einfach gegangen. Beim nächsten Kletterverein werde ich das nicht mehr erwähnen."
+  - sender: Einsamernarr@internetnews.local
+    date: 1994-02-21 01:28:00
+    message: "Es ist ein großer Fehler, diese Informationen laut oder in einem nicht passwortgeschützten Raum zu teilen. Die Stasi ist nicht einfach verschwunden und ihr Gedächtnis ist gut."
+    replies:
+    - sender: East2West_FR@internetnews.local
+      date: 1994-02-21 15:30:00
+      message: "Ich bin der Meinung, dass wir offener damit umgehen sollten. Ich habe Vortragsseminare gehalten, in denen ich das Leben in der DDR mit dem in Frankreich verglichen habe, und das ist gut angekommen. Die Menschen hier sind sehr empfänglich für die Idee, dass man seiner Regierung nicht unbedingt trauen sollte. "
+    - sender: Dynamo87@internetnews.local
+      date: 1994-02-25 16:45:00
+      message: "Ich spreche es nicht an, aber ich antworte wahrheitsgemäß, wenn ich gefragt werde. Meistens kommt es im Zusammenhang mit Sport zur Sprache, weil ich nicht zulassen will, dass die Leute vergessen, was die DDR alles erreicht hat."
+  - sender: N2O4R2@internetnews.local
+    date: 1995-01-22 10:10:00
+    message: "@Einsamernarr hat recht. Bleibt unsichtbar."
+  - sender: IronCurtain_UK@internetnews.local
+    date: 1996-06-15 13:05:00
+    message: "@CheckpointCharlotte Irgendwelche Neuigkeiten? Ich habe in den letzten zwei Jahren eine große Veränderung im Unterricht in Großbritannien gesehen, bei der die Kinder Verbindungen zwischen der DDR-Überwachung und den Kameras, die überall in Großbritannien auftauchen, erkannt haben."
+    replies:
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 1996-06-16 11:15:00
+      message: "@IronCurtain_UK, es ist immer noch eine gemischte Sache. Ich habe kürzlich eine DDR-Kino-Veranstaltung besucht, aber die Leute haben es eher als Neuheit denn als echtes Kino betrachtet."
+    - sender: UberAmpelmann_US@internetnews.local
+      date: 1998-09-10 17:30:00
+      message: "Ich muss zugeben, dass ich New York immer unfreundlicher finde. Es scheint, als würde sich die Politik verschieben. Die Leute interessieren sich weniger für die Überläufer-Sache, sondern eher dafür, dass alles, was anders ist, als verdächtig angesehen wird."
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 1999-07-15 14:30:00
+    message: "Das ist ein lustiger Nebeneffekt. Jemand hat versucht, mich in Bezug auf die sowjetische Architektur zu korrigieren... und dabei auf eine DDR-Wohngruppe verwiesen. Ich habe es einfach so hingenommen. Mit Dummheit kann man nicht argumentieren."
+  - sender: UberAmpelmann_US@internetnews.local
+    date: 2001-11-11 17:30:00
+    message: "Nach dem, was passiert ist, musste ich die Stadt verlassen. Ich habe Angst vor dem, was kommen wird. Es ist definitiv an der Zeit, ein paar Stars and Stripes aufzuhängen und etwas Country-Musik zu spielen, wenn du weißt, was ich meine."
+    replies:
+    - sender: SandmannS@internetnews.local
+      date: 2001-11-12 08:39:00
+      message: "Bleib sicher @UberAmpelmann."
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 2001-11-15 10:40:00
+      message: "In München gibt es seit kurzem einen Rechtsruck, bei dem ich sehr froh bin, dass ich es den Leuten nicht gesagt habe. Anders beginnt definitiv \"schlecht\" zu bedeuten."
+    - sender: IronCurtain_UK@internetnews.local
+      date: 2001-11-16 13:15:00
+      message: "Du bist nicht allein."
+- sender: SandmannS@internetnews.local
+  date: 1994-02-15 09:23:00
+  subject: Wiedervereinigung
+  message: "Ich weiß, dass viele von euch diese Gruppe nutzen wollten, um alte Freunde und Verwandte zu finden. Ich werde das vorerst erlauben, aber ihr dürft KEINE persönlichen Informationen weitergeben. Es gibt immer noch viele Leute da draußen, die uns schaden wollen."
+  replies:
+  - sender: IronCurtain_UK@internetnews.local
+    date: 1994-02-15 10:05:00
+    message: "Ich habe seit Jahren gehofft, Andreas Müller erreichen zu können. Er wohnte in der Nähe des Fernsehturms und er ist der Grund dafür, dass meine Familie und ich es lebend raus geschafft haben. Ich muss ihm danken. Ich bezweifle, dass ihn jemand kennt, aber hat jemand Tipps, wie man mit der Suche beginnen kann?"
+    replies:
+    - sender: Einsamernarr@internetnews.local
+      date: 1994-02-16 00:05:00
+      message: "Arbeite für eine Regierung. Sie tauschen jetzt sowieso alle Informationen aus."
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 1994-02-16 07:33:00
+      message: "@IronCurtain, ich habe mich an einige Organisationen gewandt, die DDR-Verzeichnisse in Berlin führen. Sie können Informationen weitergeben, wenn du nachweisen kannst, dass es einen legitimen Grund dafür gibt. Ich hoffe, du findest ihn."
+    - sender: Dynamo87@internetnews.local
+      date: 1994-02-18 15:54:00
+      message: "@IronCurtain_UK Ich hatte Glück, als ich an Zeitungen und Gemeindezentren in Berlin schrieb. Ich habe sogar meinen alten Fußballtrainer auf diese Weise gefunden. Er hatte eine Anzeige aufgegeben, um sich mit der alten Mannschaft wieder zu treffen."
+    - sender: UberAmpelmann_US@internetnews.local
+      date: 1994-02-21 21:45:00
+      message: "Es gibt noch ein paar andere Online-Foren, die helfen könnten, @IronCurtain_UK, aber sei vorsichtig, ich habe gehört, dass einige Leute sie durchkämmen, um alten Groll aus der Zeit vor der Mauer zu hegen."
+      replies:
+      - sender: Einsamernarr@internetnews.local
+        date: 1994-02-21 01:51:00
+        message: "Das stimmt zu 100% und ich würde mich hüten, mich mit jemandem einzulassen, der dumm genug ist, sich so angreifbar zu machen. Sie könnten dich mit in den Abgrund reißen. "
+        replies:
+        - sender: SandmannS@internetnews.local
+          date: 1994-02-23 06:37:00
+          message: "Trotz @Einsamernarrs Panikmache @IronCurtain_UK hat er Recht, dass öffentliche Posts leicht dazu benutzt werden können, dich zu identifizieren, wenn du nicht weißt, was du tust."
+          replies:
+          - sender: Einsamernarr@internetnews.local
+            date: 1994-02-23 06:55:00
+            message: "Ich versuche nur zu helfen."
+            replies:
+            - sender: SandmannS@internetnews.local
+              date: 1994-02-24 09:27:00
+              message: "Ich weiß @Einsamernarr's versuche einfach, dich ein bisschen zu beruhigen."
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 1994-03-02 17:12:00
+    message: "Nicht so wichtig wie IronCurtain_UK, aber ich versuche auch, eine alte Freundin zu finden: Petra Weiss. Wir haben uns früher in der Punkszene getroffen, aber ich habe keinen Kontakt mehr. Lasst es mich wissen, wenn ihr etwas hörst."
+  - sender: East2West_FR@internetnews.local
+    date: 1994-03-05 12:22:00
+    message: "Ich habe versucht, meine alte Lehrerin, Frau Schneider, aus Leipzig zu kontaktieren, aber bis jetzt hatte ich kein Glück."
+  - sender: UberAmpelmann_US@internetnews.local
+    date: 1996-05-15 22:28:00
+    message: "Neuester Stand: Ich habe durch reines Glück zwei alte Nachbarn von damals gefunden! Ich bin ihnen in einem New Yorker Feinkostladen begegnet. Wie stehen die Chancen!?"
+    replies:
+    - sender: BerlinSpiderman_UK@internetnews.local
+      date: 1997-11-24 13:07:00
+      message: "Das ist erstaunlich @UberAmpelmann Ich kann nur hoffen, dass der Rest von uns solche Chancen bekommen."
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1999-12-19 15:21:00
+    message: "Ich habe einen potenziellen Hinweis auf einen alten Freund gefunden, aber es ist schon so lange her, dass ich mich nicht traue, ihn anzusprechen. Meinst du, es ist zu spät?"
+    replies:
+    - sender: SandmannS@internetnews.local
+      date: 2000-01-20 09:14:00
+      message: "Ich denke nicht, dass es zu spät ist, aber sei trotzdem vorsichtig. Ich habe Gerüchte gehört, dass ein paar Leute immer noch ins Visier genommen werden."
+    - sender: East2West_FR@internetnews.local
+      date: 2000-05-28 16:00:00
+      message: "Tu es! Vor 2 Monaten habe ich Frau Schneider gefunden. Wir haben geweint."
+  - sender: Einsamernarr@internetnews.local
+    date: 2001-12-15 03:32:00
+    message: "Ich habe etwas Dummes getan. Ich habe etwas Dummes getan und ich glaube, sie sind hinter mir her. Ich weiß, dass das nicht der Sinn dieses Threads ist, aber ich muss hier schreiben, falls mir etwas zustößt. Wenn ich mich in den nächsten sieben Tagen nicht melde, sucht nach mir. Ich kann nicht sagen, wo ich gerade bin, aber ich werde versuchen, etwas für euch alle zu verstecken. Ich weiß, dass ihr mich alle für verrückt haltet, aber ihr müsst mir ausnahmsweise einmal glauben: Egal, was ihr tut, gebt KEINE persönlichen Informationen in diesem Forum weiter, es ist nicht so sicher, wie wir dachten."
+- sender: IronCurtain_UK@internetnews.local
+  date: 1994-02-22 09:30:00
+  subject: Schuldgefühle
+  message: "Ich fühle mich immer noch schuldig. Ich bin übergelaufen, damit meine Familie eine Zukunft ohne all die Engpässe und Probleme haben kann. Viele meiner anderen Familienmitglieder und Freunde scheinen es als Verrat zu betrachten. Ich weiß, dass es damals die richtige Entscheidung war, aber die Mauer schien so viel schneller zu fallen, als alle erwartet hatten. Es zerreißt mir das Herz zu wissen, dass ich all diese Beziehungen nicht verloren hätte, wenn wir nur ein paar Jahre länger durchgehalten hätten."
+  replies:
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1994-02-23 12:15:00
+    message: "@IronCurtain Ich frage mich immer noch jeden Tag, ob es die richtige Entscheidung war, überzulaufen. Ich wurde beim Überqueren verletzt und bin immer noch allein hier in München. "
+  - sender: UberAmpelmann_US@internetnews.local
+    date: 1994-02-25 20:10:00
+    message: "Du kannst nicht wissen, was passiert wäre, wenn du geblieben wärst. Tappe nicht in die Falle, zu glauben, dass es auf jeden Fall besser gewesen wäre. Mir haben schon Leute gesagt, dass sie es bereuen, nicht mitgekommen zu sein."
+    replies:
+    - sender: East2West_FR@internetnews.local
+      date: 1994-02-28 15:45:00
+      message: "Du hast nicht unrecht, @UberAmpelmann, aber es ist schwer, sich das vor Augen zu halten. Ich habe die letzten Jahre meiner Eltern wegen meiner Entscheidung verpasst. Wenn ich das gewusst hätte, als ich die Mauer überquerte, hätte ich vielleicht umgedreht."
+      replies:
+      - sender: N204R2@internetnews.local
+        date: 1994-03-04 14:12:00
+        message: "Wir werden durchhalten."
+        replies:
+        - sender: SandmannS@internetnews.local
+          date: 1994-03-10 06:42:00
+          message: "Ja, das werden wir. "
+  - sender: IronCurtain_UK@internetnews.local
+    date: 1996-06-15 10:33:00
+    message: "Ich hatte gerade ein Familientreffen. Es gibt immer noch einige, die nicht mit mir oder meiner Frau reden wollen, aber alle waren wunderbar mit den Kindern. Damit kann ich leben."
+    replies:
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 1997-12-04 13:25:00
+      message: "Ich freue mich sehr für dich @IronCurtain_UK. Ich habe jetzt Freunde hier, aber niemanden, mit dem ich mich wieder treffen kann."
+      replies:
+      - sender: East2West_FR@internetnews.local
+        date: 2001-06-30 12:50:00
+        message: "Du könntest dich mit uns wieder vereinen?"
+        replies:
+        - sender: CheckpointCharlotte@internetnews.local
+          date: 2001-07-05 11:11:00
+          message: "Das würde mir gefallen."
+        - sender: Dynamo87@internetnews.local
+          date: 2001-06-09 10:10:00
+          message: "Ich bin dabei!"
+        - sender: SandmannS@internetnews.local
+          date: 2001-06-15 09:02:00
+          message: "Sei nur vorsichtig, das ist schließlich das Internet."
+          replies:
+          - sender: CheckpointCharlotte@internetnews.local
+            date: 2001-06-16 06:59:00
+            message: "Natürlich @ SandmannS"
+- sender: IronCurtain_UK@internetnews.local
+  date: 2001-12-01 15:45:00
+  subject: Treffen?
+  message: "Ich denke gerade an das, was @CheckpointCharlotte in dem anderen Thread gesagt hat. Sollten wir ein richtiges Treffen veranstalten?"
+  replies:
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 2001-12-02 10:10:00
+    message: "@IronCurtain_UK, Das ist eine nette Idee, aber ich bin etwas ängstlich, was solche Treffen angeht, weil ich versuche, mich nicht zu \"outen\"."
+  - sender: UberAmpelmann_US@internetnews.local
+    date: 2001-12-03 07:25:00
+    message: "Ich finde, das ist eine tolle Idee! Wer hat Lust auf Broiler Huhn?"
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 2001-12-03 21:55:00
+    message: "Darf ich Manchester vorschlagen? Ich könnte den Leuten helfen, eine Unterkunft zu finden, die ein bisschen DDR-Feeling hat?"
+  - sender: East2West_FR@internetnews.local
+    date: 2001-12-04 13:30:00
+    message: "Ich bin dabei, aber ich denke, es wäre sinnvoller, das in Berlin oder Dresden zu machen?"
+  - sender: SandmannS@internetnews.local
+    date: 2001-12-06 12:00:00
+    message: "Ich muss davor warnen. Wir haben in den letzten Jahren darauf geachtet, die Dinge anonym zu halten, und das birgt ein Risiko."
+    replies:
+    - sender: IronCurtain_UK@internetnews.local
+      date: 2001-12-06 14:45:00
+      message: "@SandmannS, ich verstehe das, aber es ist längst überfällig. Ich bezweifle aufrichtig, dass irgendjemand hier einen Hintergedanken hat."
+    - sender: UberAmpelmann_US@internetnews.local
+      date: 2001-12-06 18:15:00
+      message: "Ja, es ist ja nicht so, dass wir DDRGudGuy einbeziehen!"
+  - sender: IronCurtain_UK@internetnews.local
+    date: 2001-12-08 19:40:00
+    message: "Ich hasse es, dieser Typ zu sein, aber ich fürchte, ich bin raus. Eines der Kinder hat sich das Bein gebrochen. Es geht ihnen gut, aber ich kann meine Frau auf keinen Fall allein lassen."
+    replies:
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 2001-12-08 20:10:00
+      message: "@IronCurtain_UK, Familie geht vor. Ich glaube, das könnte ein Zeichen sein. Eine schöne Idee, aber es sieht so aus, als ob es einfach nicht sein soll."
+  - sender: UberAmpelmann_US@internetnews.local
+    date: 2001-12-11 07:33:00
+    message: "SO was mache ich mit all den Hühnern, die ich gerade gekauft habe?"
+  - sender: Einsamernarr@internetnews.local
+    date: 2001-12-15 02:00:00
+    message: "MACH NICHT WEITER MIT DEM TREFFEN, ES IST ETWAS PASSIERT."
+- sender: SandmannS@internetnews.local
+  date: 1994-01-02 17:36:00
+  subject: Forum Admin
+  message: "Wir werden hier über die Forenverwaltung diskutieren. "
+  replies:
+  - sender: IronCurtain_UK@internetnews.local
+    date: 1994-02-15 16:35:00
+    message: "Vielen Dank dafür, @SandmannS. Das ist eine fantastische Idee."
+  - sender: Dynamo87@internetnews.local
+    date: 1994-02-20 10:55:00
+    message: "Danke, dass du diesen Mitgliederbereich für echte Überläufer eingerichtet hast. Dadurch fühle ich mich viel sicherer."
+  - sender: East2West_FR@internetnews.local
+    date: 1994-05-25 14:00:00
+    message: "Der \"Bilder\"-Bereich ist eine schöne Idee, auch wenn meine Einwahlverbindung damit nicht zurechtkommt!"
+    replies:
+    - sender: UberAmpelmann_US@internetnews.local
+      date: 1994-06-05 09:20:00
+      message: "Komm in die USA @East2West AOL ist fantastisch!"
+  - sender: IronCurtain_UK@internetnews.local
+    date: 1995-06-20 13:45:00
+    message: "@SandmannS Ich verstehe deine Frustration, aber die Löschung inaktiver Benutzer scheint etwas abrupt, könnten wir ihnen nicht ein bisschen mehr Zeit geben?"
+    replies:
+    - sender: SandmannS@internetnews.local
+      date: 1995-06-21 17:55:00
+      message: "@IronCurtain_UK sie wurden jeweils mehrfach privat angeschrieben und sind seit 6 Monaten oder länger inaktiv."
+      replies:
+      - sender: IronCurtain_UK@internetnews.local
+        date: 1995-06-21 18:18:00
+        message: "@SandmannS Ah, das wusste ich nicht."
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1995-07-15 08:15:00
+    message: "Sieht so aus, als würden jetzt einige Threads fehlen? Ich weiß, dass es einige Aufräumarbeiten gab, aber es sieht so aus, als wären dabei einige richtige Unterhaltungen verloren gegangen."
+    replies:
+    - sender: SandmannS@internetnews.local
+      date: 1995-07-16 13:52:00
+      message: "Sorry @CheckpointCharlotte, das ist das Bestmögliche, was ich tun konnte."
+  - sender: East2West_FR@internetnews.local
+    date: 1996-10-10 12:05:00
+    message: "Diese Regeln sehen ein bisschen intensiver aus @SandmannS, ist alles in Ordnung?"
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1999-02-20 16:00:00
+    message: "@SandmannS Ich muss sagen, dass ich ein Problem mit dem Deaktivieren von Einladungen habe, es ist ja nicht so, dass dies ein großes Forum ist?"
+    replies:
+    - sender: Dynamo87@internetnews.local
+      date: 1999-03-15 10:25:00
+      message: "Ich stimme @ CheckpointCharlotte in diesem Punkt zu @SandmannS vielleicht sollten wir mehr darüber diskutieren?"
+  - sender: East2West_FR@internetnews.local
+    date: 2001-04-15 14:30:00
+    message: "@SandmannS, wenn du Probleme hast, kann ich vielleicht etwas Zeit erübrigen, um dir zu helfen, anstatt nur weitere Threads zu sperren."
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 2001-07-10 15:00:00
+    message: "Threads ohne Archivierung gelöscht? Es ist so traurig, sie alle gehen zu sehen."
+  - sender: Dynamo87@internetnews.local
+    date: 2001-10-30 09:30:00
+    message: "Ich überlege, ob ich gehen soll, Leute."
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 2001-12-23 09:21:00
+    message: Hat noch jemand eine sehr seltsame Nachricht von @Einsamernarr bekommen. Ist das ein Scherz oder so?
+    replies:
+    - sender: IronCurtain_UK@internetnews.local
+      date: 2001-12-23 09:27:00
+      message: Ich melde mich nur an, um das Gleiche zu fragen. Den meisten Unsinn, den er von sich gibt, kann ich ja noch ertragen, aber kryptische Nachrichten über ein irgendein Institut, die er mir Mitten in der Nacht sendet und in denen er behauptet, dass "Sie hinter ihm her sind", das geht zu weit.
+      replies:
+      - sender: CheckpointCharlotte@internetnews.local
+        date: 2001-12-23 10:23:00
+        message: Ich dachte, es ginge nur mir so. Anscheinend hat er mich "immer gemocht, auch wenn es nicht so aussah". Scherz beiseite, können wir überprüfen, ob es ihm gut geht? Ich mache mir Sorgen, dass er vielleicht einen Zusammenbruch hat oder so.
+        replies:
+        - sender: East2West_FR@internetnews.local
+          date: 2001-12-23 11:37:00
+          message: "@SandmannS es ist offensichtlich, dass du in diesem Forum ausgebrannt bist, aber du musst helfen. Das sich @Einsamernarr so von allen online zu verabschieden scheint, ist ein schlechtes Zeichen. Ich mache mir Sorgen, dass er etwas Dummes tun könnte."
+      - sender: CheckpointCharlotte@internetnews.local
+        date: 2001-12-23 15:23:00
+        message: Weiß jemand, was 144 157 153 165 155 145 156 164 145 100 146 162 145 151 150 145 151 164 145 156 164 163 143 150 154 165 145 163 163 145 154 156 056 144 145 bedeutet?
+  - sender: SandmannS@internetnews.local
+    date: 2001-12-31 22:23:00
+    message: "Ich habe alles getan, was ich konnte, aber ich kann so nicht weitermachen. Ich schließe das Forum. Nehmt keinen Kontakt mit mir auf."
+- sender: IronCurtain_UK@internetnews.local
+  date: 1994-02-15 09:42:00
+  subject: Sperrungen
+  message: "Hat noch jemand Probleme mit Hammer&Sickle_89? und natürlich ist auch DDRGudGuy wieder dran."
+  replies:
+  - sender: Dynamo87@internetnews.local
+    date: 1994-02-15 10:05:00
+    message: "Beide, ja. Besonders DDRGudGuy. Es ist klar, dass Hammer&Sickle_89 trollt. Er (definitiv ein Er) tut nicht einmal so, als würde er etwas beitragen."
+    replies:
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 1994-02-15 11:33:00
+      message: "ConcreteCowboy war wieder ein sexistisches Schwein."
+    - sender: UberAmpelmann_US@internetnews.local
+      date: 1994-02-15 13:15:00
+      message: "@SandmannS Ich kann bestätigen, dass alle drei Kopfschmerzen bereiten."
+      replies:
+      - sender: SandmannS@internetnews.local
+        date: 1994-02-15 13:45:00
+        message: "Hammer und Concrete gebannt. GudGuy hat technisch gesehen immer noch nicht gegen die Regeln verstoßen. Ich habe ihm aber eine Verwarnung gegeben."
+      - sender: Einsamernarr@internetnews.local
+        date: 1994-02-16 01:26:00
+        message: "Ich glaube nicht, dass GudGuy versucht, Ärger zu machen. Er sieht die Dinge nur ein bisschen anders. Das ist kein Verbrechen."
+  - sender: Einsamernarr@internetnews.local
+    date: 1994-02-18 04:50:00
+    message: "@Sandmanns Ich glaube, WallJumper1990 ist auf der Jagd nach den Infos der Leute."
+    replies:
+    - sender: SandmannS@internetnews.local
+      date: 1994-02-19 23:45:00
+      message: "Gesperrt und den Behörden gemeldet. Guter Fang @ Einsamernarr"
+      replies:
+      - sender: Einsamernarr@internetnews.local
+        date: 1994-02-19 00:45:00
+        message: "Kein Problem @Sandmanns. Wir müssen auf uns selbst aufpassen, oder?"
+  - sender: UberAmpelmann_US@internetnews.local
+    date: 1994-02-19 14:30:00
+    message: "DDRGudGuy macht wieder Mist."
+    replies:
+    - sender: SandmannS@internetnews.local
+      date: 1994-02-22 16:30:00
+      message: "Zur Kenntnis genommen."
+  - sender: N2O4R2@internetnews.local
+    date: 1996-06-12 08:50:00
+    message: "Hütet euch vor RedRevolution, diese Links sind gefälscht."
+    replies:
+    - sender: SandmannS@internetnews.local
+      date: 1996-06-12 09:40:00
+      message: "Danke, @N2O4R2. Gesperrt."
+  - sender: IronCurtain_UK@internetnews.local
+    date: 2001-07-14 19:50:00
+    message: "Ich habe in letzter Zeit viel mehr Bans und Löschungen bemerkt alles noch in Ordnung SandmannS?"
+    replies:
+    - sender: East2West_FR@internetnews.local
+      date: 2001-07-14 20:10:00
+      message: "Ich muss zugeben, dass die Bannliste sehr lang wird, aber irgendwie tanzt DDRGudGuy immer wieder auf der Kante."
+    - sender: SandmannS@internetnews.local
+      date: 2001-07-15 01:40:00
+      message: "Ich tue, was ich kann."
+- sender: IronCurtain_UK@internetnews.local
+  date: 1994-02-15 11:00:00
+  subject: DDR Rechte und Doumente
+  message: "Hatte noch jemand Probleme mit der Staatsbürgerschaft, weil er vor dem Fall der Mauer übergelaufen ist? Ich hatte gerade einen nervigen Besuch von der Einwanderungsbehörde, die plötzlich nach alten DDR-Dokumenten fragte. Ich mache mir Sorgen."
+  replies:
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1994-02-16 12:20:00
+    message: "Ich habe mit etwas Ähnlichem zu tun. Die Stadtverwaltung hat meinen Antrag auf eine Daueraufenthaltsgenehmigung abgelehnt und sich dabei auf eine \"verdächtige\" Zeit in den späten 80er Jahren berufen."
+  - sender: UberAmpelmann_US@internetnews.local
+    date: 1994-02-18 08:45:00
+    message: "Die Beamten haben Dokumente aus den DDR-Jahren verlangt, die ich offensichtlich nicht habe. Das stieß bei ihnen auf wenig Verständnis."
+  - sender: Dynamo87@internetnews.local
+    date: 1994-02-22 14:15:00
+    message: "Ich kenne jemanden, der fast abgeschoben worden wäre, weil die Dokumente aus der DDR nicht mit den heutigen übereinstimmten. Er bekam schließlich einen Rechtsbeistand und alles ging gut aus. Die gleiche Frau hilft mir auch bei meiner Arbeitserlaubnis, die nächsten Monat erneuert werden muss."
+    replies:
+    - sender: SandmannS@internetnews.local
+      date: 1994-02-25 13:00:00
+      message: "Ich empfehle jedem, dem Beispiel von @Dynamo87 zu folgen. Eine rechtliche Vertretung ist nie ein Fehler und du solltest alle alten Dokumente aufbewahren."
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 1994-03-03 19:35:00
+    message: "Ich wurde während eines Kreditantrags wegen meiner häufigen Reisen nach Berlin festgehalten und befragt. Das geht sie nichts an, aus der DDR zu kommen ist kein Verbrechen!"
+  - sender: Dynamo87@internetnews.local
+    date: 1996-11-15 10:10:00
+    message: "Ich wurde schon mehrmals am Dresdner Flughafen angehalten. Ich habe sogar einen aktuellen Reisepass, aber sie halten mich trotzdem jedes Mal an."
+    replies:
+    - sender: BerlinSpiderman_UK@internetnews.local
+      date: 1996-11-18 18:25:00
+      message: "Das Gleiche. Ich wurde in Gatwick wegen meiner Papiere aufgehalten. Ich habe ihnen meine DDR-Geburtsurkunde gezeigt aber sie \"bezweifeln die Echtheit\". "
+  - sender: SandmannS@internetnews.local
+    date: 1996-11-22 16:30:00
+    message: "Es gibt einige Unternehmen, die notariell beglaubigte Übersetzungen von wichtigen Dokumenten anbieten. Das kann eine Möglichkeit sein, die Leute zu umgehen, die die DDR-Bescheinigung nicht anerkennen, aber wie immer gilt: Im Zweifelsfall solltest du einen Anwalt kontaktieren."
+  - sender: UberAmpelmann_US@internetnews.local
+    date: 1999-06-02 15:40:00
+    message: "Gerade wurde ein DDR Fahrverstoß von '88 bei einer Lizenzumwandlung im Staat New York aufgedeckt. Wie zum Teufel sind die an diese Information gekommen!?"
+  - sender: IronCurtain_UK@internetnews.local
+    date: 1999-06-07 11:10:00
+    message: "Letzten Monat hat ein Arbeitgeber ein Jobangebot zurückgenommen, weil er mein DDR-Hochschuldiplom nicht anerkannte."
+  - sender: Dynamo87@internetnews.local
+    date: 2001-10-17 18:00:00
+    message: "Ich weiß nicht, ob es nur an mir liegt, aber ich habe ein großes Problem mit Impfungen. Es scheint, als ob niemand bereit ist, den DDR-Unterlagen zu trauen."

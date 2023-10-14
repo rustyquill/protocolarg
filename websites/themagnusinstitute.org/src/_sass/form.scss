@@ -1,0 +1,53 @@
+input[type=radio]{
+  visibility: hidden;
+  display: none;
+}
+
+input[type="radio"]{
+  visibility:hidden;
+}
+
+$symbols: (
+  "air": "/assets/pictures/symbols/air.png",
+  "alkali": "/assets/pictures/symbols/alkali.png",
+  "ashes": "/assets/pictures/symbols/ashes.png",
+  "cinnabar": "/assets/pictures/symbols/cinnabar.png",
+  "copper": "/assets/pictures/symbols/copper.png",
+  "day-night": "/assets/pictures/symbols/day-night.png",
+  "earth": "/assets/pictures/symbols/earth.png",
+  "fire": "/assets/pictures/symbols/fire.png",
+  "gold": "/assets/pictures/symbols/gold.png",
+  "iron": "/assets/pictures/symbols/iron.png",
+  "jupiter": "/assets/pictures/symbols/jupiter.png",
+  "lead": "/assets/pictures/symbols/lead.png",
+  "mercury": "/assets/pictures/symbols/mercury.png",
+  "oxygen": "/assets/pictures/symbols/oxygen.png",
+  "phlogiston": "/assets/pictures/symbols/phlogiston.png",
+  "platinum": "/assets/pictures/symbols/platinum.png",
+  "realgar": "/assets/pictures/symbols/realgar.png",
+  "salt": "/assets/pictures/symbols/salt.png",
+  "sulphur": "/assets/pictures/symbols/sulphur.png",
+  "tin": "/assets/pictures/symbols/tin.png",
+);
+
+@each $name, $url in $symbols {
+  @for $i from 1 through 10 {
+    input##{$name}-row#{$i}[type=radio] + label
+    {
+      background-image: url("#{$url}");
+      height: 20px;
+      width: 25px;
+      display:inline-block;
+      padding: 0 0 0 0px;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+
+    input##{$name}-row#{$i}[type=radio]:checked + label
+    {
+      border-color: white;
+      border-style: solid;
+    }
+  }
+}

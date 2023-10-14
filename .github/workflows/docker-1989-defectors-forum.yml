@@ -1,0 +1,48 @@
+name: Build and push docker container for web defectors forum
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
+    paths:
+      - "containers/1989-defectors-forum/src/**"
+env:
+  HOST: 13.42.175.238
+  USER: ec2-user
+  PORT: 22
+  COMPOSE_SERVICE: forum
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v2
+        with:
+          aws-access-key-id: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_SECRET }}
+          aws-region: eu-west-2
+      - name: Login to Amazon ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@v1
+      - name: Build, tag, and push docker image to Amazon ECR
+        env:
+          REGISTRY: ${{ steps.login-ecr.outputs.registry }}
+          REPOSITORY: forum
+          IMAGE_TAG: latest
+        run: |
+          cd containers/1989-defectors-forum/src
+          docker build -t $REGISTRY/$REPOSITORY:$IMAGE_TAG .
+          docker push $REGISTRY/$REPOSITORY:$IMAGE_TAG
+      - name: pull and restart docker container
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: ${{ env.HOST }}
+          username: ${{ env.USER }}
+          key: ${{ secrets.SSH_KEY }}
+          port: ${{ env.PORT }}
+          script: |
+            docker-compose pull ${{ env.COMPOSE_SERVICE }}
+            /home/${{ env.USER }}/docker-compose.sh up --force-recreate ${{ env.COMPOSE_SERVICE }} -d
+

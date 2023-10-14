@@ -1,0 +1,1148 @@
+messages:
+- sender: SandmannS@internetnews.local
+  date: 1994-02-02 19:31:00
+  subject: Vorstellungsrunde
+  message: Ich grüße dieses Forum, das der Diskussion über die DDR gewidmet ist. Ich hoffe, es wächst mit der Zeit und hilft uns allen, uns anzupassen. Bleibt höflich, und ich werde helfen, wo ich kann. Viel Spaß bei euren Diskussionen!
+  replies:
+  - sender: N2O4R2@internetnews.local
+    date: 1994-02-04 08:15:00
+    message: Gute Idee!
+    replies:
+      - sender: SandmannS@internetnews.local
+        date: 1994-02-04 11:22:00
+        message: Schön, dich kennen zu lernen, N2O4R2
+  - sender: UberAmpelmann_US@internetnews.local
+    date: 1994-02-18 15:22:00
+    message: Nach so etwas habe ich schon lange gesucht! Ich freue mich, mitzumachen.
+  - sender: WittyKatarina_FR@internetnews.local
+    date: 1994-03-10 10:10:00
+    message: Lasst den Walzer der Worte über die Geschichte der DDR beginnen! Das wird bestimmt amüsant, oder?
+  - sender: Einsamernarr@internetnews.local
+    date: 1994-03-10 11:09:00
+    message: Hallo!
+  - sender: TrabantTerror@internetnews.local
+    date: 1994-03-28 16:33:00
+    message: Bereit für richtige Diskussionen.
+    replies:
+    - sender: SandmannS@internetnews.local
+      date: 1994-03-29 09:20:00
+      message: Bleibe respektvoll in der Diskussion, TrabantTerror. Ich freue mich aber, dass du da bist.
+  - sender: KarlMarxMyWords@internetnews.local
+    date: 1994-05-15 12:00:00
+    message: Ich freue mich auf die Debatte.
+  - sender: DDRGudGuy@internetnews.local
+    date: 1994-08-28 22:00:00
+    message: Das dürfte interessant werden.
+  - sender: IronCurtain_UK@internetnews.local
+    date: 1994-09-03 19:05:00
+    message: |
+      Ich freue mich, diesem dringend benötigten Forum beizutreten.
+      Ich freue mich darauf, mich an nachdenklichen Diskussionen zu beteiligen.
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1994-10-12 14:10:00
+    message: Ich freue mich, hier zu sein. Ich hoffe, wir können alle voneinander lernen.
+    replies:
+    - sender: DDRGudGuy@internetnews.local
+      date: 1994-10-13 23:45:00
+      message: Einige mehr als andere CheckpointCharlotte?
+      replies:
+        - sender: SandmannS@internetnews.local
+          date: 1994-10-14 07:20:00
+          message: Lass uns daran denken, höflich miteinander umzugehen, DDRGudGuy. Du übertreibst es jetzt schon mit deinem Benutzernamen.
+  - sender: DormantDDR_UK@internetnews.local
+    date: 1995-01-20 20:00:00
+    message: Ich bin bereit, mit euch allen in Erinnerungen zu schwelgen.
+  - sender: East2West_FR@internetnews.local
+    date: 1995-02-28 17:30:00
+    message: Ich freue mich sehr, diesem Forum beizutreten. Lasst uns bei unseren Diskussionen Einigkeit anstreben.
+  - sender: BerlinSpiderman_UK@internetnews.local
+    date: 1995-03-30 21:25:00
+    message: Ich bin bereit, mich in ein paar aufschlussreiche Gespräche zu stürzen!
+  - sender: Wendebender@internetnews.local
+    date: 1995-05-15 01:35:00
+    message: Ich bin hier, um ein bisschen im Topf zu rühren, ich kann es kaum erwarten!
+    replies:
+    - sender: SandmannS@internetnews.local
+      date: 1995-05-15 08:30:00
+      message: Vergiss nicht, Wendebender, dass wir für konstruktive Gespräche hier sind.
+  - sender: GDR_GoneGlobal@internetnews.local
+    date: 1995-07-18 14:00:00
+    message: Ich bin bereit, in die globale Politik der DDR einzutauchen. Ich bin froh, Teil dieser Gemeinschaft zu sein.
+  - sender: FreedomFritter_FR@internetnews.local
+    date: 1995-12-12 13:20:00
+    message: Ich freue mich darauf, den Gesprächen einen Hauch von DDR-Küche zu verleihen.
+  - sender: TearDownThisWall_US@internetnews.local
+    date: 1996-02-08 09:15:00
+    message: Hier kannst du dich mit den historischen Aspekten der Auflösung der DDR beschäftigen.
+  - sender: DDR_Diaspora_AU@internetnews.local
+    date: 1996-03-28 11:00:00
+    message: G'Day! Ich freue mich darauf, mich mit der globalen DDR-Gemeinschaft zu vernetzen.
+  - sender: Dynamo87@internetnews.local
+    date: 1996-04-15 16:45:00
+    message: Ich bin gespannt auf die Diskussionen über DDR-Sportarten. Lasst uns loslegen!
+  - sender: Sputnik_Surfer_US@internetnews.local
+    date: 1997-01-02 22:30:00
+    message: Bereit, die Weltraumaspekte der DDR zu erforschen. Letr's blast off!
+  - sender: EastSideStory_UK@internetnews.local
+    date: 1997-06-18 18:45:00
+    message: Ich freue mich darauf, persönliche Geschichten über das Leben in der DDR zu erzählen.
+  - sender: Ostalgie_Otto@internetnews.local
+    date: 1997-09-20 20:30:00
+    message: Bereit, in Erinnerungen zu schwelgen.
+  - sender: DeutscheDiva_FR@internetnews.local
+    date: 1998-02-15 12:50:00
+    message: Ich freue mich, euch alle nach all der Zeit zu finden!
+- sender: SandmannS@internetnews.local
+  subject: "Was vermissen wir von der DDR?"
+  date: 1994-02-04 21:30:00
+  message: Erster Thread. Wir diskutieren darüber, was wir an DDR vermissen. Bleibt respektvoll.
+  replies:
+  - sender: WittyKatarina_FR@internetnews.local
+    date: 1994-02-16 10:55:00
+    message: Die Einfachheit, das Gefühl der Gemeinschaft. Wir waren Kameraden in einer ganz besonderen Zeit und an einem ganz besonderen Ort und die Gespräche und Interaktionen waren roh und ungefiltert. Es war eine andere Zeit.
+    replies:
+    - sender: UberAmpelmann_US@internetnews.local
+      date: 1994-02-25 08:22:00
+      message: Ich bin ganz deiner Meinung, WittyKatarina_FR. Das zeigte sich in der ganzen Kultur. Vor allem in der Musik - die DDR hatte einen einzigartigen Geschmack, den du nirgendwo anders finden kannst (glaub mir, ich habe nachgesehen). Es verband und vereinte uns.
+      replies:
+      - sender: KarlMarxMyWords@internetnews.local
+        date: 1994-04-22 16:00:00
+        message: UberAmpelmann_US, ich sehe deine Musik und kontere mit leidenschaftlichen ideologischen Diskussionen in der örtlichen Kneipe. Gemeinsame Biere und streitende Köpfe! Und es war nicht nur akademischer Quatsch, sondern echte, rohe Leidenschaft dahinter.
+        replies:
+        - sender: CheckpointCharlotte@internetnews.local
+          date: 1994-06-12 11:15:00
+          message: "@KarlMarxMyWords, ich stimme dir zu, was die Debatten angeht, aber es gab auch dieses Gefühl der Zielstrebigkeit, das alle teilten. Trotz aller Entbehrungen glaubten wir alle daran, dass wir Teil von etwas Größerem als uns selbst waren."
+  - sender: DDRGudGuy@internetnews.local
+    date: 1995-05-03 19:20:00
+    subject: Ordnung muss sein.
+    message: Ordnung, Regeln, Menschen, die ihren Platz kennen. Das war das Ziel, so wie es sein sollte.
+    replies:
+    - sender: Einsamernarr@internetnews.local
+      date: 1995-05-13 19:53:00
+      message: Den Feind zu kennen.
+      replies:
+      - sender: IronCurtain_UK@internetnews.local
+        date: 1995-06-12 14:30:00
+        message: Vielleicht solltest du es etwas abmildern, @einsamernarr? @DDRGudGuy, nicht jeder hat das so gesehen, Kumpel. Aber ich stimme zu, dass die Bindungen, die wir hatten, echt waren. Die Gemeinschaft zählte mehr als jetzt.
+        replies:
+        - sender: TrabantTerror@internetnews.local
+          date: 1995-08-23 13:15:00
+          message: "@IronCurtain_UK, Wenn du das sagst, erinnerst du dich dann an die Vorfreude, an die Begeisterung kurz vor der Wiedervereinigung? Das werden wir nie wieder spüren."
+  - sender: N2O4R2@internetnews.local
+    date: 1996-10-05 17:55:00
+    message: Ich vermisse die Tattoo-Studios. Sie waren mehr als nur Orte, an denen man sich tätowieren lassen konnte, sie waren ein Zuhause.
+    replies:
+    - sender: GDR_GoneGlobal@internetnews.local
+      date: 1996-12-02 10:20:00
+      message: "@N2O4R2, Donnerwetter, ich erinnere mich an die Tattoos. Man kann immer erkennen, ob es DDR-Kunst ist, oder? Ich glaube, was ich am meisten vermisse, ist die Perspektive, die wir auf die Welt hatten. Es ist schwer in Worte zu fassen, aber die Welt durch die Brille der DDR zu sehen, war... anders. Im Nachhinein weiß ich, dass vieles nicht so war wie es scheinte, aber die Welt schien damals mehr Sinn zu ergeben."
+      replies:
+      - sender: DormantDDR_UK@internetnews.local
+        date: 1997-02-13 14:30:00
+        message: "Ich schätze diesen Gedanken, @GDR_GoneGlobal. Auch die DDR-Architektur scheint seither nicht mehr kopiert worden zu sein. So vieles ist verloren gegangen oder wurde renoviert."
+        replies:
+        - sender: East2West_FR@internetnews.local
+          date: 1997-08-17 16:45:00
+          message: "@DormantDDR_UK, Gott, ich vermisse den Plattenbau."
+  - sender: Wendebender@internetnews.local
+    date: 1997-10-27 02:33:00
+    message: Lass uns die Probleme nicht beschönigen, ja? Schuften, knapp über die Runden kommen, die Zeit war hart. Aber rückblickend hatte es etwas Erfüllendes, einen Weg nach vorne zu finden, wenn es keinen gab.
+    replies:
+    - sender: TearDownThisWall_US@internetnews.local
+      date: 1999-06-04 14:25:00
+      message: "@Wendebender Harter Tobak, aber ich weiß, was du meinst. Die Menschen sind jetzt definitiv weicher. Es stimmt eben, dass harte Zeit harte Männer macht"
+      replies:
+      - sender: Sputnik_Surfer_US@internetnews.local
+        date: 1999-09-19 20:30:00
+        message: "@TearDownThisWall_US Für mich ging es aber nicht wirklich darum, hart zu sein. Eher um das kollektive Streben nach Überleben, Widerstandsfähigkeit und letztendlich Freiheit."
+        replies:
+        - sender: EastSideStory_UK@internetnews.local
+          date: 2000-03-10 15:30:00
+          message: "@Sputnik_Surfer_US, du hast den Nagel auf den Kopf getroffen! Es war nicht leicht, aber das heißt nicht, dass wir vergessen sollten, wie sehr es uns zum Besseren geformt hat. Sie hat uns zu dem gemacht, was wir sind."
+  - sender: Ostalgie_Otto@internetnews.local
+    date: 2003-04-28 16:45:00
+    subject: Trabis!
+    message: Leute, lasst uns die Trabis nicht vergessen! Diese kleinen Biester waren glorreich, nicht wahr?
+    replies:
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 2003-06-13 10:25:00
+      message: "@Ostalgie_Otto, Trabants! Niedlich, aber ein Albtraum zu reparieren, glaub mir."
+      replies:
+      - sender: Ostalgie_Otto@internetnews.local
+        date: 2003-10-15 11:30:00
+        message: "@CheckpointCharlotte, aber die Freude, wenn man endlich einen zum Laufen bringt! Dieses Gefühl der Vollendung!"
+    - sender: TearDownThisWall_US@internetnews.local
+      date: 2003-11-10 13:20:00
+      message: "@Ostalgie_Otto @CheckpointCharlotte, Trabants? Booo. Was ist mit den Wartburgs? Du könntest sie bombardieren und sie würden weiterfahren!"
+      replies:
+      - sender: Ostalgie_Otto@internetnews.local
+        date: 2003-11-11 14:00:00
+        message: "Wartburgs? Schreckliche Dinger. Auffällig, aber das ist auch schon alles!"
+        replies:
+        - sender: TearDownThisWall@internetnews.local
+          date: 2003-11-11 14:00:00
+          message: "@Ostalgie_Otto, Sakrileg!"
+        - sender: SandmannS@internetnews.local
+          date: 2003-11-13 09:30:00
+          message: Off Topic Jungs. Erste Verwarnung.
+  - sender: DeutscheDiva_FR@internetnews.local
+    subject: Kunst
+    date: 2006-06-22 15:55:00
+    message: Ich vermisse die Kunst, der Überlebenskampf produzierteetwas Einzigartiges, das ich nicht mehr einfangen konnte
+- sender: SandmannS@internetnews.local
+  date: 1994-03-01 19:10:00
+  subject: Was kann uns an der DDR gestohlen bleiben?
+  message: Hatte einige Anfragen, also neuer Thread. Ihr könnt über Dinge diskutieren, die uns von der DDR gestohlen bleiben können. Bleibt respektvoll, mehr als ein paar von uns sind übergelaufen.
+  replies:
+  - sender: DDRGudGuy@internetnews.local
+    date: 1994-03-05 18:30:00
+    message: Ich fang mal an. Es war die Sorge um den Westen. Wir haben uns immer darauf vorbereitet, dass sie stärker und besser organisiert sind. Jetzt, wo wir alle gesehen haben, wie es wirklich ist, ist es ironisch. Ich würde zurückgehen, wenn ich könnte.
+    replies:
+    - sender: Einsamernarr@internetnews.local
+      date: 1994-03-06 12:30:00
+      message: "Du hast keine Ahnung, @DDRGudGuy, dass der kapitalistische Lärm nur eine Fassade ist. Wenn du tiefer gehst, entdeckst du die wahre Geschichte: Black-Op-Hubschrauber, MKUltra, all das ist im Gange, nur die westlichen Massen sind unwissend."
+      replies:
+      - sender: SandmannS@internetnews.local
+        date: 1994-03-06 19:05:00
+        message: Erste Warnung Einsamernarr, bleib zivilisiert.
+    - sender: TearDownThisWall_US@internetnews.local
+      date: 1994-03-12 14:25:00
+      message: "@DDRGudGuy, ich glaube, du vergisst da ein paar Details. Zum Beispiel die ständige Überwachung? Es war wie ein Auftritt auf einer Bühne, 24/7. Gott sei Dank ist es vorbei."
+      replies:
+      - sender: Einsamernarr@internetnews.local
+        date: 1994-03-12 14:37:00
+        message: Es ist noch nicht vorbei.
+      - sender: Wendebender@internetnews.local
+        date: 1994-06-15 20:50:00
+        message: "@TearDownThisWall_US, @DDRGudGuy, TearDwon hat völlig recht. Es war anstrengend, immer zu schauen, wer in der Nähe war, wenn du gesprochen hast."
+    - sender: UberAmpelmann_US@internetnews.local
+      date: 1994-08-08 09:55:00
+      message: "@Wendebender, @TearDownThisWall_US, DDRGudGuy, ihr wollt mich wohl verarschen. Es war ein Gefängnis."
+    - sender: GDR_GoneGlobal@internetnews.local
+      date: 1998-04-02 16:10:00
+      message: "@UberAmpelmann_US, @Wendebender, @TearDownThisWall_US, @DDRGudGuy, der Druck, sich anzupassen, war unerträglich."
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 1998-06-18 19:05:00
+      message: "@GDR_GoneGlobal, @UberAmpelmann_US, @Wendebender, @TearDownThisWall_US, @DDRGudGuy, Nein danke, DDRGudGuy, nicht schon wieder."
+    - sender: DDRGudGuy@internetnews.local
+      date: 1998-11-13 22:15:00
+      message: "@CheckpointCharlotte, @GDR_GoneGlobal, @UberAmpelmann_US, @Wendebender, @TearDownThisWall_US, IHR alle scheint die Stabilität zu vergessen. Jeder kannte seine Rolle. Das ist viel stabiler als das ganze Chaos heutzutage."
+      replies:
+      - sender: CheckpointCharlotte@internetnews.local
+        date: 1998-11-14 09:40:00
+        message: "@DDRGudGuy, Stabil? Stabil furchtbar vielleicht. Menschen sind gestorben. Ist das stabil?"
+      - sender: TearDownThisWall_US@internetnews.local
+        date: 1998-11-14 11:20:00
+        message: "@DDRGudGuy, es tut mir leid, aber du liegst völlig falsch. Dein Sinn für Frieden ist völlig verdreht. Wie kannst du an einem Ort Frieden finden, an dem es dir nicht einmal erlaubt ist, selbst zu denken?"
+        replies:
+        - sender: Einsamernarr@internetnews.local
+          date: 1998-11-14 11:23:00
+          message: Als ob wir jetzt selbst denken dürften! Chemtrails gefällig? Vorhersagende Programmierung? Es ist alles nur geworden, das ist alles.
+          replies:
+          - sender: DDRGudGuy@internetnews.local
+            date: 1998-11-16 18:50:00
+            message: "@Einsamernarr Ich sage nicht, dass du falsch liegst, aber das ist nicht der Punkt, über den wir uns streiten. @TearDownThisWall_US, @CheckpointCharlotte, ich glaube, ihr müsst beide verstehen, dass es unterschiedliche Auslegungen dessen gibt, was Frieden und Ordnung ausmacht. Du sagst, du schätzt die Freiheit und jetzt versuchst du, mich zu zwingen, so zu denken, wie du willst, nur weil ich die Dinge anders sehe. Das kommt mir scheinheilig vor."
+      - sender: Wendebender@internetnews.local
+        date: 1998-11-17 01:00:00
+        message: "@DDRGudGuy, Niemand zwingt dich zu irgendetwas (im Gegensatz zu früher), aber ist es nicht genau das, was du versuchst, indem du ein System rechtfertigst, das sich nicht um persönliche Freiheiten schert, das die Macht über alles hat?"
+      - sender: IronCurtain_UK@internetnews.local
+        date: 1998-11-17 03:50:00
+        message: "@DDRGudGuy, Deine Behauptungen sind so fehlerhaft, dass sie nicht einmal eine Antwort verdienen. Aber damit du es weißt: Wir reden hier über grundlegende Menschenrechte, nicht über Anarchie. Deine Sehnsucht nach einem System, das alle abweichenden Stimmen unterdrückt, ist weder Ordnung noch Frieden, sondern eine Diktatur."
+      - sender: GDR_GoneGlobal@internetnews.local
+        date: 1998-11-17 06:20:00
+        message: "@DDRGudGuy Die Stabilität, nach der du dich so sehr sehnst, wurde mit Blut bezahlt. Es war nicht Ordnung, es war Angst. Du musst dich mit dieser Realität abfinden."
+  - sender: N2O4R2@internetnews.local
+    date: 1998-11-17 09:30:00
+    message: Ich habe zu viele Menschen verloren.
+    replies:
+    - sender: Wendebender@internetnews.local
+      date: 1998-11-17 13:00:00
+      message: "@N2O4R2, Das Gleiche."
+    - sender: UberAmpelmann_US@internetnews.local
+      date: 1998-11-17 13:20:00
+      message: "@N2O4R2, Wir haben alle etwas verloren. Ich glaube, wir müssen alle einen Schritt zurücktreten."
+  - sender: SandmannS@internetnews.local
+    date: 1998-11-17 14:10:00
+    subject: Das reicht jetzt.
+    message: Genug! Ich habe das Schlimmste aus dem Weg geräumt, aber aus Respekt vor denen, die versucht haben, ordentlich zu diskutieren, lasse ich den Rest stehen. Thema gesperrt.
+- sender: SandmannS@internetnews.local
+  date: 1994-04-01 21:30:00
+  subject: Kino der DDR
+  message: "Das DDR-Kino. Das Gute, das Schlechte, das Hässliche, alles davon."
+  replies:
+  - sender: WittyKatarina_FR@internetnews.local
+    date: 1994-04-15 09:55:00
+    subject: Solo Sunny
+    message: "Ich fange mal an. Solo Sunny. Was für ein Meisterwerk. Es hat die weibliche Erfahrung aus dieser Zeit wirklich eingefangen, Individualität gegen die graue Stumpfheit des Systems."
+    replies:
+    - sender: UberAmpelmann_US@internetnews.local
+      date: 1994-04-27 14:20:00
+      message: "Gute Entscheidung, @WittyKatarina_FR. Sunnys Geschichte war eine solide Allegorie für die DDR, die eigene Identität gegen das System behaupten, aber ich muss sagen, dass es kein \"typischer\" DDR-Film war."
+  - sender: KarlMarxMyWords@internetnews.local
+    date: 1994-06-11 20:40:00
+    subject: Jakob der Lügner
+    message: "\"Jakob der Lügner\", jemand? Der einzige DDR-Film, der für einen Oscar nominiert wurde. Wirklich ergreifend."
+    replies:
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 1994-10-01 11:10:00
+      message: "Ich stimme mit \"Jakob der Lügner\" überein. Hat es jemand geschafft, \"Die Legende von Paul und Paula\" zu sehen? Das war ein Klassiker, wenn ihr ihn sehen konntet."
+      replies:
+      - sender: IronCurtain_UK@internetnews.local
+        date: 1995-02-03 09:25:00
+        message: "@CheckpointCharlotte, oh mein Gott, ich habe Paul und Paula total vergessen! Ich bezweifle, dass ich heutzutage noch eine Kopie auf VHS finden kann. Aber irgendwie ist \"Das Kaninchen bin ich\" immer noch erhältlich. Igitt, was war das für ein Stinker."
+        replies:
+        - sender: DDRGudGuy@internetnews.local
+          date: 1995-03-10 17:35:00
+          message: "@IronCurtain_UK, Da bin ich mir nicht sicher. \"Das Kaninchen bin ich\" wurde zwar stark zensiert, aber es hat das beklemmende DDR-Klima eingefangen. Ich vermute, dass du es wegen der Kontroverse bekommen kannst."
+  - sender: TrabantTerror@internetnews.local
+    date: 1995-04-15 13:10:00
+    message: "Da wir gerade vom Kaufen der Filme sprechen: Ich hatte ein bisschen Glück und muss zugeben, dass sie erstaunlich gut gealtert sind. Wenn du dir etwas wie \"Forrest Gump\" schaust und dir anschliessend die alten DDR-Klassiker ansiehst. Die Filme sind so anders, ob zum Guten oder zum Schlechten."
+    replies:
+    - sender: Einsamernarr@internetnews.local
+      date: 1995-05-15 03:10:00
+      message: "Auf jeden Fall zum Schlechteren. Jetzt erkennen die Leute nicht einmal mehr die Propaganda, mit der sie gefüttert werden."
+      replies:
+      - sender: GDR_GoneGlobal@internetnews.local
+        date: 1995-06-22 10:20:00
+        message: "@Einsamernarr das sind ziemlich düstere Aussichten. @TrabantTerror, da hast du recht. Ich persönlich würde mir lieber Gump ansehen, aber ich bin froh, dass ein bisschen DDR-Kino gerettet worden ist."
+        replies:
+        - sender: Einsamernarr@internetnews.local
+          date: 1995-06-23 04:10:00
+          message: "@GDR_GoneGlobal Die Wahrheit ist oft trostlos, aber besser so als der manipulative Müll, den Hollwood ausspuckt."
+  - sender: DormantDDR_UK@internetnews.local
+    date: 1995-09-15 14:30:00
+    message: "Schwierige Frage also. Waren all diese DDR-Filme wirklich so toll oder ist das nur Nostalgie?"
+    replies:
+    - sender: East2West_FR@internetnews.local
+      date: 1997-07-01 16:40:00
+      message: "@DormantDDR_UK, ich finde sie ehrlich gesagt großartig! Es war nicht schrill, aber dafür umso aufrichtiger. Da vermisse ich fast schon Berlin."
+  - sender: TearDownThisWall_US@internetnews.local
+    date: 1999-01-03 19:20:00
+    message: "Die Einfachheit der DDR-Filme ist das, was ich vermisse. Schau dir Star Wars an. Es fing ganz gut an, aber \"Die dunkle Bedrohung\" ist nur noch CGI-Müll."
+    replies:
+    - sender: Sputnik_Surfer_US@internetnews.local
+      date: 1999-05-07 21:50:00
+      message: "@TearDownThisWall_US, Stimmt. Das Echte im DDR-Kino ist heutzutage schwer zu finden. Bei Blockbuster geht es nur noch um den großen Knall, wie es scheint."
+- sender: SandmannS@internetnews.local
+  date: 1994-05-06 16:00:00
+  subject: DDR Essen
+  message: "Thread auf Anfrage erstellt. DDR-Essen."
+  replies:
+  - sender: WittyKatarina_FR@internetnews.local
+    date: 1994-05-09 12:00:00
+    subject: Kartoffelpuffer!
+    message: "Kartoffelpuffer! Kartoffelpuffer! Kartoffelpuffer!"
+    replies:
+    - sender: UberAmpelmann_US@internetnews.local
+      date: 1994-05-15 07:30:00
+      message: "Kartoffelpuffer in der Tat, @WittyKatarina_FR! Vielleicht hast du ja Glück mit irischen Kartoffelpuffern. Die treffen die gleiche Stelle. Wie wäre es mit Soljanka? Mit ein bisschen Brot an einem kalten Tag ist sie unschlagbar."
+  - sender: KarlMarxMyWords@internetnews.local
+    date: 1994-06-24 18:00:00
+    subject: Brathering
+    message: "Ich würde jedes ausgefallene Restaurantgericht gegen einen guten alten Brathering eintauschen. Einfach ist besser."
+    replies:
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 1994-07-18 10:45:00
+      message: "Da kann ich dir nur zustimmen, @KarlMarxMyWords! Nimm zum Beispiel den Broiler - es war nur ein gebratenes Hähnchen, aber Gott, war das gut. Ich mache es immer noch, aber die Kinder mögen lieber KFC."
+      replies:
+      - sender: IronCurtain_UK@internetnews.local
+        date: 1995-02-12 14:30:00
+        message: "Ich schaffe es nicht, dass mein Hähnchen wie ein echter DDR-Broiler schmeckt. Ich habe immer das Gefühl, dass mir etwas fehlt."
+        replies:
+        - sender: DDRGudGuy@internetnews.local
+          date: 1995-03-20 16:55:00
+          message: "@IronCurtain_UK, Das ist wahrscheinlich Nostalgie, mein Freund. Der Broiler war schließlich nur ein Huhn, nichts Besonderes."
+          replies:
+          - sender: TrabantTerror@internetnews.local
+            date: 1995-05-23 11:15:00
+            message: "@DDRGudGuy, da könntest du Recht haben."
+          - sender: GDR_GoneGlobal@internetnews.local
+            date: 1995-07-08 09:00:00
+            message: "Selbst der bescheidene Rotkohl braucht eine gesunde Dosis Nostalgie, um ihn wirklich zu genießen."
+            replies:
+            - sender: DormantDDR_UK@internetnews.local
+              date: 1995-09-15 15:30:00
+              message: "Ich habe in Northampton ein Lokal gefunden, das einen richtigen Rotkohl serviert! Wenn ich jetzt vorbeifahre, halte ich immer dort an."
+  - sender: East2West_FR@internetnews.local
+    date: 1996-03-17 15:40:00
+    subject: Senfeier, bitte.
+    message: "Wie wäre es mit Senfeier? Echte Hausmannskost."
+    replies:
+    - sender: Wendebender@internetnews.local
+      date: 1996-04-20 01:33:00
+      message: "@East2West_FR, Meine Großmutter hat die beste Senfeier gemacht! Einfache Vergnügungen, weißt du."
+      replies:
+      - sender: East2West_FR@internetnews.local
+        date: 1996-04-20 08:40:00
+        message: "@Wendebender, Dem kann ich nur zustimmen. Heute geht es nur noch um verrückte Zutaten und \"Fusion\"-Küche. Einfachheit wird unterschätzt."
+        replies:
+        - sender: Einsamernarr@internetnews.local
+          date: 1996-04-21 01:09:00
+          message: "Sie verkomplizieren die Geschmäcker, damit du die Chemikalien nicht bemerkst, die sie hinzufügen. Das ist dasselbe wie mit dem Fluor im Wasser. Sie haben mit Blei in der Farbe angefangen und arbeiten sich nun zu immer komplexeren Formeln vor."
+          replies:
+          - sender: SandmannS@internetnews.local
+            date: 1996-04-22 16:03:00
+            message: "@Einsamernarrr Bleib beim Thema oder verschwinde aus dem Thread. Du hast die Wahl."
+        - sender: EastSideStory_UK@internetnews.local
+          date: 1997-02-13 12:30:00
+          message: "Klar, Einfachheit ist gut, aber gegen ein bisschen Abwechslung ist nichts einzuwenden. Man kann nur so viele Kartoffelpuffer haben."
+          replies:
+          - sender: WittyKatarina_FR@internetnews.local
+            date: 1997-02-14 12:00:00
+            message: "Kartoffelpuffer! Kartoffelpuffer! Kartoffelpuffer!"
+            replies:
+            - sender: EastSideStory_UK@internetnews.local
+              date: 1997-02-13 12:31:00
+              message: "@WittyKatarina_FR ist das ein 3-Jahres-Rückruf?"
+            - sender: WittyKatarina_FR@internetnews.local
+              date: 1997-02-14 12:42:00
+              message: "@EastSideStory_UK es könnte sein..."
+            - sender: EastSideStory_UK@internetnews.local
+              date: 1997-02-13 12:31:00
+              message: "@WittyKatarina_FR Gut gespielt..."
+          - sender: Ostalgie_Otto@internetnews.local
+            date: 1997-03-15 15:20:00
+            message: "@EastSideStory_UK, Abwechslung wird überbewertet. Gib mir jederzeit einen Teller herzhaftes Jägerschnitzel."
+            replies:
+            - sender: CheckpointCharlotte@internetnews.local
+              date: 1997-05-23 09:25:00
+              message: "Ich sag dir was, @Ostalgie_Otto, versuch mal, jeden Tag Jägerschnitzel zu essen und sag mir dann, wie sich deine Eingeweide fühlen."
+- sender: SandmannS@internetnews.local
+  date: 1994-04-04 18:30:00
+  subject: DDR Traditionen
+  message: "DDR-Traditionen. Lasst uns bei den tatsächlichen Ereignissen bleiben und nicht nur bei persönlichen Ritualen."
+  replies:
+  - sender: UberAmpelmann_US@internetnews.local
+    date: 1994-04-08 22:20:00
+    subject: Jugendweihe
+    message: "Ich erinnere mich immer gerne an die Jugendweihe, obwohl ich weiß, dass die religiösen Leute sie nie gutgeheißen haben. Trotzdem war es damals etwas Besonderes."
+    replies:
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 1994-04-12 16:40:00
+      message: "Stimme voll und ganz zu, @UberAmpelmann_US. Die Jugendweihe war eine große Sache. Mein Sohn hat sich so darüber aufgeregt, dass er im Vorfeld nicht mehr geschlafen hat."
+    - sender: DDRGudGuy@internetnews.local
+      date: 1994-04-18 20:00:00
+      message: "Es war eine weltliche Tradition, @CheckpointCharlotte, und sie erfüllte ihren Zweck. Wir müssen aber zugeben, dass sie teilweise dazu diente, die Kirche zu verdrängen."
+  - sender: WittyKatarina_FR@internetnews.local
+    date: 1994-04-25 13:20:00
+    message: "Können wir über das Erntedankfest sprechen? Das muss wiederkommen! In dieser Gegend ist alles nur noch Konsumdenken."
+    replies:
+    - sender: KarlMarxMyWords@internetnews.local
+      date: 1995-01-02 10:20:00
+      message: "@WittyKatarina_FR, stimmt. Die Leute wissen nicht mehr zu schätzen, was sie haben. Was die Traditionen angeht, bin ich froh, dass sie weg sind: Die Stasi-Überwachung. Je weniger gesagt wird, desto besser."
+      replies:
+      - sender: Einsamernarr@internetnews.local
+        date: 1995-01-03 04:09:00
+        message: "Oh, wusstest du das nicht, @KarlMarxMyWords? Diese Tradition ist lebendig und gut! In Großbritannien gibt es jetzt mehr Kameras als im gesamten Sowjetblock, als die Mauer fiel. Und wenn du denkst, dass diese Satelliten nur für GPS da sind, dann lebst du in einer Fantasie."
+        replies:
+        - sender: KarlMarxMyWords@internetnews.local
+          date: 1995-01-05 09:03:00
+          message: "Ähm ok @Einsamernarr? @SandmannS ein bisschen Hilfe hier drüben?"
+        - sender: SandmannS@internetnews.local
+          date: 1995-01-06 17:29:00
+          message: "Hör auf, meine Geduld auf die Probe zu stellen @Einsamernarr"
+  - sender: DormantDDR_UK@internetnews.local
+    date: 1995-03-19 17:30:00
+    message: "Der Fasching war mein persönlicher Favorit. Paraden, Kostüme. Die Umstände waren nicht toll, aber dieses Gemeinschaftsgefühl habe ich seitdem nicht mehr erlebt."
+    replies:
+    - sender: East2West_FR@internetnews.local
+      date: 1995-05-27 12:10:00
+      message: "@DormantDDR_UK, ich erinnere mich auch gerne an Fasching! Mein Vater hat uns jedes Jahr mitgenommen. Da kommt der Mardi Gras nicht heran."
+  - sender: TrabantTerror@internetnews.local
+    date: 1996-03-08 14:15:00
+    subject: Tag der Befreiung
+    message: "Der Tag der Befreiung war eine ziemlich große Sache. Ich weiß nicht, ob es angesichts des Themas \"schön\" war, aber die Militärparaden waren sehenswert."
+    replies:
+    - sender: TearDownThisWall_US@internetnews.local
+      date: 1996-04-20 16:35:00
+      message: "@TrabantTerror, einverstanden. Ich finde, der Memorial Day in den USA ist viel weniger militaristisch, es geht mehr um das Gedenken als um die Zurschaustellung von Macht. (Ehrlich gesagt, ich glaube, ich bevorzuge die US-Version, wenn ich ehrlich bin.)"
+    - sender: Ostalgie_Otto@internetnews.local
+      date: 1996-06-10 15:20:00
+      message: "Und dennoch, @TearDownThisWall_US, trotz der militärischen Zurschaustellung, hat es uns geholfen, uns an die Opfer zu erinnern."
+  - sender: Wendebender@internetnews.local
+    date: 1997-01-16 01:45:00
+    message: "Mein Favorit war der Wandertag. Mit Klassenkameraden in den Wald gehen! Ich bezweifle, dass es heutzutage noch solche Ausflüge gibt, bei all den Gesundheits- und Sicherheitsvorschriften..."
+    replies:
+    - sender: IronCurtain_UK@internetnews.local
+      date: 1997-03-21 13:35:00
+      message: "@Wendebender, die Schule meiner Tochter in London macht das immer noch, natürlich nicht in demselben Umfang, aber sie gehen auf Ausflüge."
+    - sender: Sputnik_Surfer_US@internetnews.local
+      date: 1997-05-03 22:15:00
+      message: "Apropos Wandertag, erinnert sich noch jemand an Pionierlager? Ich habe da gemischte Gefühle."
+      replies:
+      - sender: GDR_GoneGlobal@internetnews.local
+        date: 1997-07-12 09:00:00
+        message: "Ja..., sie hatten ihre Probleme. Ich konzentriere mich auf das Positive, aber ich erinnere mich noch an meine Überlebenstricks die wir im Lager gerlernt haben."
+  - sender: EastSideStory_UK@internetnews.local
+    date: 2001-01-15 12:30:00
+    message: "Erinnert sich noch jemand an die Kinderfeste Mein Sohn wird morgen zehn Jahre alt und ich möchte für die Party ein paar DDR-Elemente einbauen. Hat jemand einen Tipp?"
+    replies:
+    - sender: GDR_GoneGlobal@internetnews.local
+      date: 2001-02-01 17:00:00
+      message: "@EastSideStory_UK, ein bisschen spät, aber Blinde Kuh ist ein Klassiker und ich hoffe, du hast deine eigenen Süßigkeiten gemacht?"
+- sender: SandmannS@internetnews.local
+  date: 1994-05-20 15:45:00
+  subject: DDR Frauen
+  message: "Thread-Anfrage nach weiblicher Perspektive auf die DDR."
+  replies:
+  - sender: TrabantTerror@internetnews.local
+    date: 1995-05-23 17:23:00
+    message: "Es scheint, als hätte die DDR die Gleichstellung der Geschlechter vorangetrieben. Zumindest oberflächlich betrachtet, indem man ihnen professionelle Arbeit gab usw."
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1994-05-25 13:20:00
+    message: "@SandmannS, das war alles nur eine Fassade. Sicher, die DDR ermutigte Frauen zu arbeiten, führte einige Antidiskriminierungsgesetze ein und theoretisch wurden Frauen als gleichberechtigt angesehen, aber seien wir mal ehrlich, die Arbeit war nur, weil die Wirtschaft zusammenbrach und immer noch Männer in allen Machtpositionen waren."
+    replies:
+    - sender: WittyKatarina_FR@internetnews.local
+      date: 1994-06-05 09:30:00
+      message: ":@CheckpointCharlotte, da kann ich dir nur zustimmen. Sicher, wir haben gearbeitet und unseren Beitrag zur Gesellschaft geleistet, aber wir haben auch den Haushalt geführt. In mancher Hinsicht waren wir mit dieser Doppelbelastung schlechter dran. Oberflächlicher Fortschritt im Rückblick."
+      replies:
+      - sender: CheckpointCharlotte@internetnews.local
+        date: 1994-06-12 20:55:00
+        message: "@WittyKatarina_FR, genau, es ist keine Gleichberechtigung, wenn du nur zusätzliche Verantwortung übernimmst."
+        replies:
+        - sender: TrabantTerror@internetnews.local
+          date: 1995-02-10 11:15:00
+          message: "Ich glaube, ihr seid beide übermäßig kritisch. Die DDR war nicht perfekt, aber sie war den meisten Ländern um Längen voraus und hatte Frauen in der Regierung."
+          replies:
+          - sender: DormantDDR_UK@internetnews.local
+            date: 1995-04-27 16:00:00
+            message: "@TrabantTerror, Frauen hatten Ämter inne, aber die Erwartungen zu Hause hatten sich nicht geändert. Es geht nicht darum, die DDR als Utopie für die Gleichstellung der Geschlechter zu verherrlichen, sondern ihren einzigartigen Ansatz und die damit verbundenen Fallstricke anzuerkennen."
+            replies:
+            - sender: TrabantTerror@internetnews.local
+              date: 1995-05-07 14:22:00
+              message: "Nun, mein Standpunkt steht. Der Ansatz der DDR war nicht perfekt, aber er war immer noch besser für die Gleichberechtigung als andere."
+            - sender: East2West_FR@internetnews.local
+              date: 1996-03-01 17:10:00
+              message: "Ich bin geneigt, mich auf die Seite von @DormantDDR_UK zu stellen. Aus der Außenperspektive, insbesondere aus meiner jetzigen Perspektive in Frankreich, war die DDR ein großer Gewinn. Frankreich hat immer noch nicht das Niveau der Gleichberechtigung erreicht, das wir in der DDR gesehen haben."
+              replies:
+              - sender: UberAmpelmann_US@internetnews.local
+                date: 1996-04-11 22:30:00
+                message: "@East2West_FR, ich würde behaupten, dass es bei der Frauenförderung in der DDR mehr um den Arbeitskräftemangel ging als um alles andere. Es ist keine Gleichberechtigung, wenn es nur um eine Notwendigkeit geht."
+                replies:
+                - sender: GDR_GoneGlobal@internetnews.local
+                  date: 1997-01-06 09:05:00
+                  message: "@UberAmpelmann_US, da muss ich dir widersprechen. Sicher, es gab praktische Gründe, aber es ist nicht so schwarz-weiß, wie du es darstellst."
+                  replies:
+                  - sender: Sputnik_Surfer_US@internetnews.local
+                    date: 1997-02-19 20:15:00
+                    message: "@GDR_GoneGlobal, gut gesagt. Außerdem können wir die staatliche Politik nicht ignorieren. Es war immer noch ein positiver Wandel, sieh dir die allgemeine Kinderbetreuung an, um Himmels willen."
+                  - sender: CheckpointCharlotte@internetnews.local
+                    date: 1998-02-16 14:30:00
+                    message: "@GDR_GoneGlobal, ich gebe dir Recht, dass die allgemeine Kinderbetreuung von Vorteil war, aber es war immer noch ein Weg, um FRAUEN zu helfen, denn Gott bewahre einen Mann davor, sich um ein Kind zu kümmern."
+        - sender: TrabantTerror@internetnews.local
+          date: 1999-04-03 17:50:00
+          message: "@CheckpointCharlotte, immer noch besser als der Westen."
+          replies:
+          - sender: UberAmpelmann_US@internetnews.local
+            date: 1999-05-12 22:20:00
+            message: "@TrabantTerror, du vereinfachst schon wieder zu sehr."
+    - sender: EastSideStory_UK@internetnews.local
+      date: 2001-02-05 15:25:00
+      message: "Da ich beide Systeme miterlebt habe, kenne ich die Vor- und Nachteile aus erster Hand. Der Ansatz der DDR war bei weitem nicht perfekt, aber er war auch keine komplette Katastrophe."
+      replies:
+      - sender: IronCurtain_UK@internetnews.local
+        date: 2001-03-15 12:35:00
+        message: "@EastSideStory_UK, wir diskutieren nicht darüber, was besser ist, sondern nur über die Unterschiede."
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 1998-02-16 14:30:00
+      message: "Wir sind uns also alle einig? Frauen haben es immer und überall schwer?"
+      replies:
+      - sender: WittyKatarina_FR@internetnews.local
+        date: 1998-02-19 20:36:00
+        message: "@CheckpointCharlotte, lol!"
+    - sender: DDRGudGuy@internetnews.local
+      date: 1998-03-20 16:55:00
+      message: "Ich kann nicht glauben, dass das überhaupt eine Diskussion ist. Es ist, als würdest du versuchen, die DDR in ein schlechtes Licht zu rücken. Dabei war sie weltweit führend in diesem Bereich!"
+      replies:
+      - sender: SandmannS@internetnews.local
+        date: 1998-05-26 17:12:00
+        message: "Lass es gut sein, DDRGudGuy. Keiner beißt an."
+- sender: SandmannS@internetnews.local
+  date: 1994-07-20 15:45:00
+  subject: DDR Sport
+  message: "Thread für DDR-Sportarten. Wenn das hier nur in modernen Fußball fällt, werde ich es löschen.  Ihr wurdet gewarnt. "
+  replies:
+  - sender: TrabantTerror@internetnews.local
+    date: 1994-08-10 14:45:00
+    subject: Das goldene Zeitalter
+    message: "Man kann über die DDR sagen, was man will, aber es war ein goldenes Zeitalter des Sports. Die Olympischen Spiele '76 und Dynamo gegen Magdeburg. Was für eine Zeit, in der ich gelebt habe."
+    replies:
+    - sender: Dynamo87@internetnews.local
+      date: 1994-08-12 13:53:00
+      message: "Der BFC Dynamo hat es geschafft!"
+      replies:
+      - sender: SandmannS@internetnews.local
+        date: 1994-08-15 17:30:00
+        message: "Auf jeden Fall. Der BFC Dynamo war unschlagbar."
+      - sender: GDR_GoneGlobal@internetnews.local
+        date: 1994-08-25 16:25:00
+        message: "Da bin ich anderer Meinung. Alles, was Dynamo hatte, waren auffällige Tricks. "
+        replies:
+        - sender: Dynamo87@internetnews.local
+          date: 1994-09-01 13:32:00
+          message: "@GDR_GoneGlobal Hau ab, du dreckiger Magdeburger Abschaum!"
+        - sender: DormantDDR_UK@internetnews.local
+          date: 1995-04-11 18:15:00
+          message: "@GDR_GoneGlobal, da muss ich mich den anderen anschließen. Dynamo war legendär. "
+        - sender: TrabantTerror@internetnews.local
+          date: 1995-06-10 16:15:00
+          message: "Ich glaube, du stehst auf der falschen Seite der Geschichte, @GDR_GoneGlobal! Dynamo Berlin zuzuschauen war pure Magie, nicht wie bei modernen Mannschaften."
+    - sender: DormantDDR_UK@internetnews.local
+      date: 1995-09-10 17:17:00
+      message: " Heutzutage geht es mehr um das Branding als um das Spiel."
+  - sender: Sputnik_Surfer_US@internetnews.local
+    date: 1996-03-05 21:30:00
+    message: "Um mal eine andere Sportart ins Spiel zu bringen: Ich habe mir hier in den USA einige NBA-Spiele angesehen und es fühlt sich im Vergleich zu den alten DDR-Ligen einfach so kommerziell an. Wir haben für das Spiel gespielt, nicht für die Groupies."
+    replies:
+    - sender: UberAmpelmann_US@internetnews.local
+      date: 1997-02-22 15:20:00
+      message: "@Sputnik_Surfer_US, ich verstehe, woher du kommst, aber lass uns nicht zu rosig werden. Es wurde sehr viel gedopt."
+      replies:
+      - sender: GDR_GoneGlobal@internetnews.local
+        date: 1997-03-03 18:30:00
+        message: "@UberAmpelmann_US, Stimmt. Das war eine richtige Sauerei."
+      - sender: Einsamernarr@internetnews.local
+        date: 1997-03-04 04:35:00
+        message: "Heute ist es schlimmer als in den 80er Jahren. Es gibt Sportler, die Blutspenden von Tieren erhalten. Das ist grotesk!"
+        replies:
+        - sender: GDR_GoneGlobal@internetnews.local
+          date: 1997-03-07 14:57:00
+          message: "Woher nimmst du diesen Unsinn, @Einsamernarr? Ich glaube, du solltest die Tastatur weglegen und selbst etwas Sport treiben!"
+          replies:
+          - sender: Einsamernarr@internetnews.local
+            date: 1997-03-07 15:03:00
+            message: "Das ist eine klassische Schafsantwort. Du sitzt da, verwechselst Unwissenheit mit Wissen und wunderst dich dann, warum die Welt voller Elend ist. Die Wahrheit macht nicht nur dich frei, sie macht jeden frei. Du musst dich schnell weiterbilden, denn solange du das nicht tust, hilfst du mit deinen Aussagen nur das Signal zu verbergen."
+            replies:
+            - sender: GDR_GoneGlobal@internetnews.local
+              date: 1997-03-07 14:57:00
+              message: "@SandmannS?"
+            - sender: SandmannS@internetnews.local
+              date: 1997-03-09 17:16:00
+              message: "Einsamernarr stop!"
+  - sender: East2West_FR@internetnews.local
+    date: 1998-03-15 19:00:00
+    message: "Wenn ich mir die Olympischen Winterspiele ansehe, erinnere ich mich an die Stärke unserer Sportler zu DDR-Zeiten. Unsere Teams hätten die heutigen Wettkämpfer vor eine echte Herausforderung gestellt!"
+    replies:
+    - sender: DormantDDR_UK@internetnews.local
+      date: 1998-03-27 14:45:00
+      message: "@East2West_FR, Besonders im Bobfahren!"
+- sender: SandmannS@internetnews.local
+  date: 1994-07-20 15:45:00
+  subject: "Musik der DDR"
+  message: "DDR-Musik-Chat. Viel Spaß!"
+  replies:
+  - sender: DDRGudGuy@internetnews.local
+    date: 1994-07-25 16:55:00
+    subject: Karat und City
+    message: "Erinnert sich noch jemand an Karat und City? Tolle Musik!"
+    replies:
+    - sender: EastSideStory_UK@internetnews.local
+      date: 1994-08-01 18:45:00
+      message: "@DDRGudGuy, ich bin eher ein Puhdys-Fan, aber sie waren auch solide."
+  - sender: WittyKatarina@internetnews.local
+    date: 1994-08-10 13:15:00
+    subject: Nina Hagen
+    message: "Ich habe eine Schwäche für Nina Hagen. Alle neuen Künstler fühlen sich an, als wären sie nur ein Echo."
+    replies:
+    - sender: Einsamernarr@internetnews.local
+      date: 1994-08-11 14:16:00
+      message: "@WittyKatarina du hast völlig Recht. Das liegt an etwas, das sich \"Programmierung\" nennt und das nachweislich eine Taktik der Neuen Weltordnung ist. Es ist im Grunde eine neuere, hochtechnisierte Form der Propaganda, um die Menschen gefügig zu machen. Wenn du willst, kann ich dich auf eine Menge Literatur darüber verweisen."
+      replies:
+      - sender: WittyKatarina@internetnews.local
+        date: 1994-08-12 12:05:00
+        message: "Nein danke, @einsamernarr, ich nehme dich beim Wort."
+        replies:
+        - sender: Einsamernarr@internetnews.local
+          date: 1994-08-12 12:25:00
+          message: "Sag mir Bescheid, wenn du deine Meinung änderst @WittyKatarina, es ist ein wirklich interessantes Thema und ich würde es dir jederzeit gerne erklären."
+          replies:
+          - sender: WittyKatarina@internetnews.local
+            date: 1994-08-12 15:05:00
+            message: "Ich werde das im Hinterkopf behalten."
+            replies:
+            - sender: Einsamernarr@internetnews.local
+              date: 1994-08-12 15:07:00
+              message: "Gern geschehen, @WittyKatarina!"
+  - sender: Sputnik_Surfer_US@internetnews.local
+    date: 1994-08-13 19:20:00
+    subject: Techno
+    message: "Man kann den Charme einiger alter Rockbands nicht leugnen, aber hey, können wir auch über die Techno-Szene reden? Die Vision hatte einige Knaller!"
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1995-03-10 14:05:00
+    message: "Frank Schöbel ist ein reuiges Vergnügen. Seine Musik war ein reuiges Vergnügen. Ich habe gerade Take That im Konzert gesehen und die Energie war ähnlich, aber nicht ganz so."
+    replies:
+    - sender: DDRGudGuy@internetnews.local
+      date: 1995-03-16 18:30:00
+      message: "@CheckpointCharlotte, brauchst dich nicht zu schämen Schöbel zu mögen! Die heutige Popmusik kann seinem Charme nicht das Wasser reichen."
+  - sender: UberAmpelmann_US@internetnews.local
+    date: 1996-02-20 15:35:00
+    message: "Gibt es hier Silly-Fans? So bessere Texte als all die \"Hey Babe\"-Lyrics, die derzeit aus Amerika kommen."
+    replies:
+    - sender: DormantDDR_UK@internetnews.local
+      date: 1996-02-29 16:45:00
+      message: "@UberAmpelmann_US, ich kann ihrer Musik nichts abgewinnen aber die Texte von Silly regen zum Nachdenken an."
+      replies:
+      - sender: Sputnik_Surfer_US@internetnews.local
+        date: 1996-03-03 20:30:00
+        message: "@DormantDDR_UK, @UberAmpelmann_US, Silly war ausgezeichnet. Allerdings finde ich, dass die Grunge-Szene hier in den USA mich an DDR-Musik erinnert. Sie hat etwas Rohes an sich."
+        replies:
+        - sender: DDRGudGuy@internetnews.local
+          date: 1997-04-10 18:55:00
+          message: "Ich weiß nicht, ob ich dir zustimmen kann, Sputnik. Ich kann einfach nichts finden, was unseren Besten nahekommt."
+          replies:
+          - sender: WittyKatarina@internetnews.local
+            date: 1997-04-15 14:05:00
+            message: "@DDRGudGuy, ich stimme dir zu. Es ist alles so oberflächlich geworden."
+  - sender: DormantDDR_UK@internetnews.local
+    date: 1998-03-03 19:00:00
+    subject: Wonderwall
+    message: "Ich habe gerade \"Wonderwall\" von Oasis gehört. Erinnert mich an \"Über sieben Brücken musst du gehn\" von Karat."
+    replies:
+    - sender: UberAmpelmann_US@internetnews.local
+      date: 1998-03-12 16:55:00
+      message: "@DormantDDR_UK, das ist ein interessanter Vergleich. Ich kann die Ähnlichkeit irgendwie erkennen."
+  - sender: WittyKatarina@internetnews.local
+    date: 1999-04-10 13:55:00
+    message: "In der Popmusik geht es heute nur noch um Glanz und Glam, nicht mehr um Substanz."
+  - sender: DDRGudGuy@internetnews.local
+    date: 2001-02-02 18:30:00
+    message: "Ich bin gerade auf eine alte Aufnahme der Puhdys gestoßen, die so viele Erinnerungen wachgerufen hat."
+    replies:
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 2001-02-06 15:30:00
+      message: "Und ich dachte schon, ich wäre der Einzige, der nostalgisch wird!"
+- sender: SandmannS@internetnews.local
+  date: 1994-08-30 19:04:00
+  subject: Das Erbe der DDR
+  message: "Ich füge diesen Thread auf vielfachen Wunsch wider besseres Wissen hinzu. Beweist das ich mich irre."
+  replies:
+  - sender: DDRGudGuy@internetnews.local
+    date: 1994-09-20 14:25:00
+    message: "Ich weiß, dass jeder auf Autos und Technik verweist, aber es ist so viel mehr als das. Die DDR hat die internationale Kunstszene komplett verändert. Überall sind Spuren davon zu sehen."
+    replies:
+    - sender: Sputnik_Surfer_US@internetnews.local
+      date: 1994-09-25 22:05:00
+      message: "@DDRGudGuy, vielleicht in einigen Nischen der Kunstwelt, aber es ist wirklich nicht so bedeutend, wie du es darstellst."
+  - sender: DormantDDR_UK@internetnews.local
+    date: 1995-03-20 16:30:00
+    subject: Weltpolitik
+    message: "Die DDR hat immer noch Einfluss auf die internationale Diplomatie. Wir haben den Präzedenzfall für die Wiedervereinigung und die Unabhängigkeitsbewegungen geschaffen."
+    replies:
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 1995-03-27 15:15:00
+      message: "@DormantDDR_UK, Das ist ein wenig Übertrieben. Erinnert du dich an die Französische Revolution? Nicht alles dreht sich um die DDR, weißt du."
+      replies:
+      - sender: Einsamernarr@internetnews.local
+        date: 1995-03-28 00:15:00
+        message: Es tut mir leid @DormantDDR_UK, aber @CheckpointCharlotte hat recht. Die Wahrheit ist, dass der Griff der westlichen kulturellen Hegemonie bereits vollständig ist und sogar die DDR vor dem Ende infiltriert hat. Die Wahrheit ist, dass die DDR die Weltpolitik nur beeinflusst hat, weil sie das sichtbarste Zeichen dafür war, wie weit der Westen gehen wird, um seinen Einfluss über die Bevölkerung zu behalten.
+        replies:
+        - sender: CheckpointCharlotte@internetnews.local
+          date: 1995-03-29 14:15:00
+          message: "Ich bin mir nicht sicher, ob ich dir in diesem Punkt zustimme, @Einsamernarr, aber ich bleibe bei meinem Kommentar, dass die DDR einfach nicht der Einfluss ist, den @DormantDDR_UK aus ihr macht."
+          replies:
+          - sender: Einsamernarr@internetnews.local
+            date: 1995-03-29 14:19:00
+            message: Es ist in Ordnung, dass du anderer Meinung bist, @CheckpointCharlotte, aber Tatsache ist, dass die westliche Politik ein geschlossenes System ist, das von der Elite kontrolliert wird und nur durch eine Revolution verändert werden kann, weshalb sie die Bevölkerung chemisch unterdrückt.
+  - sender: WittyKatarina@internetnews.local
+    date: 1996-02-15 14:35:00
+    message: "Ich würde behaupten, dass die DDR-Philosophie einen großen Einfluss auf die Bildung und die Kinderbetreuung hatte.\n\nWir haben praktisch die Gesetze zur Chancengleichheit und des Arbeitsrechts erschaffen, die heute überall kopiert werden."
+    replies:
+    - sender: Sputnik_Surfer_US@internetnews.local
+      date: 1996-02-16 21:15:00
+      message: "@WittyKatarina, das ist lächerlich! Die DDR-Erziehung ließ viel zu wünschen übrig. Wenn wir nicht gerade mit Propaganda gefüttert wurden, wurden wir zu praktischen Fertigkeiten gezwungen, ohne kritisches Denken, um den Status quo ja nicht zu hinterfragen."
+      replies:
+      - sender: WittyKatarina@internetnews.local
+        date: 1996-02-17 14:30:00
+        message: "@Sputnik_Surfer_US, ich habe nie gesagt, dass es perfekt war. Und übrigens würde ich behaupten, dass das kritische Denken genauso wertvoll war, es sah nur anders aus."
+  - sender: UberAmpelmann_US@internetnews.local
+    date: 1997-03-03 18:45:00
+    subject: Mode
+    message: "Sieht noch jemand ein Wiederaufleben der DDR-Mode? Überall gibt es wieder Kleider mit einfachen Mustern."
+    replies:
+    - sender: WittyKatarina@internetnews.local
+      date: 1997-03-04 14:00:00
+      message: "@UberAmpelmann_US, Da bin ich mir nicht sicher. Unsere Kleidung wurde aus der Not heraus gemacht, nicht aus Stil. Ich würde vergangene Entbehrungen nicht auf diese Weise verherrlichen."
+      replies:
+      - sender: UberAmpelmann_US@internetnews.local
+        date: 1997-03-04 19:00:00
+        message: "@WittyKatarina, Nur eine Feststellung. Ich wollte dich nicht brüskieren. "
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 2001-02-04 15:25:00
+    message: "Es ist ermutigend zu sehen, dass die Welt einige unserer DDR Prinzipien übernimmt, trotz all ihrer Probleme."
+    replies:
+    - sender: DormantDDR_UK@internetnews.local
+      date: 2001-02-04 17:15:00
+      message: "@CheckpointCharlotte, das ist aber nett von dir. Du hackst immer auf der DDR herum."
+      replies:
+      - sender: CheckpointCharlotte@internetnews.local
+        date: 2001-02-04 18:05:00
+        message: "@DormantDDR_UK, und du erinnerst dich an eine Utopie, die es nicht gab. "
+        replies:
+        - sender: SandmannS@internetnews.local
+          date: 2001-02-04 18:30:00
+          message: "Bleibt höflich, @CheckpointCharlotte, und @DormantDDR_UK."
+          replies:
+          - sender: CheckpointCharlotte@internetnews.local
+            date: 2001-02-04 18:35:00
+            message: "@SandmannS, es ist nicht meine Schuld, dass @DormantDDR_UK nicht mit einer Meinung umgehen kann."
+            replies:
+            - sender: DormantDDR_UK@internetnews.local
+              date: 2001-02-04 18:40:00
+              message: "@CheckpointCharlotte, die Überheblichkeit steht dir."
+              replies:
+              - sender: SandmannS@internetnews.local
+                date: 2001-02-04 18:50:00
+                message: "Ich schließe diesen Thread, bis ihr euch alle beruhigt habt."
+                replies:
+                - sender: DDRGudGuy@internetnews.local
+                  date: 2001-02-04 18:52:00
+                  message: "@SandmannS, ich dachte, dies sei ein Diskussionsforum?"
+  - sender: SandmannS@internetnews.local
+    date: 2001-02-04 19:00:00
+    subject: "Thema gesperrt"
+    message: "Thema gesperrt."
+- sender: SandmannS@internetnews.local
+  date: 1994-01-20 08:31:00
+  subject: "Bildung in der DDR"
+  message: "Interessanter Thread-Vorschlag, von dem ich nicht viel weiß."
+  replies:
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1994-01-21 18:15:00
+    message: "Die DDR-Erziehung hatte trotz ihrer Probleme auch ihre Vorzüge. Vor allem die Tatsache, dass alle das gleiche Bildungsniveau erhalten sollten und dass der Schwerpunkt auf einer relevanten Berufsausbildung lag."
+    replies:
+    - sender: DormantDDR_UK@internetnews.local
+      date: 1994-01-23 15:30:00
+      message: "@CheckpointCharlotte Über die Ergebnisse kann man nicht streiten. Die obligatorische Berufsausbildung hat für ein gewisses Maß an Arbeitsplatzsicherheit gesorgt, was im Westen meiner Meinung nach übersehen wird."
+      replies:
+      - sender: Sputnik_Surfer_US@internetnews.local
+        date: 2001-01-11 23:15:00
+        message: "@DormantDDR_UK, so könnte man es auch sehen."
+    - sender: DDRGudGuy@internetnews.local
+      date: 1995-04-13 14:50:00
+      message: "Ich würde sagen, dass der \"umfassende\" Charakter der DDR-Ausbildung auch ein Nachteil sein kann. Der Mangel an Wahlmöglichkeiten hat oft Individualismus und Kreativität unterdrückt."
+      replies:
+      - sender: CheckpointCharlotte@internetnews.local
+        date: 1995-04-13 20:23:00
+        message: "@DDRGudGuy, überrascht es dich, dass du schlecht über deine geliebte DDR redest?"
+        replies:
+        - sender: DDRGudGuy@internetnews.local
+          date: 1995-04-13 21:50:00
+          message: "Sagen wir einfach, dass sich die Dinge verbessert haben, nachdem ich die Schule verlassen habe."
+          replies:
+          - sender: Einsamernarr@internetnews.local
+            date: 1995-04-15 03:32:00
+            message: "Der einzige Unterschied zwischen den DDR-Schulen und den modernen Schulen ist, dass die Indoktrination subtiler geworden ist."
+            replies:
+            - sender: WittyKatarina@internetnews.local
+              date: 1996-03-20 14:05:00
+              message: "Ich habe früher in einer DDR-Schule unterrichtet. Ich muss zugeben, dass der politische Einfluss zu groß war."
+              replies:
+              - sender: Einsamernarr@internetnews.local
+                date: 1995-03-20 14:17:00
+                message: "Und es ist nicht nur die Politik! Die Zensur wird nur noch schlimmer. Damals mussten wir alle akzeptieren, dass die DDR besser war, egal, was wir über die Mauer mitbekamen. Jetzt ist die Unterdrückung weltweit! Es gibt bereits autarke Wasserstoffmotoren, die Bezin-Autos über Nacht ersetzen könnten, aber die Eliten verheimlichen dass absichtlich, damit wir alle an der staatlichen Infrastruktur festhalten. Das war Teil des Deals, den die Sowjets mit den westlichen Mächten geschlossen haben. Sie dürfen weiterhin Öl liefern, wenn sie so tun, als hätten sie den Satellitenstaaten ihre Unabhängigkeit gewährt."
+                replies:
+                - sender: SandmannS@internetnews.local
+                  date: 1995-03-21 15:31:00
+                  message: "Glückwunsch @Einsamernarr. Ich muss diesen Thread jetzt sperren, bevor noch jemand diesen Unsinn sieht."
+  - sender: SandmannS@internetnews.local
+    date: 1997-01-02 09:00:00
+    subject: Thread wieder eröffnet
+    message: "Ich eröffne diesen Thread wieder, gegen meinen gesunden Menschenverstand."
+  - sender: UberAmpelmann_US@internetnews.local
+    date: 1997-01-02 18:00:00
+    message: "Danke @SandmannS, @WittyKatarina, möchtest du etwas erzählen? Ich wurde zu jung aus der DDR geholt, um mich an viel zu erinnern."
+    replies:
+    - sender: WittyKatarina@internetnews.local
+      date: 1997-01-03 14:00:00
+      message: "@UberAmpelmann_US, klar. Im Grunde wurde die Ideologie künstlich zu jedem Thema hinzugefügt, auch wenn es nicht relevant war, und wenn du versucht hast, sie zu vermeiden, wurdest du \"inspiziert\". Ziemlich ärgerlich."
+      replies:
+      - sender: UberAmpelmann_US@internetnews.local
+        date: 1997-01-04 18:25:00
+        message: "@WittyKatarina, na und, war das alles nur Propaganda?"
+        replies:
+        - sender: WittyKatarina@internetnews.local
+          date: 1998-02-15 13:45:00
+          message: "@UberAmpelmann, ja und nein. Das war ein Teil davon, aber das System hat die Kinder auch auf das Leben in einer sozialistischen Wirtschaft vorbereitet."
+          replies:
+          - sender: UberAmpelmann_US@internetnews.local
+            date: 1998-02-15 18:10:00
+            message: "@WittyKatarina, aber das bedeutet doch sicher, dass nach dem Fall der Mauer alle am Arsch waren?"
+            replies:
+            - sender: WittyKatarina@internetnews.local
+              date: 1999-02-22 14:10:00
+              message: "@UberAmpelmann_US, das kann ich nicht sagen. Ich unterrichte schon seit ein paar Jahren nicht mehr."
+            - sender: Dynamo87@internetnews.local
+              date: 2000-03-20 16:45:00
+              message: "Da ich aus einer Familie von Pädagogen stamme, kann ich sagen, dass die DDR-Ausbildung solide und streng war. Den Kindern ging es nach der Mauer gut."
+              replies:
+              - sender: Sputnik_Surfer_US@internetnews.local
+                date: 2000-03-21 22:30:00
+                message: "@Dynamo87, ich weiß nicht, aus meiner Sicht ging es mehr um Konformität und weniger um persönliche Entwicklung."
+                replies:
+                - sender: Dynamo87@internetnews.local
+                  date: 2001-01-10 16:35:00
+                  message: "Ich sage nicht, dass es ihnen um \"persönliches Wachstum\" ging, aber vielleicht war es ein positiver Nebeneffekt. "
+- sender: SandmannS@internetnews.local
+  date: 1994-01-16 12:20:00
+  subject: DDR Werte
+  message: "Ich dachte, wir könnten von einem Thread profitieren, der sich mit DDR-Werten beschäftigt. Gemeinschaft, Gleichberechtigung und so weiter."
+  replies:
+  - sender: Sputnik_Surfer_US@internetnews.local
+    date: 1994-01-18 21:45:00
+    message: "@SandmannS, ich verstehe, woher du kommst, aber lass uns nicht romantisieren. Die \"Werte\" wurden vom Staat durchgesetzt. Das gab ein Gefühl von Kollektivismus, sicher, aber ich ziehe meine Freiheit vor, danke."
+    replies:
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 1995-04-05 16:50:00
+      message: "@Sputnik_Surfer_US, Du hast nicht unrecht, aber ich vermisse das Gefühl, Teil eines Ganzen zu sein, und nicht das aktuelle Chaos."
+      replies:
+      - sender: Dynamo87@internetnews.local
+        date: 1995-04-06 14:25:00
+        message: "@CheckpointCharlotte, Es gab definitiv mehr Gleichberechtigung. Etwas, das wir im Westen immer seltener sehen."
+        replies:
+        - sender: Sputnik_Surfer_US@internetnews.local
+          date: 1996-03-23 20:50:00
+          message: "@Dynamo87, Das ist besser als die Stasi, die jeden Aspekt unseres Lebens kontrolliert."
+          replies:
+          - sender: CheckpointCharlotte@internetnews.local
+            date: 1996-03-24 19:00:00
+            message: "Wir haben es verstanden, @Sputnik_Surfer_US. Du hattest eine schlimme Begegnung mit der Stasi, aber lass uns versuchen, objektiv zu bleiben, ja?"
+            replies:
+            - sender: SandmannS@internetnews.local
+              date: 1996-03-25 00:13:00
+              message: "Das gilt auch für dich, Charlotte."
+              replies:
+              - sender: CheckpointCharlotte@internetnews.local
+                date: 1996-03-26 06:59:00
+                message: "Gut. Entschuldigung Sputnik."
+              - sender: Sputnik_Surfer_US@internetnews.local
+                date: 1996-03-26 09:50:00
+                message: "Ist schon gut."
+    - sender: DormantDDR_UK@internetnews.local
+      date: 1997-01-13 15:30:00
+      message: "Wir alle wissen, dass die DDR nicht perfekt war, aber das heißt nicht, dass sie der Welt nicht auch etwas zu bieten hatte. So wie wir!"
+      replies:
+      - sender: Sputnik_Surfer_US@internetnews.local
+        date: 1999-03-10 20:50:00
+        message: "Ich sage nur, dass staatlich erzwungene Solidarität nicht dasselbe ist wie wahre Solidarität."
+        replies:
+        - sender: Dynamo87@internetnews.local
+          date: 1999-03-11 14:35:00
+          message: "@Sputnik_Surfer_US, ich frage mich nur, ob deine neue amerikanische Perspektive deine Sichtweise verzerrt. Es ist eine ganz andere Kultur dort drüben."
+          replies:
+          - sender: Sputnik_Surfer_US@internetnews.local
+            date: 1999-03-11 20:55:00
+            message: "Bei allem Respekt, @Dynamo87, du kannst es romantisieren, wie du willst, aber die DDR war unterdrückend und kontrollierend."
+            replies:
+            - sender: CheckpointCharlotte@internetnews.local
+              date: 2000-04-10 18:25:00
+              message: "@Sputnik_Surfer_US, aber wenigstens war sie nicht so ungleich wie Amerika."
+              replies:
+              - sender: Sputnik_Surfer_US@internetnews.local
+                date: 2000-04-10 21:10:00
+                message: "@CheckpointCharlotte, ich glaube, wir müssen uns darauf einigen, dass wir nicht einer Meinung sind."
+            - sender: Einsamernarr@internetnews.local
+              date: 2000-04-11 04:01:00
+              message: "Ich glaube, du missverstehst @Sputnik_Surfer es geht nicht darum, dass die DDR unterdrückerisch war, die WELT ist unterdrückerisch, die DDR ist nur ein kleines Beispiel für die Kontrolle, die bereits auf internationaler Ebene ausgeübt wurde. Die Wahrheit ist, dass die DDR ein Opfer der Vereinbarungen der Neuen Weltordnung war."
+              replies:
+                - sender: Sputnik_Surfer_US@internetnews.local
+                  date: 2000-04-12 14:10:00
+                  message: "@Einsamernarr, ich glaube, in einem Punkt sind @CheckpointCharlotte und ich uns einig: Du bist nicht hilfreich."
+                  replies:
+                  - sender: CheckpointCharlotte@internetnews.local
+                    date: 2000-04-12 19:12:00
+                    message: "@Sputnik_Surfer_US einverstanden."
+                    replies:
+                    - sender: Einsamernarr@internetnews.local
+                      date: 2000-04-12 19:22:00
+                      message: "Baaaaaaa!"
+  - sender: DormantDDR_UK@internetnews.local
+    date: 2001-01-12 16:25:00
+    message: "Ich denke, dass DDR trotz des ganzen Gemeinschaftsgeredes unter der Oberfläche die Eigenverantwortung in den Vordergrund gestellt hat. Und ich frage mich, ob das nicht auch etwas Positives ist."
+    replies:
+    - sender: Sputnik_Surfer_US@internetnews.local
+      date: 2001-01-12 21:05:00
+      message: "@DormantDDR_UK, Vielleicht. Aber das Negative überwiegt bei weitem das Positive."
+      replies:
+      - sender: SandmannS@internetnews.local
+        date: 2001-01-14 17:30:00
+        message: "Lass es gut sein. @Sputnik_Surfer_US, kein Urteil. Das Überlaufen war auf eine Weise hart, die einige in der Gruppe nicht verstehen werden. @Einsamernarr du brauchst professionelle Hilfe."
+- sender: SandmannS@internetnews.local
+  date: 1994-01-02 12:20:00
+  subject: Stasi
+  message: "Da dieses Thema immer wieder auftaucht, habe ich einen eigenen Bereich dafür eingerichtet. Lasst es mich nicht bereuen."
+  replies:
+  - sender: Einsamernarr@internetnews.local
+    date: 1994-01-02 13:35:00
+    message: Ihr seid dumm, wenn ihr in einem öffentlich sichtbaren Forum darüber redet.
+    replies:
+    - sender: SandmannS@internetnews.local
+      date: 1994-01-02 13:52:00
+      message: "Ausnahmsweise sind wir uns fast einig @Einsamernarr."
+  - sender: DDRGudGuy@internetnews.local
+    date: 1994-01-02 14:20:00
+    message: "Ich denke, es ist wichtig, sich daran zu erinnern, dass die Stasi, trotz all ihrer Fehler, dazu beigetragen hat, die DDR in schlechten Zeiten stabil zu halten."
+    replies:
+    - sender: Dynamo87@internetnews.local
+      date: 1994-01-02 15:30:00
+      message: "Ist das dein Ernst, @DDRGudGuy? Als ich 10 Jahre alt war, wurde mir mein Vater weggenommen. Ohne Grund. Ich habe ihn nie wieder gesehen. Das ist keine Stabilität."
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 1994-01-02 16:35:00
+      message: "@DDRGudGuy, Kumpel, lass mich dir einen Realitätscheck geben. Meine Familie lebte auf dem Land. Wir waren nicht politisch, aber weil mein Onkel zu einer öffentlichen Versammlung ging, bei der sich jemand ANDERES beschwerte, wurde meine ganze Familie markiert. Wir mussten mit meiner kleinen Schwester über die Mauer springen! Sei vorsichtig mit deinen Aussagen."
+      replies:
+      - sender: DDRGudGuy@internetnews.local
+        date: 1994-01-07 17:32:00
+        message: "@CheckpointCharlie, @Dynamo87, ich höre euch beide, aber nur weil ihr persönlich schlechte Erfahrungen gemacht habt, heißt das nicht, dass es überhaupt keinen Bedarf dafür gab."
+    - sender: N204R2@internetnews.local
+      date: 1994-01-03 16:00:00
+      message: "Du hast ja keine Ahnung."
+    - sender: WittyKatarina@internetnews.local
+      date: 1994-01-11 15:39:00
+      message: "Meine beste Freundin war eine Informantin. Ich liebte sie wie eine Schwester, wir teilten alles und die ganze Zeit spionierte sie mir nach. Sie hat mich verraten."
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 1994-01-12 16:22:00
+      message: "Das Leben unter der Stasi war ein Albtraum, @DDRGudGuy. "
+    - sender: SandmannS@internetnews.local
+      date: 1994-01-13 17:01:00
+      message: "Das war ein Fehler. Ich schließe den Thread. @DDRGudGuy, ich empfehle dir dringend, eine Zeit lang nicht mehr zu posten."
+- sender: SandmannS@internetnews.local
+  date: 1994-06-15 09:37:00
+  subject: DDR Gesundheitswesen
+  message: "Seltsame Anfrage, aber warum nicht. DDR-Gesundheitswesen. Dann mal los."
+  replies:
+  - sender: Dynamo87@internetnews.local
+    date: 1994-06-15 12:05:00
+    subject: Krankenhaus Essen
+    message: "Ich vermisse das Krankenhaus Essen überhaupt nicht."
+    replies:
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 1994-06-16 13:05:00
+      message: "@Dynamo87, lol wie kann man Suppe falsch verstehen!? Aber mal im Ernst: Das war eine der Stärken der DDR. Eine kostenlose allgemeine Grundversorgung, das ist nicht schlecht."
+      replies:
+      - sender: WittyKatarina@internetnews.local
+        date: 1994-06-20 11:00:00
+        message: "Die Wartezeiten waren allerdings horrend, und die Einrichtungen... sagen wir einfach, ich bin jetzt glücklicher."
+        replies:
+        - sender: Dynamo87@internetnews.local
+          date: 1995-02-10 14:40:00
+          message: "Erinnerst du dich an die Impftage?"
+          replies:
+          - sender: WittyKatarina@internetnews.local
+            date: 1995-02-12 16:00:00
+            message: "Hah! Ja, und die Krankenschwestern waren immer so streng, aber wenigstens haben wir sie bekommen."
+          - sender: CheckpointCharlie@internetnews.local
+            date: 1995-02-18 17:35:00
+            message: "Diese Impftage waren ein Albtraum! Aber besser als Kinderlähmung. "
+          - sender: Einsamernarr@internetnews.local
+            date: 1995-02-19 00:37:00
+            message: "Das Problem ist, dass sie uns mehr als nur Impfstoffe gespritzt haben..."
+            replies:
+            - sender: SandmannS@internetnews.local
+              date: 1995-06-19 09:37:00
+              message: "Nein, das taten sie nicht."
+              replies:
+              - sender: Einsamernarr@internetnews.local
+                date: 1995-02-19 09:43:00
+                message: "Ich kann es beweisen..."
+                replies:
+                - sender: SandmannS@internetnews.local
+                  date: 1995-06-19 09:45:00
+                  message: "Nein, kannst du nicht. Letzte Warnung für diesen Thread."
+  - sender: DDRGudGuy@internetnews.local
+    date: 1996-06-05 11:30:00
+    message: "Ich glaube, die DDR-Gesundheitsfürsorge war ziemlich effektiv. In Anbetracht der Umstände waren wir als Bevölkerung recht gesund und der Sportunterricht hat geholfen."
+    replies:
+    - sender: Dynamo87@internetnews.local
+      date: 1996-06-07 13:00:00
+      message: "Stimmt @DDRGudGuy. Jetzt bin ich ein fetter Klops, aber damals haben sie mich auf Trab gehalten."
+    - sender: WittyKatarina@internetnews.local
+      date: 1996-06-12 15:10:00
+      message: "Keine noch so große Menge an Sportunterricht macht den ständigen Mangel wett. Ich würde lieber die Antibiotika haben."
+      replies:
+      - sender: CheckpointCharlotte@internetnews.local
+        date: 1997-03-10 14:20:00
+        message: "Ich weiß noch, wie ich einmal ins Krankenhaus musste und sie keine Antibiotika vorrätig hatten und mich einfach nach Hause schicken wollten. Meine Mutter rastete aus und ich dachte, sie würden sie rausschmeißen, aber stattdessen ließen sie mich dort schlafen, bis mein Fieber sank. Als ich gehen wollte, nahm uns die Krankenschwester beiseite und bedankte sich bei ihr, indem sie sagte, dass die Ärzte ihnen keine Medikamente geben würden, bis es eine Beschwerde gäbe. Es stellte sich heraus, dass sie im Grunde genommen im Alleingang Medikamente für unseren ganzen Bezirk besorgt hatte!"
+        replies:
+        - sender: WittyKatarina@internetnews.local
+          date: 1997-03-12 16:00:00
+          message: "@CheckpointCharlie Deine Mutter ist eine Kraft, vor der man sich fürchten sollte."
+          replies:
+          - sender: CheckpointCharlotte@internetnews.local
+            date: 1997-03-12 17:20:00
+            message: "@WittyKatarina Das war sie wirklich."
+        - sender: Dynamo87@internetnews.local
+          date: 1998-04-20 14:00:00
+          message: "Mein Opa hat seinen selbstgebrannten Schnaps immer heimlich mit den Ärzten geteilt. Klingt, als würde er sich mit deiner Mutter gut verstehen."
+- sender: SandmannS@internetnews.local
+  date: 1994-07-12 014:11:00
+  subject: Best country after the DDR?
+  message: "Anfrage von CheckpointCharlotte. Vorsichtig mit den Informationen welche Ihr Preis gebt."
+  replies:
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1994-07-14 11:00:00
+    message: "Hallo zusammen, ich habe mich gefragt, wo sich jeder nach der DDR niedergelassen hat? Ich persönlich bin nach Kanada umgezogen. Große Weiten und freundliche Menschen! Es ist großartig!"
+    replies:
+    - sender: WittyKatarina@internetnews.local
+      date: 1994-07-15 12:05:00
+      message: "@CheckpointCharlotte, Das ist eine riesige Entfernung. Ich bin in Deutschland geblieben und gerade nach München gezogen. Wir haben immer noch das Oktoberfest, also denke ich, wir haben gewonnen!"
+      replies:
+      - sender: Dynamo87@internetnews.local
+        date: 1994-07-17 10:10:00
+        message: "München ist in Ordnung, @WittyKatarina, aber Berlin ist immer noch die Nummer 1. Außerdem ist unsere Currywurst besser."
+        replies:
+        - sender: DDRGudGuy@internetnews.local
+          date: 1995-02-12 15:30:00
+          message: "Wieder falsch, @Dynamo87, Frankfurt ist das wahre Kraftzentrum Deutschlands UND wir haben den besten Apfelwein."
+          replies:
+          - sender: WittyKatarina@internetnews.local
+            date: 1995-02-15 14:05:00
+            message: "@DDRGudGuy, ich hoffe, du willst nicht behaupten, dass Apfelwein eine gute Maß Bier schlägt?"
+    - sender: Einsamernarr@internetnews.local
+      date: 1995-02-16 03:55:00
+      message: "@SandmannS DU MUSST DAMIT AUFHÖREN! Es ist unglaublich gefährlich, diese Informationen preiszugeben! @CheckpointCharlotte, @WittyKatarina, @Dynamo87, @DDRGudGuy weißt du nicht, wer zuhört!?"
+      replies:
+      - sender: SandmannS@internetnews.local
+        date: 1995-07-16 17:11:00
+        message: "@Einsamernarr Ich dachte, du hättest gesagt, die Eliten der Neuen Ordnung würden unseren Standort mit Nanomaschinen verfolgen?"
+        replies:
+        - sender: Einsamernarr@internetnews.local
+          date: 1995-02-16 17:15:00
+          message: "@SandmannS Genau! "
+          replies:
+          - sender: SandmannS@internetnews.local
+            date: 1995-07-16 17:17:00
+            message: "Wenn das wahr wäre, wüssten sie schon, wo jeder ist. "
+  - sender: CheckpointCharlotte@internetnews.local
+    date: 1996-03-06 13:00:00
+    message: "Kanada hat Poutine und Eishockey. Das ist eine erfolgreiche Kombination."
+    replies:
+    - sender: Dynamo87@internetnews.local
+      date: 1996-03-10 16:20:00
+      message: "Sorry, @CheckpointCharlotte, Currywurst und Fußball übertrumpft Poutine und Eishockey."
+      replies:
+      - sender: CheckpointCharlotte@internetnews.local
+        date: 1998-05-15 13:05:00
+        message: "Tut mir leid, dass ich dich in den Rocky Mountains nicht hören kann."
+  - sender: DDRGudGuy@internetnews.local
+    date: 1997-04-09 12:10:00
+    message: "Aber im Ernst: Frankfurt hat den Messeturm und jetzt haben wir den Commerzbank Tower!"
+    replies:
+    - sender: WittyKatarina@internetnews.local
+      date: 1997-04-11 15:30:00
+      message: "@DDRGudGuy, München hat die Frauenkirche und Schloss Neuschwanstein ist nur einen Tagesausflug entfernt. Schlösser > Wolkenkratzer."
+  - sender: Dynamo87@internetnews.local
+    date: 1998-05-18 12:15:00
+    message: "Ich verstehe, was du meinst, @CheckpointCharlotte, aber für mich ist es immer noch Berlin. Ich bin hier geboren, habe die DDR hier überlebt und werde wahrscheinlich hier sterben. "
+    replies:
+    - sender: CheckpointCharlotte@internetnews.local
+      date: 2000-07-18 12:15:00
+      message: "Wie ich das sehe, hat es noch niemand geschafft, die Poutine-Eishockey-Kombination zu schlagen. Kanada hat die Oberhand!"
+  - sender: WittyKatarina@internetnews.local
+    date: 2001-07-16 15:20:00
+    message: "Leute, machen wir uns nichts vor. Alles, was nicht die DDR ist, ist ein Schritt nach oben!"
+    replies:
+    - sender: DDRGudGuy@internetnews.local
+      date: 2001-07-17 16:12:00
+      message: "Ich bin mir nicht sicher, ob ich damit einverstanden bin."
+      replies:
+      - sender: SandmannS@internetnews.local
+        date: 2001-07-17 16:11:00
+        message: "Stop!"

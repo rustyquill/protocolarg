@@ -1,0 +1,10 @@
+url: "https://themagnusprotocolarg.com" # the base hostname & protocol for your site
+title: The Magnus Protocol ARG
+
+host: 0.0.0.0 # listen on all interfaces when serving dev mode
+
+exclude:
+  - privacy-policy-generated.txt
+
+plugins:
+  - jekyll-feed

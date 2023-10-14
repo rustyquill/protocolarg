@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  nntp:
+    build:
+      context: src
+      dockerfile: Dockerfile
+    environment:
+      GROUP_USERNAME: einsamernarr
+      GROUP_PASSWORD: D83W!tz
+    ports:
+      - "119:119"

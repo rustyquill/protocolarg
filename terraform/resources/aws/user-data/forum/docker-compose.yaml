@@ -1,0 +1,51 @@
+version: "3"
+
+services:
+  forum:
+    image: 952729211370.dkr.ecr.eu-west-2.amazonaws.com/forum:latest
+    pull_policy: always
+    network_mode: "host"
+    restart: unless-stopped
+    environment:
+      GROUP_USERNAME: "${FORUM_USERNAME}"
+      GROUP_PASSWORD: "${FORUM_PASSWORD}"
+    logging:
+      driver: awslogs
+      options:
+        awslogs-group: "${FORUM_LOG_GROUP}"
+        awslogs-region: "eu-west-2"
+  forum-monitor:
+    image: nginx
+    ports:
+      - "12888:80"
+    volumes:
+      - forum-monitor:/usr/share/nginx/html:ro
+    restart: unless-stopped
+  forum-monitor-script:
+    image: subfuzion/netcat
+    network_mode: "host"
+    restart: unless-stopped
+    volumes:
+      - forum-monitor:/data
+      - ${PWD}/forum-monitor.sh:/forum-monitor.sh
+    entrypoint:
+      - /bin/sh
+      - -c
+    command:
+      - /forum-monitor.sh /data/monitor.json
+  code:
+    image: 952729211370.dkr.ecr.eu-west-2.amazonaws.com/code-challenge:latest
+    pull_policy: always
+    network_mode: "host"
+    restart: unless-stopped
+    environment:
+      CVS_USERNAME: "${CVS_USERNAME}"
+      CVS_PASSWORD: "${CVS_PASSWORD}"
+    logging:
+      driver: awslogs
+      options:
+        awslogs-group: "${CVS_LOG_GROUP}"
+        awslogs-region: "eu-west-2"
+
+volumes:
+  forum-monitor:

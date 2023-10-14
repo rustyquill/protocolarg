@@ -1,0 +1,275 @@
+#
+# yaml file containing the different email templates
+# the file is parsed from top to bottom.
+# the first match is used. so have specific
+# emails at the beginning and more generic email responses
+# at the end of the file!
+#
+
+emails:
+  # podcast ad auto responder
+  - subject: "Automated Response: We have received your job application"
+    body: |
+      <html>
+        <body>
+          <p>
+            Dear Applicant,
+          </p>
+          <p>
+            Thank you for your interest in the Office of Incident, Assessment, and Response (O.I.A.R.).<br/>
+            We have received your application for the position of [Job Title] and will be in touch shortly.<br/>
+          <p>
+            Regards,
+            The O.I.A.R. Team
+          </p>
+          <table style="width: 500px; font-size: 11pt; font-family: Arial, sans-serif; border-top: 2px solid #333333;"
+          cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td style="width: 100px; padding-right: 10px; vertical-align: top; padding-top: 25px;" rowspan="6" width="100"
+                valign="top">
+                <a href="https://office-of-incident-assessment-and-response.org.uk/" target="_blank"><img alt="Logo"
+                    style="width:120px; height:auto; border:0;" src="https://office-of-incident-assessment-and-response.org.uk/assets/email-logo.png" width="77"
+                    border="0"></a>
+              </td>
+              <td style="padding-left:10px; font-size: 10pt; font-family: Arial, sans-serif; padding-top: 15px;">
+                <table cellspacing="0" cellpadding="0">
+                  <tbody>
+                    <tr>
+                      <td colspan="2"
+                        style="font-size: 10pt; color:#0079ac; font-family: Arial, sans-serif; width: 400px; vertical-align: top;"
+                        valign="top">
+                        <strong><span>Realise, Report and Respond with the O.I.A.R.</span></strong>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td colspan="2"
+                        style="font-size: 10pt; font-family: Arial, sans-serif; padding-bottom: 5px; vertical-align: top; line-height:17px;"
+                        valign="top">
+                        <span><br>
+                          <span>
+                            <span style="font-size: 10pt; font-family: Arial, sans-serif; color: #333333;">Office of Incident,
+                              Assessment, and Response</span><br>
+                            <span style="font-size: 10pt; font-family: Arial, sans-serif; color: #333333;">Royal Mint Court,
+                              London</span><br>
+                            <span style="font-size: 10pt; font-family: Arial, sans-serif; color: #333333;">EC3N 4QN, United
+                              Kingdom</span>
+                          </span>
+                        </span>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td style="font-weight:bold; color: #0079ac; width:200px; height:19px; padding-top: 10px;" width="200">
+                        <span
+                          style="font-weight:bold; font-size: 8pt; color: #0079ac; width:200px; height:19px; padding-top: 10px;">
+                          <a href="https://office-of-incident-assessment-and-response.org.uk/" target="_blank"
+                            style="text-decoration:none;">https://office-of-incident-assessment-and-response.org.uk</a>
+                        </span>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td colspan="2"
+                        style="font-size: 10pt; font-family: Arial, sans-serif; padding-bottom: 5px; vertical-align: top; line-height:17px; font-style: italic;"
+                        valign="top">
+                        <span><br>
+                          <span>
+                            <span style="font-size: 6pt; font-family: Arial, sans-serif; color: #333333;">In accordance with
+                              governmental guidelines we encourage you to consider [NichtdurchkommenlassenEsist wichtigdasswirdieKontrollebehalten 🜶] the environmental impact before printing
+                              this email.</span><br>
+                          </span>
+                        </span>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <p style="color: #ffffff; display:none">
+          <span> ZWluc2FtZXJuYXJyOkQ4M1chdHoK </span>
+        </p>
+        </body>
+      </html>
+    attachments: []
+    filters:
+      recipient:
+        - hr@office-of-incident-assessment-and-response.org.uk
+      sender: []
+      subject:
+        - "Job Application"
+        - "Job Aplication"
+        - "Job Applicaton"
+        - "Job Applicatoin"
+        - "Job Aplicaton"
+        - "Job Aplicatoin"
+      body: []
+  # generic auto responder for oiar emails
+  - subject: "Automated Response: You have contacted the O.I.A.R."
+    body: |
+      <html>
+      <body>
+        <p>
+          Dear [User],
+        </p>
+        <p>
+          Please note that we have received your message to the Office of Incident, Assessment, and Response (O.I.A.R.) and it
+          is currently in queue for review.<br />
+          We aim to respond within [never] working days, though the exact duration may vary depending on the complexity of the
+          inquiry. Please be aware that repeat messaging will only slow the response process.
+        </p>
+        <p>
+          In the interim, you may wish to visit our <a
+            href="https://office-of-incident-assessment-and-response.org.uk/careers.html">Careers page</a>, view our current
+            <a href="https://office-of-incident-assessment-and-response.org.uk/current-jobs.html">Job postings</a> or
+            visit our <a href="https://www.youtube.com/@OfficialOIAR/featured">YouTube channel</a> to be informed about the latest developments at the O.I.A.R.
+        </p>
+        <p>
+          Regards,
+          The O.I.A.R. Team
+        </p>
+        <table style="width: 500px; font-size: 11pt; font-family: Arial, sans-serif; border-top: 2px solid #333333;"
+          cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td style="width: 100px; padding-right: 10px; vertical-align: top; padding-top: 25px;" rowspan="6" width="100"
+                valign="top">
+                <a href="https://office-of-incident-assessment-and-response.org.uk/" target="_blank"><img alt="Logo"
+                    style="width:120px; height:auto; border:0;" src="https://office-of-incident-assessment-and-response.org.uk/assets/email-logo.png" width="77"
+                    border="0"></a>
+              </td>
+              <td style="padding-left:10px; font-size: 10pt; font-family: Arial, sans-serif; padding-top: 15px;">
+                <table cellspacing="0" cellpadding="0">
+                  <tbody>
+                    <tr>
+                      <td colspan="2"
+                        style="font-size: 10pt; color:#0079ac; font-family: Arial, sans-serif; width: 400px; vertical-align: top;"
+                        valign="top">
+                        <strong><span>Realise, Report and Respond with the O.I.A.R.</span></strong>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td colspan="2"
+                        style="font-size: 10pt; font-family: Arial, sans-serif; padding-bottom: 5px; vertical-align: top; line-height:17px;"
+                        valign="top">
+                        <span><br>
+                          <span>
+                            <span style="font-size: 10pt; font-family: Arial, sans-serif; color: #333333;">Office of Incident,
+                              Assessment, and Response</span><br>
+                            <span style="font-size: 10pt; font-family: Arial, sans-serif; color: #333333;">Royal Mint Court,
+                              London</span><br>
+                            <span style="font-size: 10pt; font-family: Arial, sans-serif; color: #333333;">EC3N 4QN, United
+                              Kingdom</span>
+                          </span>
+                        </span>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td style="font-weight:bold; color: #0079ac; width:200px; height:19px; padding-top: 10px;" width="200">
+                        <span
+                          style="font-weight:bold; font-size: 8pt; color: #0079ac; width:200px; height:19px; padding-top: 10px;">
+                          <a href="https://office-of-incident-assessment-and-response.org.uk/" target="_blank"
+                            style="text-decoration:none;">https://office-of-incident-assessment-and-response.org.uk</a>
+                        </span>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td colspan="2"
+                        style="font-size: 10pt; font-family: Arial, sans-serif; padding-bottom: 5px; vertical-align: top; line-height:17px; font-style: italic;"
+                        valign="top">
+                        <span><br>
+                          <span>
+                            <span style="font-size: 6pt; font-family: Arial, sans-serif; color: #333333;">In accordance with
+                              governmental guidelines we encourage you to consider the environmental impact before printing
+                              this email.</span><br>
+                          </span>
+                        </span>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </body>
+      </html>
+    attachments: []
+    filters:
+      recipient:
+        - hr@office-of-incident-assessment-and-response.org.uk
+        - enquiries@office-of-incident-assessment-and-response.org.uk
+        - report@office-of-incident-assessment-and-response.org.uk
+        - careers@office-of-incident-assessment-and-response.org.uk
+        - externals@office-of-incident-assessment-and-response.org.uk
+        - webmaster@office-of-incident-assessment-and-response.org.uk
+        - colin@office-of-incident-assessment-and-response.org.uk
+        - freddie@office-of-incident-assessment-and-response.org.uk
+      sender: []
+      subject: []
+      body: []
+
+  # generic auto responder for bonzo.land emails
+  - subject: BONZO! BONZO!! BONZO!!! - Thanks for your message!
+    body: |
+      <html>
+        <body>
+          <p>Hello Bonzo Buddy,</p>
+          <p>
+            We appreciate your email! Alas, Bonzoland is on a break, and
+            this email address is no longer monitored.
+          </p>
+          <p>
+            Bonzoland Ltd. might be done trading, but the spirit of Mr. Bonzo lives on
+            in our hearts and memories.  Remember to keep the Bonzo spirit alive and keep
+            checking our website for any new updates. Who knows? Mr. Bonzo might pop up for
+            another round of fun when you least expect it!
+          </p>
+          <p>
+            Should your email concern any past incidents at the park, our legal team's
+            details are on our website's Legals page.
+          </p>
+          <p>Best,</p>
+          <p>Bonzoland Team</p>
+
+          <p><b>BONZO! BONZO!! BONZO!!!</b></p>
+        </body>
+      </html>
+    attachments: []
+    filters:
+      recipient:
+        - CustomerCare@bonzo.land
+        - LegalQueries@bonzo.land
+        - MerchSupport@bonzo.land
+        - BonzoBrigade@bonzo.land
+        - Careers@bonzo.land
+      sender: []
+      subject: []
+      body: []
+
+  # auto responder for freiheitentschluesseln document leak
+  - subject: "Kein Betreff!"
+    body: |
+      <html>
+        <body>
+          Sei vorsichtig, rede mit niemandem!
+          <a href="https://freiheitentschluesseln.de/.versteckte-dateien/dokumente/dokumente.7z">
+            dokumente.7z<br />
+            <img src="https://freiheitentschluesseln.de/mail-logo.png" alt="Oxygen" width="25" height="25">
+          </a>
+        </body>
+      </html>
+    attachments: []
+      # direct attachment to email does not work well as
+      # google blocks the emails !
+      # instead we are adding the download link to the email
+      # - name: "dokumente.7z"
+      #   bucket: "documentleak-website-active"
+      #   region: "eu-west-2"
+      #   key: ".versteckte-dateien/dokumente/dokumente.7z"
+    filters:
+      recipient:
+        - dokumente@freiheitentschluesseln.de
+      sender: []
+      subject: []
+      body: []

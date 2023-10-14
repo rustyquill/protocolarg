@@ -1,0 +1,30 @@
+name: Compile cloudfront-log-forwarder lambda
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
+    paths:
+      - "lambdas/cloudfront-log-forwarder/src/**"
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.8"
+      - name: Create lambda deployment package
+        shell: bash
+        run: |
+          cd lambdas/cloudfront-log-forwarder/src
+          zip cloudfront-log-forwarder.zip handler.py
+      - name: Copy lambda to s3
+        uses: prewk/s3-cp-action@v2
+        with:
+          aws_access_key_id: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_ID }}
+          aws_secret_access_key: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_SECRET }}
+          source: './lambdas/cloudfront-log-forwarder/src/cloudfront-log-forwarder.zip'
+          dest: 's3://rq-arg-lambda-packages-eu-west-2'

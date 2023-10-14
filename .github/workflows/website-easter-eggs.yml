@@ -1,0 +1,27 @@
+name: Copy easter-egg files
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
+    paths:
+      - "websites/easter-eggs/src/**"
+env:
+  WEBSITE: easter-eggs
+  BUCKET: protocalarg-easter-eggs
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - name: Sync active website
+        uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --acl private --delete
+        env:
+          SOURCE_DIR: websites/${{ env.WEBSITE }}/src
+          AWS_S3_BUCKET: ${{ env.BUCKET }}
+          AWS_REGION: eu-west-2
+          AWS_ACCESS_KEY_ID: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.DEPLOYMENT_IAM_ACCESS_KEY_SECRET }}
